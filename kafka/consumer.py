@@ -1,3 +1,9 @@
+"""
+Kafka Consumer
+Reads raw traffic sensor events from the 'traffic-sensors' topic,
+validates each record against a required schema, and writes valid records
+to HDFS in partitioned batches. Invalid records are quarantined separately.
+"""
 import json
 import os
 import time
@@ -5,7 +11,7 @@ from datetime import datetime
 from kafka import KafkaConsumer
 import subprocess
 
-# ── HDFS helper ───────────────────────────────────────────────────────────────
+# ── HDFS Helpers ──────────────────────────────────────────────────────────────
 def hdfs_write(local_path, hdfs_path):
     subprocess.run(
         ["hdfs", "dfs", "-put", "-f", local_path, hdfs_path],
@@ -16,7 +22,10 @@ def hdfs_mkdir(path):
     subprocess.run(["hdfs", "dfs", "-mkdir", "-p", path],
                    capture_output=True)
 
-# ── schema validation ─────────────────────────────────────────────────────────
+# ── Schema Validation ─────────────────────────────────────────────────────────
+
+# Fields every incoming record must contain, mapped to their expected Python type.
+# Tuple values allow multiple acceptable types (e.g. int or float for numeric fields).
 REQUIRED_FIELDS = {
     "event_id":       str,
     "timestamp":      str,
@@ -30,6 +39,11 @@ REQUIRED_FIELDS = {
 }
 
 def validate(record):
+    """
+    Check a parsed record against the required schema and value constraints.
+    Returns a (is_valid, reason) tuple — reason is 'ok' on success,
+    or a short error code describing the first failure found.
+    """
     if not isinstance(record, dict):
         return False, "not_a_dict"
     for field, expected_type in REQUIRED_FIELDS.items():
@@ -48,9 +62,14 @@ def validate(record):
         return False, "invalid_congestion_value"
     return True, "ok"
 
-# ── batch writer ──────────────────────────────────────────────────────────────
+# ── Batch Writer ──────────────────────────────────────────────────────────────
 class BatchWriter:
     def __init__(self, hdfs_base, batch_size=100, flush_interval=30):
+        """
+        Buffer valid and invalid records into separate batches.
+        A flush is triggered when either batch reaches batch_size records
+        or flush_interval seconds have elapsed since the last flush.
+        """
         self.hdfs_base      = hdfs_base
         self.batch_size     = batch_size
         self.flush_interval = flush_interval
@@ -78,6 +97,8 @@ class BatchWriter:
         ts   = datetime.utcnow()
         date = ts.strftime("%Y-%m-%d")
         hour = ts.strftime("%H")
+
+        # Valid records are written to a date/hour partition for downstream Spark jobs.
         if self.good_batch:
             self._write_batch(
                 self.good_batch,
@@ -85,6 +106,8 @@ class BatchWriter:
             )
             self.total_good += len(self.good_batch)
             self.good_batch  = []
+
+        # Invalid records are written to a date-level quarantine partition for review.
         if self.bad_batch:
             self._write_batch(
                 self.bad_batch,
@@ -92,6 +115,7 @@ class BatchWriter:
             )
             self.total_bad += len(self.bad_batch)
             self.bad_batch  = []
+
         self.last_flush = time.time()
         print(f"[Consumer] Flushed — total good: {self.total_good}  bad: {self.total_bad}")
 
@@ -107,8 +131,13 @@ class BatchWriter:
         finally:
             os.remove(local_tmp)
 
-# ── main consumer loop ────────────────────────────────────────────────────────
+# ── Main Consumer Loop ────────────────────────────────────────────────────────
 def run():
+    """
+    Start the Kafka consumer, validate each incoming message, and route it
+    through the BatchWriter. Logs a progress summary every 50 messages
+    and performs a final flush on shutdown.
+    """
     consumer = KafkaConsumer(
         "traffic-sensors",
         bootstrap_servers="localhost:9092",

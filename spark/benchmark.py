@@ -1,6 +1,6 @@
 """
-Scalability Benchmark — Phase 3, Step 4
-Runs ETL + Feature Engineering at 1x, 10x, 100x scale.
+Scalability Benchmark
+Runs ETL + Feature Engineering at 1x, 10x, and 100x scale.
 Records time, throughput, and data quality metrics.
 Results saved to data/benchmark_results.json
 """
@@ -36,6 +36,7 @@ WEATHER_CONDS = ["clear","foggy","rainy","dusty","hot"]
 CONGESTION    = ["low","medium","high","critical"]
 
 def random_ts(days_back=30):
+    """Return a random UTC ISO timestamp within the last days_back days."""
     base = datetime.utcnow() - timedelta(days=random.randint(0, days_back))
     return base.replace(
         hour=random.randint(0,23),

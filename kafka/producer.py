@@ -1,3 +1,9 @@
+"""
+Kafka Producer
+Generates and streams synthetic traffic sensor events to the 'traffic-sensors' topic.
+Supports two modes: normal event generation and adversarial injection,
+where a configurable fraction of records are deliberately malformed for pipeline stress-testing.
+"""
 import json
 import time
 import random
@@ -6,7 +12,7 @@ import argparse
 from datetime import datetime
 from kafka import KafkaProducer
 
-# ── realistic data pools ───────────────────────────────────────────────────────
+# ── Data Pools ────────────────────────────────────────────────────────────────
 INTERSECTIONS = [
     "King_Road_x_Palestine", "Haram_Road_x_Madinah", "Tahlia_x_MBS",
     "Corniche_x_Andalus", "Prince_Sultan_x_Sari", "Al_Hamra_x_Falastin",
@@ -23,6 +29,12 @@ WEATHER_CONDS  = ["clear", "foggy", "rainy", "dusty", "hot"]
 CONGESTION_LVL = ["low", "medium", "high", "critical"]
 
 def make_event(adversarial=False, burst=False):
+    """
+    Build a single traffic sensor event dict.
+    If adversarial is True, randomly corrupt the event to simulate bad data
+    (null fields, malformed JSON, duplicate IDs, or wrong field types).
+    The burst parameter is reserved for future rate-spike behaviour.
+    """
     intersection = random.choice(INTERSECTIONS)
     event = {
         "event_id":        str(uuid.uuid4()),
@@ -39,7 +51,7 @@ def make_event(adversarial=False, burst=False):
         "record_type":     "normal"
     }
 
-    # ── adversarial injection ──────────────────────────────────────────────────
+    # ── Adversarial Injection ─────────────────────────────────────────────────
     if adversarial:
         fault = random.choice(["null_fields", "corrupt_json", "duplicate", "wrong_type"])
 
@@ -64,6 +76,11 @@ def make_event(adversarial=False, burst=False):
     return event
 
 def run(rate=10, adversarial_pct=0.0, burst=False, total=None):
+    """
+    Stream events to Kafka at the given rate (events per second).
+    adversarial_pct controls the fraction of deliberately malformed records (0.0–1.0).
+    Runs indefinitely until interrupted, or stops after total events if total is set.
+    """
     producer = KafkaProducer(
         bootstrap_servers="localhost:9092",
         value_serializer=lambda v: (
@@ -107,5 +124,6 @@ if __name__ == "__main__":
     parser.add_argument("--total",      type=int,   default=None,help="Stop after N events")
     args = parser.parse_args()
 
+    # Burst mode multiplies the base rate by 10x to simulate traffic spikes.
     actual_rate = args.rate * 10 if args.burst else args.rate
     run(rate=actual_rate, adversarial_pct=args.adversarial, burst=args.burst, total=args.total)

@@ -1,0 +1,4202 @@
+[
+  {
+    "protocol_id": "464a03b0-7fdb-4dfe-8fcb-e4c524a1559f",
+    "type": "ambulance",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 28
+  },
+  {
+    "protocol_id": "749c7d29-d19c-4fed-b296-d4961b229651",
+    "type": "mass_casualty",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 47
+  },
+  {
+    "protocol_id": "d132875e-84a9-4945-8d02-7199088b8d99",
+    "type": "vip",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 15
+  },
+  {
+    "protocol_id": "7f1bc0c1-677f-41fe-b08c-0df40f962c0b",
+    "type": "ambulance",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 65
+  },
+  {
+    "protocol_id": "813a4110-555c-48d1-9abd-9ed1f0ce3aff",
+    "type": "police",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 46
+  },
+  {
+    "protocol_id": "cca976b8-54aa-496a-83a7-79c2c55a9446",
+    "type": "ambulance",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 40
+  },
+  {
+    "protocol_id": "c0a440be-a538-472b-9deb-99fd9972e26f",
+    "type": "mass_casualty",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 36
+  },
+  {
+    "protocol_id": "645c2a30-e584-47ec-a12c-509c3547b2b4",
+    "type": "police",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 116
+  },
+  {
+    "protocol_id": "db5f0be0-2150-4195-8d3b-f14a979e0c56",
+    "type": "ambulance",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 60
+  },
+  {
+    "protocol_id": "56467ddc-2742-44b3-a6f8-50498407f548",
+    "type": "mass_casualty",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 78
+  },
+  {
+    "protocol_id": "6c26d057-cce4-4850-9f94-ae8c2441817c",
+    "type": "ambulance",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 28
+  },
+  {
+    "protocol_id": "40da8995-c90a-4cb3-b24e-71544561d758",
+    "type": "mass_casualty",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 104
+  },
+  {
+    "protocol_id": "bbd644d5-dc54-4d5e-b896-2dc76d605b75",
+    "type": "mass_casualty",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 95
+  },
+  {
+    "protocol_id": "06936571-486e-46fa-b692-8b2cc3784b79",
+    "type": "vip",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 31
+  },
+  {
+    "protocol_id": "6f94f43c-3ac5-4bb8-871a-fa5d0603aae6",
+    "type": "fire",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 19
+  },
+  {
+    "protocol_id": "8631afda-ef0f-4ace-96c9-6b110aa42f54",
+    "type": "ambulance",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 116
+  },
+  {
+    "protocol_id": "0fb8aa2a-a34f-4ae2-a171-5822af35ccb1",
+    "type": "fire",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 91
+  },
+  {
+    "protocol_id": "6c8d38e9-a278-4e05-bc2b-cb33637488b3",
+    "type": "ambulance",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 72
+  },
+  {
+    "protocol_id": "540912ec-dae7-4e63-99e4-b9426f53404f",
+    "type": "vip",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 78
+  },
+  {
+    "protocol_id": "5a3cad28-6094-4330-9ef1-ae8d5ae6add5",
+    "type": "fire",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 23
+  },
+  {
+    "protocol_id": "69d47a53-c6eb-46e7-9072-3ad2ff6ffa0d",
+    "type": "fire",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 43
+  },
+  {
+    "protocol_id": "f75f5b34-7135-4ff8-bc12-8331c18bc892",
+    "type": "vip",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 63
+  },
+  {
+    "protocol_id": "6432bfd6-3571-4ec4-9950-a8c02ce9fd59",
+    "type": "fire",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 83
+  },
+  {
+    "protocol_id": "e42cb906-5f26-4656-8aad-2344cd8335fe",
+    "type": "vip",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 53
+  },
+  {
+    "protocol_id": "137bfe32-30fe-4c1c-bbf2-9a24264c5fce",
+    "type": "mass_casualty",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 110
+  },
+  {
+    "protocol_id": "9aeedca5-3abe-446e-89f2-9a688ee35610",
+    "type": "vip",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 66
+  },
+  {
+    "protocol_id": "4d862a64-bc8e-48ba-8535-d0d07cbf01c8",
+    "type": "fire",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 107
+  },
+  {
+    "protocol_id": "4426d07e-dda5-441b-94ab-deb2e45bda9a",
+    "type": "mass_casualty",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 120
+  },
+  {
+    "protocol_id": "41443f8f-d8f5-4c92-8517-58a31d129a1d",
+    "type": "fire",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 115
+  },
+  {
+    "protocol_id": "c08d3552-530e-408a-ba94-87575c69b63e",
+    "type": "vip",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 41
+  },
+  {
+    "protocol_id": "cca3d2fd-f721-4528-a3b1-67e22d91c028",
+    "type": "ambulance",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 118
+  },
+  {
+    "protocol_id": "714a8601-553b-4d32-af2f-12f848622cc5",
+    "type": "vip",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 32
+  },
+  {
+    "protocol_id": "c92bd9a6-b578-40ac-9bde-a45144d4c44b",
+    "type": "vip",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 97
+  },
+  {
+    "protocol_id": "6d27821d-104e-4b0b-8c7c-fc463c2e6007",
+    "type": "police",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 62
+  },
+  {
+    "protocol_id": "1b55a001-a54e-4771-bbcc-56d4c4bc444e",
+    "type": "ambulance",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 53
+  },
+  {
+    "protocol_id": "3884e9c1-8fbd-4c9c-ba0c-648b6c106c64",
+    "type": "fire",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 83
+  },
+  {
+    "protocol_id": "38f71c9a-1185-4c69-8a1d-8995c2af8c5b",
+    "type": "mass_casualty",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 104
+  },
+  {
+    "protocol_id": "b2d6845b-59f6-41cd-a7b1-1de302ac6d06",
+    "type": "ambulance",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 73
+  },
+  {
+    "protocol_id": "d294fb18-af4d-4dfd-9c64-2ce55e478efb",
+    "type": "vip",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 79
+  },
+  {
+    "protocol_id": "7caa76da-6cbd-4ac7-92ef-c4b9983b7176",
+    "type": "mass_casualty",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 61
+  },
+  {
+    "protocol_id": "0d5d24f7-dd68-46f9-b73a-924e39ea71ed",
+    "type": "ambulance",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 68
+  },
+  {
+    "protocol_id": "e83d8834-25fc-403f-9ca4-1289a013e0ed",
+    "type": "mass_casualty",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 99
+  },
+  {
+    "protocol_id": "b9b1ae51-18d5-4b11-8482-1f838ccf7e5e",
+    "type": "ambulance",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 61
+  },
+  {
+    "protocol_id": "95a2be20-8bb0-433a-bf95-7c77c7be2624",
+    "type": "mass_casualty",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 40
+  },
+  {
+    "protocol_id": "fa1a4ed4-2819-4930-94cc-6e07af8864fd",
+    "type": "mass_casualty",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 76
+  },
+  {
+    "protocol_id": "ad2be975-9d22-4b9d-a406-96be34a88dbc",
+    "type": "fire",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 120
+  },
+  {
+    "protocol_id": "a76f80f8-ce96-442a-a827-cdd0a800f308",
+    "type": "ambulance",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 56
+  },
+  {
+    "protocol_id": "7fea0fbd-8e5b-4825-a93e-d4cf1db125a9",
+    "type": "ambulance",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 58
+  },
+  {
+    "protocol_id": "9cb1c0ba-c426-4c7f-8cbb-c5ad75119f44",
+    "type": "vip",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 28
+  },
+  {
+    "protocol_id": "356bdb33-31fc-4236-b1a3-477da32df818",
+    "type": "ambulance",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 94
+  },
+  {
+    "protocol_id": "2cda203c-1b8c-4f87-a7f8-0120a0c133ba",
+    "type": "fire",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 33
+  },
+  {
+    "protocol_id": "cf652d06-248a-4ba3-b100-8c9316b86632",
+    "type": "fire",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 90
+  },
+  {
+    "protocol_id": "d6e2dc6c-ef7d-45d4-bc94-c5ab2f2c0590",
+    "type": "police",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 51
+  },
+  {
+    "protocol_id": "eeefaae7-644a-4b7d-ad53-ba1aebbaa8bc",
+    "type": "fire",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 21
+  },
+  {
+    "protocol_id": "eab9eb92-d9e1-4c6c-8f3d-39c9aa6eb435",
+    "type": "mass_casualty",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 96
+  },
+  {
+    "protocol_id": "a73fd27a-0d56-4d4d-9567-3940145b65a5",
+    "type": "police",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 11
+  },
+  {
+    "protocol_id": "ae036c0c-d7dc-47a1-942d-8611fe7e9f08",
+    "type": "police",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 79
+  },
+  {
+    "protocol_id": "ac8e1806-eed0-4799-aadd-08081ee78429",
+    "type": "mass_casualty",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 23
+  },
+  {
+    "protocol_id": "0a88bcb6-3a95-4b65-bd61-508962e7dc69",
+    "type": "police",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 61
+  },
+  {
+    "protocol_id": "f1764472-a6cc-44cf-b57e-2f9b275c454f",
+    "type": "vip",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 29
+  },
+  {
+    "protocol_id": "2f654ba6-249d-47e6-a827-52ba921d54d1",
+    "type": "ambulance",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 76
+  },
+  {
+    "protocol_id": "42d8b433-3dcd-4ee1-bfa4-8b4e7a6cf797",
+    "type": "fire",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 19
+  },
+  {
+    "protocol_id": "f89e4b3d-fe6c-4daa-9270-161456f5caac",
+    "type": "vip",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 27
+  },
+  {
+    "protocol_id": "3b54ab00-c240-4ba8-bfe0-2179e0a40dcc",
+    "type": "police",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 82
+  },
+  {
+    "protocol_id": "ff2f450d-3406-4769-b7b9-9bbe47b21024",
+    "type": "mass_casualty",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 68
+  },
+  {
+    "protocol_id": "5bd4b905-a5cc-4580-be4e-786453cb37ad",
+    "type": "vip",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 15
+  },
+  {
+    "protocol_id": "be103e10-81af-4dab-8382-661584bfbc7d",
+    "type": "vip",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 85
+  },
+  {
+    "protocol_id": "44517fef-91c9-49d6-8aaa-051d0a28970e",
+    "type": "vip",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 108
+  },
+  {
+    "protocol_id": "1f4c78ae-14e7-4617-aff3-8a0eac7b0aaf",
+    "type": "police",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 40
+  },
+  {
+    "protocol_id": "7494b27e-c012-47e7-bf9f-6346fa5abb3e",
+    "type": "mass_casualty",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 89
+  },
+  {
+    "protocol_id": "32d7978b-4cae-4024-bd5b-b83c6aa3e0a7",
+    "type": "vip",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 79
+  },
+  {
+    "protocol_id": "04c2d5bf-d1ca-4ffb-8194-989aa1e140c6",
+    "type": "police",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 110
+  },
+  {
+    "protocol_id": "63bb742d-cee5-4117-bb9a-aa9c6560ceea",
+    "type": "vip",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 12
+  },
+  {
+    "protocol_id": "88160237-5899-4efd-9e0a-735741f218e1",
+    "type": "fire",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 26
+  },
+  {
+    "protocol_id": "c141a0ba-29e6-4654-97d1-978bf98beec0",
+    "type": "ambulance",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 118
+  },
+  {
+    "protocol_id": "e8f14d2c-3992-40da-986d-903e75714849",
+    "type": "police",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 112
+  },
+  {
+    "protocol_id": "36e7cdd9-a84c-4fde-80a5-05a330741c09",
+    "type": "ambulance",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 87
+  },
+  {
+    "protocol_id": "7082beb9-a68a-4d84-90c5-46b097ca386e",
+    "type": "fire",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 94
+  },
+  {
+    "protocol_id": "39484073-345c-4c67-8b46-79bf02ac5bbd",
+    "type": "vip",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 65
+  },
+  {
+    "protocol_id": "cb4854af-6c3d-4955-bcc8-762f7a6f3d83",
+    "type": "vip",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 101
+  },
+  {
+    "protocol_id": "143231ed-28a5-41a4-829b-db127ee6299d",
+    "type": "police",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 74
+  },
+  {
+    "protocol_id": "79882968-0527-4752-ab32-0fdc6cb645fc",
+    "type": "police",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 92
+  },
+  {
+    "protocol_id": "8bd5f5cd-6ec7-4659-a342-a615553f0ea2",
+    "type": "fire",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 48
+  },
+  {
+    "protocol_id": "5ef89b6f-752e-4a11-b018-54ce6b1a1f79",
+    "type": "vip",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 53
+  },
+  {
+    "protocol_id": "31b58e6c-67cd-4ef0-8a2c-5df363a1044d",
+    "type": "vip",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 75
+  },
+  {
+    "protocol_id": "cf60a068-eb15-44b3-a1d6-31a93de83386",
+    "type": "vip",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 90
+  },
+  {
+    "protocol_id": "26a1a2cd-e6bb-4b0c-828c-25cdf56bcd3d",
+    "type": "ambulance",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 92
+  },
+  {
+    "protocol_id": "737ca9bc-1a3c-4409-8abe-f03e863f7a68",
+    "type": "ambulance",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 46
+  },
+  {
+    "protocol_id": "e2335f62-58af-41ba-b63e-e81e481a21c5",
+    "type": "police",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 67
+  },
+  {
+    "protocol_id": "e7a94b54-c354-48df-9985-d2f46db364c2",
+    "type": "vip",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 74
+  },
+  {
+    "protocol_id": "3b5acc95-c805-4e90-8c52-87cf1eb15347",
+    "type": "mass_casualty",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 113
+  },
+  {
+    "protocol_id": "1fa769c6-3df6-4121-8a3e-efcee74b98e6",
+    "type": "ambulance",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 98
+  },
+  {
+    "protocol_id": "0b1cda9a-3bf8-48b6-a38a-787c13580169",
+    "type": "mass_casualty",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 21
+  },
+  {
+    "protocol_id": "ee627325-1853-40dd-af15-de0e35e2c647",
+    "type": "police",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 32
+  },
+  {
+    "protocol_id": "7c84ae03-b2b4-412d-9c1e-d93f147fb783",
+    "type": "fire",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 79
+  },
+  {
+    "protocol_id": "baf9a8f2-7193-448f-9b37-595dff4b141b",
+    "type": "mass_casualty",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 67
+  },
+  {
+    "protocol_id": "a8fdd9a8-1624-49d4-b75f-99617f3db1a9",
+    "type": "mass_casualty",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 71
+  },
+  {
+    "protocol_id": "f02605a6-e5e4-4a4b-b901-dfea8ba25ee2",
+    "type": "fire",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 79
+  },
+  {
+    "protocol_id": "4162edcf-033d-4a3a-94d0-150c92d51ca2",
+    "type": "fire",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 13
+  },
+  {
+    "protocol_id": "4a2a0c6d-224c-40c0-abec-76308faf7571",
+    "type": "vip",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 67
+  },
+  {
+    "protocol_id": "3a0d66b0-a775-4c3c-8c82-3f7aafba6861",
+    "type": "police",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 58
+  },
+  {
+    "protocol_id": "7bd2f4f5-437c-418f-91a1-9a7ec78e2d94",
+    "type": "ambulance",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 88
+  },
+  {
+    "protocol_id": "e130de5e-0cba-4029-82fe-be1cc64d2f4f",
+    "type": "ambulance",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 102
+  },
+  {
+    "protocol_id": "c5abcdd3-32f9-4566-8b9d-8efdf6a94d5c",
+    "type": "mass_casualty",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 73
+  },
+  {
+    "protocol_id": "d8fef1fe-4345-4892-b6de-d649032bc2f0",
+    "type": "vip",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 78
+  },
+  {
+    "protocol_id": "a4a35764-c2f1-44dd-be98-7587cc6bf0fa",
+    "type": "mass_casualty",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 59
+  },
+  {
+    "protocol_id": "6cb47a16-b7da-49ff-a4e6-98bbed6b6b85",
+    "type": "vip",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 29
+  },
+  {
+    "protocol_id": "70c6557c-7559-4d90-b599-5d903c7d1f07",
+    "type": "vip",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 83
+  },
+  {
+    "protocol_id": "741c72e1-7ec8-47b0-aee6-9484a52a64bc",
+    "type": "mass_casualty",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 74
+  },
+  {
+    "protocol_id": "0dad94e8-90bb-42eb-a408-72b63547793f",
+    "type": "mass_casualty",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 101
+  },
+  {
+    "protocol_id": "38481e6d-564d-49e2-8565-5bd2df910649",
+    "type": "fire",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 117
+  },
+  {
+    "protocol_id": "b99d472a-d7ee-4dd7-a81f-2e08917cef72",
+    "type": "fire",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 50
+  },
+  {
+    "protocol_id": "56a6b690-5b0f-4aa2-a7cc-fa9363f4c467",
+    "type": "vip",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 83
+  },
+  {
+    "protocol_id": "e455087b-fd56-4518-a050-5df4d75db2a6",
+    "type": "fire",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 73
+  },
+  {
+    "protocol_id": "2e84540a-50c9-4ead-b6e0-37dbc5515a27",
+    "type": "ambulance",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 111
+  },
+  {
+    "protocol_id": "1a415b89-f4b9-4058-9819-0a670e581249",
+    "type": "vip",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 50
+  },
+  {
+    "protocol_id": "79bca83f-ccb7-49d4-ae10-e8f62e350a69",
+    "type": "vip",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 10
+  },
+  {
+    "protocol_id": "0cd58769-04e6-4e5d-851b-65d9c7b076de",
+    "type": "mass_casualty",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 92
+  },
+  {
+    "protocol_id": "adf2b026-f9a1-4df8-9aa1-173cbd7fcfd9",
+    "type": "fire",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 97
+  },
+  {
+    "protocol_id": "cad37666-bd3b-4703-ac42-772500ac6d6a",
+    "type": "fire",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 57
+  },
+  {
+    "protocol_id": "3c587056-6330-4b32-ad58-2a49ba94921c",
+    "type": "ambulance",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 99
+  },
+  {
+    "protocol_id": "f57c0639-142d-481f-9da2-0d50b6804644",
+    "type": "police",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 13
+  },
+  {
+    "protocol_id": "636e873d-b22b-4100-81d5-94e813a711ad",
+    "type": "police",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 106
+  },
+  {
+    "protocol_id": "0afe605e-5139-4e58-bcfb-7c04b0a411c6",
+    "type": "mass_casualty",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 58
+  },
+  {
+    "protocol_id": "68d04a4d-5762-4241-8a57-9b9cec38c8e2",
+    "type": "vip",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 52
+  },
+  {
+    "protocol_id": "0a2a9544-26f5-41ae-aa39-66169717b3d7",
+    "type": "mass_casualty",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 82
+  },
+  {
+    "protocol_id": "49445ae2-f02b-44c1-8d35-60afbc2cf576",
+    "type": "ambulance",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 13
+  },
+  {
+    "protocol_id": "a8ad1c39-9bd3-4f1b-bdef-c96cd597d0ad",
+    "type": "ambulance",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 31
+  },
+  {
+    "protocol_id": "12c8ae9a-326c-4cdb-aafd-9425e778556f",
+    "type": "police",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 79
+  },
+  {
+    "protocol_id": "61911f5d-332e-4b18-9e0a-12ec571d5a41",
+    "type": "fire",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 109
+  },
+  {
+    "protocol_id": "ea19f909-905b-4ef0-8949-4250a6250d7b",
+    "type": "police",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 119
+  },
+  {
+    "protocol_id": "5f36dbfe-ebfe-4cb7-9811-96aad4da40d8",
+    "type": "police",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 44
+  },
+  {
+    "protocol_id": "5567a3bd-61b3-45dc-9d0d-1d5877d412c7",
+    "type": "police",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 33
+  },
+  {
+    "protocol_id": "ccf567a0-7fd7-42d5-b5c6-f2e6ff42ff59",
+    "type": "vip",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 60
+  },
+  {
+    "protocol_id": "74d7e80c-715c-42d6-b15d-0574899befe2",
+    "type": "mass_casualty",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 85
+  },
+  {
+    "protocol_id": "01c2f031-6c24-4cba-b714-a36065f295a0",
+    "type": "mass_casualty",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 35
+  },
+  {
+    "protocol_id": "054c7938-0a7a-4f8f-9368-48c87674cb25",
+    "type": "fire",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 55
+  },
+  {
+    "protocol_id": "029e21d4-e975-4d27-a6a8-fe2f6e61f916",
+    "type": "vip",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 47
+  },
+  {
+    "protocol_id": "04eb38f5-0180-4f5c-972b-7911e73b3480",
+    "type": "fire",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 91
+  },
+  {
+    "protocol_id": "ee959154-30cd-434a-a74a-ccf17335c48c",
+    "type": "fire",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 91
+  },
+  {
+    "protocol_id": "9a513c49-a66f-4a38-9ef4-c6391edbdd45",
+    "type": "fire",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 97
+  },
+  {
+    "protocol_id": "0d3b231c-ce83-44e8-a1f5-2ba903fc8565",
+    "type": "vip",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 104
+  },
+  {
+    "protocol_id": "d2d02f03-2a7f-4532-84a5-f42c8ef94460",
+    "type": "vip",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 118
+  },
+  {
+    "protocol_id": "93022264-6233-4830-b267-f8111d53c194",
+    "type": "police",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 111
+  },
+  {
+    "protocol_id": "b2b17edd-5445-46a6-ad41-e117822b273c",
+    "type": "mass_casualty",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 116
+  },
+  {
+    "protocol_id": "60a974a5-0682-403a-9cd0-8eee15555bba",
+    "type": "fire",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 120
+  },
+  {
+    "protocol_id": "82102e14-2654-4947-8738-6828cd5172f6",
+    "type": "fire",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 79
+  },
+  {
+    "protocol_id": "32e93c1d-1932-4737-b22d-608a2c8f047b",
+    "type": "vip",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 23
+  },
+  {
+    "protocol_id": "d395c8b0-eeda-434f-83f1-6f0ab08201e9",
+    "type": "police",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 61
+  },
+  {
+    "protocol_id": "496ab5a7-1560-4a62-b9be-1c3cd12f9ba7",
+    "type": "fire",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 43
+  },
+  {
+    "protocol_id": "24e519f9-654e-4723-9114-c0c94d7fcee3",
+    "type": "ambulance",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 97
+  },
+  {
+    "protocol_id": "eac0bd03-50de-475b-924f-a7ff0b6256b3",
+    "type": "police",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 33
+  },
+  {
+    "protocol_id": "f96d146d-faad-4a0e-a995-a01db0d52d0c",
+    "type": "vip",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 107
+  },
+  {
+    "protocol_id": "43f4d10f-7869-4455-bcf7-765f32adc46b",
+    "type": "police",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 102
+  },
+  {
+    "protocol_id": "93c7dcf9-7dff-4944-9a92-a008c6a958ab",
+    "type": "mass_casualty",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 32
+  },
+  {
+    "protocol_id": "48e900d0-50c8-4328-aead-3ef6726d300b",
+    "type": "police",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 59
+  },
+  {
+    "protocol_id": "41b4e441-cfbe-405c-af52-a5cc80c2a9b8",
+    "type": "fire",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 83
+  },
+  {
+    "protocol_id": "c919f4b8-3c6c-41f4-b0d1-45a54867eb87",
+    "type": "fire",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 61
+  },
+  {
+    "protocol_id": "502cd157-097f-4e87-80e1-182efd7e79e2",
+    "type": "vip",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 38
+  },
+  {
+    "protocol_id": "4abea654-79f7-4949-8e1a-805aea4bbc35",
+    "type": "fire",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 53
+  },
+  {
+    "protocol_id": "a42bcdd2-1af6-4b4a-9ca7-44fd9f563b05",
+    "type": "vip",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 87
+  },
+  {
+    "protocol_id": "8c119a27-9928-46f9-a823-affebceeb447",
+    "type": "police",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 23
+  },
+  {
+    "protocol_id": "a4b7c15e-aeb8-409e-b009-f5b0ea4a045d",
+    "type": "fire",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 120
+  },
+  {
+    "protocol_id": "e797bb65-38c2-476b-b4c2-900dda9483b6",
+    "type": "vip",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 23
+  },
+  {
+    "protocol_id": "9e59e66b-bf2d-4087-a567-54452108cfbf",
+    "type": "vip",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 100
+  },
+  {
+    "protocol_id": "cdf4d044-c1cb-4eed-9401-7c72914a33a0",
+    "type": "mass_casualty",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 57
+  },
+  {
+    "protocol_id": "9387e64b-9984-45c1-9c28-0756428f67b9",
+    "type": "police",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 13
+  },
+  {
+    "protocol_id": "d76e5f20-019e-405f-a105-fa6313f8fedc",
+    "type": "mass_casualty",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 76
+  },
+  {
+    "protocol_id": "52c8bd7f-a276-493e-8740-d6279fb03805",
+    "type": "police",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 59
+  },
+  {
+    "protocol_id": "bf089ef2-7da3-42a7-80dc-c123ad4e836b",
+    "type": "vip",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 51
+  },
+  {
+    "protocol_id": "0d11d686-1b86-46f7-b978-b963b5edae1d",
+    "type": "ambulance",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 88
+  },
+  {
+    "protocol_id": "268dbd13-9e0d-4056-8c50-2b453462b134",
+    "type": "police",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 106
+  },
+  {
+    "protocol_id": "17827bb8-dbc1-4bf6-9563-807e1e6a36d5",
+    "type": "mass_casualty",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 108
+  },
+  {
+    "protocol_id": "494ffcea-8ae5-4d7e-b0b0-856a14fcad6c",
+    "type": "police",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 115
+  },
+  {
+    "protocol_id": "21ab8764-d309-4a06-8f51-1e2ad3647aee",
+    "type": "police",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 38
+  },
+  {
+    "protocol_id": "db177308-ed24-4a17-a211-033b2b17b5d2",
+    "type": "ambulance",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 34
+  },
+  {
+    "protocol_id": "e2232f5e-8ab2-4c2f-be72-26c377ed7026",
+    "type": "police",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 90
+  },
+  {
+    "protocol_id": "2fe9f730-7e89-4a26-86b8-b08cf19f9ef1",
+    "type": "vip",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 25
+  },
+  {
+    "protocol_id": "6b69ce98-8ce6-418d-baa1-0f80f5081998",
+    "type": "vip",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 115
+  },
+  {
+    "protocol_id": "70ff7471-2898-46e3-a5ff-08ca6d70f0c9",
+    "type": "vip",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 19
+  },
+  {
+    "protocol_id": "1a3a7f89-723f-4c5e-80cc-7699ae779689",
+    "type": "ambulance",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 71
+  },
+  {
+    "protocol_id": "86d22ea1-cb7d-49fe-b9e1-5283910acae8",
+    "type": "vip",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 71
+  },
+  {
+    "protocol_id": "24c25110-fca8-4c1b-816a-7e98c718e7aa",
+    "type": "fire",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 16
+  },
+  {
+    "protocol_id": "3cdfc40e-9073-4447-b99e-782f10b1df76",
+    "type": "fire",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 76
+  },
+  {
+    "protocol_id": "3c70686e-b252-48cb-bf4f-42c9403d04db",
+    "type": "police",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 84
+  },
+  {
+    "protocol_id": "2dd31b5f-0d4b-4d72-9ff4-3f4be387afe3",
+    "type": "fire",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 44
+  },
+  {
+    "protocol_id": "de92fc4f-2552-43c4-a2f7-a7d616057575",
+    "type": "ambulance",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 21
+  },
+  {
+    "protocol_id": "455d26ef-92dd-49f8-99ca-c811c00508f6",
+    "type": "police",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 36
+  },
+  {
+    "protocol_id": "0e504a8a-22b8-426d-b052-4d4c59166bf4",
+    "type": "mass_casualty",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 49
+  },
+  {
+    "protocol_id": "bdac98a2-fdb6-4384-b635-87d4b6f202a3",
+    "type": "ambulance",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 51
+  },
+  {
+    "protocol_id": "b7cf17e2-1edd-4e80-9c13-0a91455ff35a",
+    "type": "police",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 68
+  },
+  {
+    "protocol_id": "9ced8b7c-c18d-4ca4-bee7-61fa25ff31f9",
+    "type": "ambulance",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 51
+  },
+  {
+    "protocol_id": "083f6f2f-f9b7-48a6-b231-051932aaae80",
+    "type": "police",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 35
+  },
+  {
+    "protocol_id": "70c84aaa-1e75-4b3d-a957-eae685ee1982",
+    "type": "ambulance",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 37
+  },
+  {
+    "protocol_id": "2c531935-5dcf-428d-9f04-b9bf32df7685",
+    "type": "fire",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 56
+  },
+  {
+    "protocol_id": "f20bdc4c-37e1-49ae-a5b5-1b16661e5a75",
+    "type": "vip",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 37
+  },
+  {
+    "protocol_id": "40c26e65-1762-453b-99bf-83fb7e50972a",
+    "type": "mass_casualty",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 70
+  },
+  {
+    "protocol_id": "52cea86f-b8af-428e-b298-b0f3d86196b0",
+    "type": "vip",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 22
+  },
+  {
+    "protocol_id": "61adad64-7497-46ee-a07c-bfa458792dfe",
+    "type": "fire",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 112
+  },
+  {
+    "protocol_id": "94a6a69c-a0a2-4e2a-b452-5b4dd0144282",
+    "type": "mass_casualty",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 67
+  },
+  {
+    "protocol_id": "b0215e91-a111-486f-91bf-e61d44735325",
+    "type": "police",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 15
+  },
+  {
+    "protocol_id": "4449df77-9bc7-4314-ae86-66d37072d7b2",
+    "type": "ambulance",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 89
+  },
+  {
+    "protocol_id": "95097bc2-12bc-4035-a5c0-70073bf46d51",
+    "type": "police",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 118
+  },
+  {
+    "protocol_id": "d43e9415-37e8-45fa-9f99-ee4de1fb1cb5",
+    "type": "fire",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 99
+  },
+  {
+    "protocol_id": "8dceed2a-9778-4799-9b71-b2119f1c12bf",
+    "type": "ambulance",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 46
+  },
+  {
+    "protocol_id": "88746538-ece5-4c62-82b5-d4f99a9e8cd1",
+    "type": "ambulance",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 14
+  },
+  {
+    "protocol_id": "0a237b87-c5c3-4162-8a76-7c8486eded1a",
+    "type": "police",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 32
+  },
+  {
+    "protocol_id": "c5e3bed5-0da5-4502-9ed0-94396367b8fe",
+    "type": "mass_casualty",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 59
+  },
+  {
+    "protocol_id": "3646780a-4358-4e64-876b-ceca51f1c576",
+    "type": "vip",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 77
+  },
+  {
+    "protocol_id": "380f3c37-addd-4478-87ec-3dff7ac47bd1",
+    "type": "ambulance",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 99
+  },
+  {
+    "protocol_id": "21b41643-191b-4a57-b94e-82f27e3bded0",
+    "type": "vip",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 77
+  },
+  {
+    "protocol_id": "d57f7277-da6f-4e92-8da3-8358118122ba",
+    "type": "mass_casualty",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 81
+  },
+  {
+    "protocol_id": "d7f23908-454b-4dfe-bccc-126bfb96535c",
+    "type": "ambulance",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 87
+  },
+  {
+    "protocol_id": "782b8860-733d-43fa-b2e6-42a61c27f083",
+    "type": "fire",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 106
+  },
+  {
+    "protocol_id": "80163a08-c1db-46cc-bc4d-9fc23a78fb93",
+    "type": "mass_casualty",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 10
+  },
+  {
+    "protocol_id": "b342bfc6-fb86-4eea-a05c-4cfbb395a49d",
+    "type": "police",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 56
+  },
+  {
+    "protocol_id": "5b3ee0fc-39cc-4954-aff5-3b58651ad15d",
+    "type": "fire",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 40
+  },
+  {
+    "protocol_id": "2cda522d-d695-4f2d-bc72-bcb565cebf6d",
+    "type": "vip",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 77
+  },
+  {
+    "protocol_id": "9458959f-7b25-40ce-ae86-3917abc8a3b9",
+    "type": "vip",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 119
+  },
+  {
+    "protocol_id": "6e862e8e-f953-4cd7-9424-a4b066a7726b",
+    "type": "police",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 61
+  },
+  {
+    "protocol_id": "262ec51c-c303-4937-a789-d2e3fffb0b85",
+    "type": "fire",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 27
+  },
+  {
+    "protocol_id": "27d410df-d89b-4211-98f0-c82221b9fe2c",
+    "type": "police",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 81
+  },
+  {
+    "protocol_id": "9283e6c2-27a3-4875-948a-1d15f453b755",
+    "type": "mass_casualty",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 63
+  },
+  {
+    "protocol_id": "72446f22-1d62-4c5b-b35f-a8b5ce67ff2e",
+    "type": "ambulance",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 51
+  },
+  {
+    "protocol_id": "bc80fd1e-bd0b-492b-ab32-cd957d2f7cee",
+    "type": "vip",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 74
+  },
+  {
+    "protocol_id": "ea164a66-5367-4180-b554-1c42def55457",
+    "type": "mass_casualty",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 111
+  },
+  {
+    "protocol_id": "f1844517-8438-40bb-898b-39d7ba55af50",
+    "type": "mass_casualty",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 78
+  },
+  {
+    "protocol_id": "654bdd7c-0173-49c6-8399-6a0314c9c7df",
+    "type": "mass_casualty",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 45
+  },
+  {
+    "protocol_id": "961c213d-749c-4282-874a-7954a400a421",
+    "type": "police",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 120
+  },
+  {
+    "protocol_id": "44d9b081-b1d2-419b-a53f-4101a47f8dc6",
+    "type": "fire",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 27
+  },
+  {
+    "protocol_id": "97a058e0-e3e2-44af-93f2-4bffebeb5aea",
+    "type": "mass_casualty",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 100
+  },
+  {
+    "protocol_id": "ecc08559-396a-4ee1-ae6c-5621e85f9044",
+    "type": "police",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 75
+  },
+  {
+    "protocol_id": "a047cf0b-602c-4605-a24f-d6e7b256c44d",
+    "type": "police",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 104
+  },
+  {
+    "protocol_id": "8ac2ca78-b215-4f44-a8f9-607da0256b45",
+    "type": "police",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 79
+  },
+  {
+    "protocol_id": "e261bc84-37bd-457a-8a98-86683ab22b9a",
+    "type": "police",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 103
+  },
+  {
+    "protocol_id": "f4ac33ff-3fc4-41e6-8bc1-c08233c02676",
+    "type": "vip",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 64
+  },
+  {
+    "protocol_id": "6616ded7-cf3e-495c-ad24-fa345b1d5037",
+    "type": "police",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 111
+  },
+  {
+    "protocol_id": "ac9b05f1-8fcd-44b7-bde5-3d417e67eb61",
+    "type": "police",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 110
+  },
+  {
+    "protocol_id": "8a746c6b-ae62-48e6-9145-b82d5358eb38",
+    "type": "vip",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 46
+  },
+  {
+    "protocol_id": "b7ce71e4-9d60-49bf-b952-58a74757f169",
+    "type": "fire",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 74
+  },
+  {
+    "protocol_id": "2ea445ef-3514-416f-b6c3-d59b169f9246",
+    "type": "fire",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 48
+  },
+  {
+    "protocol_id": "263c825d-4b6c-4357-87dd-7aa23cfa3aa7",
+    "type": "vip",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 25
+  },
+  {
+    "protocol_id": "a7bf6082-d5be-4fd4-b730-8cfde69e250b",
+    "type": "ambulance",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 113
+  },
+  {
+    "protocol_id": "3ece8522-77b6-44a2-a7dd-99ad14a0374b",
+    "type": "mass_casualty",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 52
+  },
+  {
+    "protocol_id": "a9bb7d1e-b142-435e-987d-e8707f561d2c",
+    "type": "ambulance",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 27
+  },
+  {
+    "protocol_id": "30c8d82e-f749-4b00-b617-81c6046d500a",
+    "type": "ambulance",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 15
+  },
+  {
+    "protocol_id": "b5e7938c-f499-4d87-bd44-a85450fd1288",
+    "type": "ambulance",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 29
+  },
+  {
+    "protocol_id": "b660e451-dc64-437b-852a-82049fb18755",
+    "type": "police",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 57
+  },
+  {
+    "protocol_id": "55be8221-5165-485e-a9a7-4dafd9b8e5ad",
+    "type": "fire",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 85
+  },
+  {
+    "protocol_id": "51f5276e-040e-4771-b5a0-7a08d3d72347",
+    "type": "fire",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 19
+  },
+  {
+    "protocol_id": "5d3b6db4-0eee-43e7-8e9b-2d78ad913f8a",
+    "type": "fire",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 26
+  },
+  {
+    "protocol_id": "fb4dddbf-01dc-463d-b785-a0fb67ecd949",
+    "type": "ambulance",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 112
+  },
+  {
+    "protocol_id": "b02e5257-5e54-4b4b-bf47-6c0cd5ee021b",
+    "type": "police",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 50
+  },
+  {
+    "protocol_id": "ab4eb208-d470-45a1-b871-521b3af0cbb3",
+    "type": "ambulance",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 36
+  },
+  {
+    "protocol_id": "b9e73d3e-9a1f-4642-83dc-26fa7bfc8f98",
+    "type": "ambulance",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 51
+  },
+  {
+    "protocol_id": "6d4c61af-ce49-4a13-8a1d-f8043bab33ec",
+    "type": "police",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 71
+  },
+  {
+    "protocol_id": "ac582cd7-15ec-4df8-ae74-279c92b6f882",
+    "type": "ambulance",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 76
+  },
+  {
+    "protocol_id": "532e2389-265c-4d89-8813-cc4e7eaff434",
+    "type": "fire",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 91
+  },
+  {
+    "protocol_id": "9cce2e35-ae5a-489d-aab5-ec76ebf78bcd",
+    "type": "mass_casualty",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 81
+  },
+  {
+    "protocol_id": "77b83e61-121f-43c7-b9c2-de3d1e3d445d",
+    "type": "fire",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 97
+  },
+  {
+    "protocol_id": "f240142f-2e45-4dbf-8f7f-a2ba006b139f",
+    "type": "ambulance",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 46
+  },
+  {
+    "protocol_id": "eb6ff016-8917-427e-9a2e-c9d85ce13d75",
+    "type": "police",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 46
+  },
+  {
+    "protocol_id": "2d717b35-4ba3-4a9f-b1f0-61910ef1a76d",
+    "type": "vip",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 77
+  },
+  {
+    "protocol_id": "ccc4a168-a3f7-47dd-9ee5-0ea38153ef0f",
+    "type": "vip",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 59
+  },
+  {
+    "protocol_id": "923acb21-9787-491b-8e1b-e887f9e23bcf",
+    "type": "mass_casualty",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 85
+  },
+  {
+    "protocol_id": "f5817974-3f73-4767-9ffa-001961796ed2",
+    "type": "vip",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 101
+  },
+  {
+    "protocol_id": "c0f35033-8b0c-440a-b3c5-750f1f7f5755",
+    "type": "mass_casualty",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 28
+  },
+  {
+    "protocol_id": "3e29510b-e8e3-468d-b667-ad1ee395561c",
+    "type": "mass_casualty",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 118
+  },
+  {
+    "protocol_id": "00fb34d5-6d2c-44a1-85bd-93aff0d63cca",
+    "type": "fire",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 64
+  },
+  {
+    "protocol_id": "66afd036-2f6a-4ed9-9f0c-12d0c4255ece",
+    "type": "mass_casualty",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 91
+  },
+  {
+    "protocol_id": "9f5e11cd-cd38-445d-bf7c-96f7e0028703",
+    "type": "mass_casualty",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 102
+  },
+  {
+    "protocol_id": "5f8e0754-6041-4326-986b-ff20d4786797",
+    "type": "police",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 92
+  },
+  {
+    "protocol_id": "fb50b535-1f1b-4115-90f2-cbe9e5dec4f8",
+    "type": "mass_casualty",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 29
+  },
+  {
+    "protocol_id": "f41c0d7f-bea6-4d10-9319-465735cdf771",
+    "type": "ambulance",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 26
+  },
+  {
+    "protocol_id": "ba60a305-58ef-4475-a9ba-87b4a267af0e",
+    "type": "police",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 118
+  },
+  {
+    "protocol_id": "874ddda6-86d6-429c-9aec-523c5ae93899",
+    "type": "vip",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 104
+  },
+  {
+    "protocol_id": "0a45cfea-f2cc-4e5d-bea9-16bdcda9dec6",
+    "type": "fire",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 57
+  },
+  {
+    "protocol_id": "a8692e0a-7fec-49a6-9701-9d79680d2f33",
+    "type": "police",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 36
+  },
+  {
+    "protocol_id": "5b2d0666-c199-47ba-b52b-e4f3ea74f3ec",
+    "type": "ambulance",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 77
+  },
+  {
+    "protocol_id": "fe558570-aa49-4075-a8b8-be85c5bd7f43",
+    "type": "fire",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 113
+  },
+  {
+    "protocol_id": "320a5ab1-9583-43c5-a5c6-8324300b937d",
+    "type": "fire",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 100
+  },
+  {
+    "protocol_id": "910d1e0f-5d68-4c8e-855c-3fca27929eb4",
+    "type": "vip",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 113
+  },
+  {
+    "protocol_id": "4b22575f-a2f3-444d-bcc4-ccd486918515",
+    "type": "ambulance",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 104
+  },
+  {
+    "protocol_id": "dcce1e5c-f920-44ec-a444-d4b3157eea1e",
+    "type": "fire",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 34
+  },
+  {
+    "protocol_id": "ee7e5b1c-ce9f-433b-b451-9d1fa0d6d27e",
+    "type": "ambulance",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 26
+  },
+  {
+    "protocol_id": "3a69dfd8-bd30-4354-9a0e-c2cd3effdc09",
+    "type": "fire",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 87
+  },
+  {
+    "protocol_id": "a57c4c66-0201-4d75-a327-aa260b08d420",
+    "type": "fire",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 117
+  },
+  {
+    "protocol_id": "18b56b61-d26c-4f6b-8ce4-e542e24fd260",
+    "type": "ambulance",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 90
+  },
+  {
+    "protocol_id": "57863fba-5d4b-49e1-a873-0b5fdf73e358",
+    "type": "police",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 89
+  },
+  {
+    "protocol_id": "2220a802-cd3d-490b-bd4f-10bf473cdad2",
+    "type": "ambulance",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 17
+  },
+  {
+    "protocol_id": "c7a37583-5c85-4d41-bc61-28c80544281d",
+    "type": "mass_casualty",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 104
+  },
+  {
+    "protocol_id": "bed99b0b-6df5-4d89-9a33-982e6926fdce",
+    "type": "ambulance",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 21
+  },
+  {
+    "protocol_id": "d7bb446d-6ea0-4181-9d5e-519bf50ab3c9",
+    "type": "vip",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 41
+  },
+  {
+    "protocol_id": "a47b4f30-0268-4d67-864f-f03bfd1a7432",
+    "type": "mass_casualty",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 43
+  },
+  {
+    "protocol_id": "e967ca0e-4c52-4dfb-9f68-5a6312a85813",
+    "type": "mass_casualty",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 30
+  },
+  {
+    "protocol_id": "4e61cc55-74ed-4e24-abf3-61903b19a281",
+    "type": "fire",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 101
+  },
+  {
+    "protocol_id": "8f868bac-06ca-4049-864b-20423158050f",
+    "type": "vip",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 69
+  },
+  {
+    "protocol_id": "244f6d39-26f6-4ed1-8fae-87aac34d58d2",
+    "type": "police",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 13
+  },
+  {
+    "protocol_id": "bb6af746-b4ec-4a01-96fc-85fbf42b9b6f",
+    "type": "vip",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 31
+  },
+  {
+    "protocol_id": "ae51b760-ed43-4169-bdab-6a233f080d75",
+    "type": "mass_casualty",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 61
+  },
+  {
+    "protocol_id": "7cc7b064-6b26-4139-afe7-55715759f61a",
+    "type": "vip",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 100
+  },
+  {
+    "protocol_id": "9767195f-85c1-44d1-bec4-fa13c9c78387",
+    "type": "ambulance",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 95
+  },
+  {
+    "protocol_id": "9ecbfe91-3105-4b89-8f85-02c4bf83cfb1",
+    "type": "mass_casualty",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 32
+  },
+  {
+    "protocol_id": "85b033e5-d7a5-4d14-a30c-b4d6ac626638",
+    "type": "fire",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 54
+  },
+  {
+    "protocol_id": "012ec30c-b294-4224-9765-16a4813dbd7d",
+    "type": "mass_casualty",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 69
+  },
+  {
+    "protocol_id": "72830095-37c9-4166-8455-109785f13764",
+    "type": "police",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 43
+  },
+  {
+    "protocol_id": "e2f2ab97-b12e-4840-b16c-ec7d099c1614",
+    "type": "police",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 81
+  },
+  {
+    "protocol_id": "fef40348-7d4c-4d14-bbb8-6fbced168c28",
+    "type": "police",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 71
+  },
+  {
+    "protocol_id": "a17ec168-8ece-4711-864e-1ccdc97d0297",
+    "type": "fire",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 58
+  },
+  {
+    "protocol_id": "90dfc93b-1416-4da7-81a4-c7b835a8d339",
+    "type": "fire",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 120
+  },
+  {
+    "protocol_id": "6aa4269f-6edc-4fdf-8308-f9fd37ea5f92",
+    "type": "vip",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 14
+  },
+  {
+    "protocol_id": "e05e329b-c966-4a05-beb3-29545a924cc2",
+    "type": "police",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 28
+  },
+  {
+    "protocol_id": "928c57bc-37eb-418e-b51d-e1434910a42c",
+    "type": "vip",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 21
+  },
+  {
+    "protocol_id": "03433e6a-ae8b-4aba-8f18-9b06ffba1897",
+    "type": "vip",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 114
+  },
+  {
+    "protocol_id": "fbe1ac57-b2bc-4373-b69c-50fc5d8a5144",
+    "type": "mass_casualty",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 58
+  },
+  {
+    "protocol_id": "aef6d32c-6589-4890-927a-309f9a0be7cd",
+    "type": "vip",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 40
+  },
+  {
+    "protocol_id": "97c34e83-b0c4-4587-9ff2-c3894e2491c1",
+    "type": "ambulance",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 60
+  },
+  {
+    "protocol_id": "f4c68ef0-83a1-42a7-a3ee-328c8fb5ae44",
+    "type": "ambulance",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 80
+  },
+  {
+    "protocol_id": "f93af517-1b5f-4dfa-8cea-03f80de1f58f",
+    "type": "fire",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 101
+  },
+  {
+    "protocol_id": "20a9caf0-5203-4485-a853-6cf68186ad84",
+    "type": "mass_casualty",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 25
+  },
+  {
+    "protocol_id": "9bd5cbaa-c2f7-4006-bab7-6db8a85dbd4b",
+    "type": "mass_casualty",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 32
+  },
+  {
+    "protocol_id": "4e53105c-ecd5-4385-a8b1-9c32963a8bbb",
+    "type": "ambulance",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 68
+  },
+  {
+    "protocol_id": "924cbeec-4f21-426c-89eb-30ea0adb787e",
+    "type": "fire",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 35
+  },
+  {
+    "protocol_id": "5ab4731c-2876-41b1-8fd6-1438450eaeff",
+    "type": "mass_casualty",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 110
+  },
+  {
+    "protocol_id": "bf44c28f-1399-4d2e-952e-0a0e1d9eedfe",
+    "type": "fire",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 82
+  },
+  {
+    "protocol_id": "81c0fb97-ea5b-454e-b708-b1be1d13f233",
+    "type": "vip",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 33
+  },
+  {
+    "protocol_id": "b85464c3-97bf-4a8a-95a7-595c7993d551",
+    "type": "ambulance",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 51
+  },
+  {
+    "protocol_id": "56260191-b8e4-4ed6-b370-cede581bdcf6",
+    "type": "fire",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 32
+  },
+  {
+    "protocol_id": "51d7fb51-9d8f-4e74-877f-f9cf18cb84b2",
+    "type": "fire",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 83
+  },
+  {
+    "protocol_id": "7e082dc2-5e81-4ae3-8218-8b66c8863e3a",
+    "type": "vip",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 88
+  },
+  {
+    "protocol_id": "7d066a18-181d-45e3-bd93-5722d7ef5a34",
+    "type": "fire",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 104
+  },
+  {
+    "protocol_id": "bd511139-00cf-44b5-8821-b583a28f19c0",
+    "type": "mass_casualty",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 31
+  },
+  {
+    "protocol_id": "112d5eb8-3006-4ed7-bccc-ab854cddc0b7",
+    "type": "ambulance",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 103
+  },
+  {
+    "protocol_id": "2d429234-0f37-44da-a377-26161db12cc1",
+    "type": "mass_casualty",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 112
+  },
+  {
+    "protocol_id": "47910be3-5eae-41c0-b090-f70cb3cb3368",
+    "type": "police",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 94
+  },
+  {
+    "protocol_id": "b3031754-32f2-4c71-af90-54f1c3bba5d4",
+    "type": "vip",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 19
+  },
+  {
+    "protocol_id": "7b69dc3f-2108-4c1c-b1e8-761714ef85a4",
+    "type": "police",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 40
+  },
+  {
+    "protocol_id": "7a62a410-0c0b-4234-92cd-f96f3d9c2e29",
+    "type": "vip",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 80
+  },
+  {
+    "protocol_id": "cfc7487e-01c2-457a-b3bc-9d103ae85c65",
+    "type": "fire",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 40
+  },
+  {
+    "protocol_id": "58bb594a-9dcd-42b8-a525-f5d44fe523a9",
+    "type": "fire",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 51
+  },
+  {
+    "protocol_id": "d661e966-fd9a-45e0-8915-94772834748e",
+    "type": "police",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 99
+  },
+  {
+    "protocol_id": "4a9e6886-7eee-4fd3-9bdd-02da13c38198",
+    "type": "fire",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 111
+  },
+  {
+    "protocol_id": "8e38051c-5216-4848-93a4-220a23a98f1e",
+    "type": "vip",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 119
+  },
+  {
+    "protocol_id": "0df27dab-115c-4fa0-9ab3-2a25ea60dd16",
+    "type": "vip",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 36
+  },
+  {
+    "protocol_id": "6cc36921-a833-4840-818b-8a054d492c1f",
+    "type": "police",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 81
+  },
+  {
+    "protocol_id": "8e560f83-bf25-4dbd-892a-3e5f9126fae4",
+    "type": "police",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 44
+  },
+  {
+    "protocol_id": "b604f7ab-c587-49e6-8e8f-ade455fe1301",
+    "type": "mass_casualty",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 25
+  },
+  {
+    "protocol_id": "67f2ce93-0a62-4d95-b134-453772e026ca",
+    "type": "mass_casualty",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 102
+  },
+  {
+    "protocol_id": "0feac24b-da06-45f1-a22f-82f36da99e65",
+    "type": "mass_casualty",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 104
+  },
+  {
+    "protocol_id": "477ee522-20bd-45b5-a694-d75318be2c55",
+    "type": "mass_casualty",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 38
+  },
+  {
+    "protocol_id": "80fc6650-a9ca-4908-9489-1f01120fa1d4",
+    "type": "fire",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 113
+  },
+  {
+    "protocol_id": "41556f76-367e-45ce-833a-64be49213908",
+    "type": "mass_casualty",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 47
+  },
+  {
+    "protocol_id": "5920f698-0fde-4801-bf7b-3a429fa0d75a",
+    "type": "fire",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 12
+  },
+  {
+    "protocol_id": "96db20c8-ab15-4a05-824c-7f149edb3c51",
+    "type": "vip",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 52
+  },
+  {
+    "protocol_id": "b3567e81-205b-4cfb-991f-fc92bd84cb6d",
+    "type": "police",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 120
+  },
+  {
+    "protocol_id": "9edd493e-3276-4cbb-8088-bd40ab597f86",
+    "type": "police",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 83
+  },
+  {
+    "protocol_id": "35582076-c0ef-491c-857f-42a68cd50715",
+    "type": "mass_casualty",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 88
+  },
+  {
+    "protocol_id": "3e612d4d-4503-4ad0-b3ec-d7aab600cfce",
+    "type": "ambulance",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 33
+  },
+  {
+    "protocol_id": "752ea247-db54-4a72-9686-209324ddb7d7",
+    "type": "mass_casualty",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 87
+  },
+  {
+    "protocol_id": "1653c893-94e8-4ef9-bfc8-83b6a0e1f7c2",
+    "type": "vip",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 66
+  },
+  {
+    "protocol_id": "5efb13a2-3982-4c05-a120-ab099745220d",
+    "type": "ambulance",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 33
+  },
+  {
+    "protocol_id": "031674cc-7649-4876-b115-394fb568d1df",
+    "type": "vip",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 32
+  },
+  {
+    "protocol_id": "58ddcedc-bb65-4b76-a7ff-cc0739235ff9",
+    "type": "mass_casualty",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 18
+  },
+  {
+    "protocol_id": "884d81d1-36b2-4fb0-af83-4e252a44801c",
+    "type": "fire",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 17
+  },
+  {
+    "protocol_id": "9c3e11f0-c6a3-425e-a1cd-5c2fd883bec3",
+    "type": "police",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 41
+  },
+  {
+    "protocol_id": "110f4884-d36a-479d-9b7e-b1ca64ea1dc0",
+    "type": "vip",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 69
+  },
+  {
+    "protocol_id": "00d3273d-ebe9-4ae9-a965-6568f8317ef4",
+    "type": "vip",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 73
+  },
+  {
+    "protocol_id": "6a04ac2e-436a-4532-a73d-5127dda50d31",
+    "type": "ambulance",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 37
+  },
+  {
+    "protocol_id": "8418e486-0eb5-452e-b30b-e70f160da3a9",
+    "type": "mass_casualty",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 100
+  },
+  {
+    "protocol_id": "9b88d670-9348-4a1f-a996-85b0945c5763",
+    "type": "police",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 27
+  },
+  {
+    "protocol_id": "037e9e5f-c460-47bd-8c54-2b0f6a7fb590",
+    "type": "vip",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 81
+  },
+  {
+    "protocol_id": "dc1ceae6-f539-41ff-b71a-3b1095b68258",
+    "type": "vip",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 41
+  },
+  {
+    "protocol_id": "e68fc461-8bc6-420c-96a6-405c20d5629c",
+    "type": "fire",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 29
+  },
+  {
+    "protocol_id": "9cd842a2-c9f7-48c8-a9d8-244069e2134e",
+    "type": "ambulance",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 113
+  },
+  {
+    "protocol_id": "f3fe9151-6349-4882-b4e7-058e966510da",
+    "type": "ambulance",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 27
+  },
+  {
+    "protocol_id": "8699a696-846e-4d24-9c47-7d3d780612c4",
+    "type": "police",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 60
+  },
+  {
+    "protocol_id": "8951df61-7ab3-46ef-9a96-c977ce858f4f",
+    "type": "ambulance",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 80
+  },
+  {
+    "protocol_id": "f535a351-6860-46e5-8057-673e2e133181",
+    "type": "fire",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 32
+  },
+  {
+    "protocol_id": "9aa3377b-21ce-4f4e-8489-55710f217a96",
+    "type": "ambulance",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 15
+  },
+  {
+    "protocol_id": "ec3bea6d-208b-4843-b20e-f9cca634c096",
+    "type": "police",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 107
+  },
+  {
+    "protocol_id": "bd34885d-7735-4899-ac24-8f89b5f3d8f4",
+    "type": "vip",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 72
+  },
+  {
+    "protocol_id": "f7dd9263-ebe2-4cdb-a935-4923f8905ae2",
+    "type": "vip",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 113
+  },
+  {
+    "protocol_id": "43c3a17f-c8b2-441a-800f-fcc8057ff03f",
+    "type": "mass_casualty",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 76
+  },
+  {
+    "protocol_id": "1ef28e37-e74f-44cf-8188-e95ceda2af0b",
+    "type": "vip",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 74
+  },
+  {
+    "protocol_id": "73e2c2d8-6c37-4c66-9bd2-d213339405e6",
+    "type": "vip",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 66
+  },
+  {
+    "protocol_id": "09e763c3-c1ca-4579-a662-05c5a16e2016",
+    "type": "police",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 97
+  },
+  {
+    "protocol_id": "2c76af34-aa80-47b7-9c5d-6ccb32615a4c",
+    "type": "fire",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 98
+  },
+  {
+    "protocol_id": "1a879958-fb7b-4b53-8eff-cd7705412a53",
+    "type": "police",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 95
+  },
+  {
+    "protocol_id": "f21213f4-f482-4905-8671-03dd9848eb03",
+    "type": "vip",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 55
+  },
+  {
+    "protocol_id": "f420f7a7-a2b2-433c-bb2c-1b30f13bdd1a",
+    "type": "fire",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 40
+  },
+  {
+    "protocol_id": "3ccc46ec-e41b-42b3-b9e0-49316a9eefa8",
+    "type": "vip",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 60
+  },
+  {
+    "protocol_id": "8583bc11-8db2-4bda-ada9-c8c50cdbffec",
+    "type": "ambulance",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 112
+  },
+  {
+    "protocol_id": "7b4f9181-43c5-4668-83b5-1089754fa805",
+    "type": "ambulance",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 35
+  },
+  {
+    "protocol_id": "b643567c-2c9b-4cfd-9f22-77c2d3fb1ee5",
+    "type": "ambulance",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 45
+  },
+  {
+    "protocol_id": "c88d4267-d26e-4244-8f26-89eb364c3f86",
+    "type": "police",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 40
+  },
+  {
+    "protocol_id": "f921ffb4-7ea3-4842-9208-d577ea40e11c",
+    "type": "mass_casualty",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 92
+  },
+  {
+    "protocol_id": "f769bcc0-0986-4a90-9382-7bdc14ca5263",
+    "type": "ambulance",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 114
+  },
+  {
+    "protocol_id": "52e950b3-4741-479e-9acc-ba1d27b523cd",
+    "type": "vip",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 119
+  },
+  {
+    "protocol_id": "a0a82e22-6320-47b6-a135-66f42ad25c9c",
+    "type": "vip",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 51
+  },
+  {
+    "protocol_id": "3586b000-aa47-4d47-b803-7d9937b18c70",
+    "type": "ambulance",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 68
+  },
+  {
+    "protocol_id": "e74b3d6c-6788-453e-b4ca-c891a389d72c",
+    "type": "ambulance",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 54
+  },
+  {
+    "protocol_id": "177998aa-3bb9-4228-8171-aea5b684c2ce",
+    "type": "fire",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 36
+  },
+  {
+    "protocol_id": "38f354ac-2eb9-49d2-aca8-7d7c74fc99d0",
+    "type": "vip",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 21
+  },
+  {
+    "protocol_id": "d56170a9-333c-4200-abe8-351d4d2c9226",
+    "type": "ambulance",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 109
+  },
+  {
+    "protocol_id": "a20b3911-f489-4165-b2a3-69e02bacee8a",
+    "type": "fire",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 92
+  },
+  {
+    "protocol_id": "ea0fb127-a21a-416f-83bb-d7df686ea4ef",
+    "type": "vip",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 31
+  },
+  {
+    "protocol_id": "e06dac3f-07e0-451c-ae72-dc39601cbc4a",
+    "type": "vip",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 105
+  },
+  {
+    "protocol_id": "0edabd0b-c812-4ae2-b9da-ad009f8a1ce5",
+    "type": "police",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 94
+  },
+  {
+    "protocol_id": "68edcaa8-4aae-4614-a150-fd6cda337171",
+    "type": "ambulance",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 21
+  },
+  {
+    "protocol_id": "471d74ae-1950-4b77-9882-e7183d8beae9",
+    "type": "police",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 35
+  },
+  {
+    "protocol_id": "b97349f4-4f4e-4515-8d3d-18f492630828",
+    "type": "mass_casualty",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 45
+  },
+  {
+    "protocol_id": "cf45ad08-f71e-4560-a12e-a7caa1f1a489",
+    "type": "vip",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 34
+  },
+  {
+    "protocol_id": "44336237-8dcc-4370-a269-f7909c5b487d",
+    "type": "ambulance",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 88
+  },
+  {
+    "protocol_id": "fbcf6067-ba15-42fa-9ab1-f3a25aa19082",
+    "type": "fire",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 10
+  },
+  {
+    "protocol_id": "94edd526-1473-4191-a26a-9353aca99768",
+    "type": "vip",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 63
+  },
+  {
+    "protocol_id": "804dc578-6576-4d05-ba57-48dad064ac6d",
+    "type": "mass_casualty",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 20
+  },
+  {
+    "protocol_id": "d8e87666-a331-499f-a51c-fdcec366c44b",
+    "type": "fire",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 97
+  },
+  {
+    "protocol_id": "29e4eaa1-bc33-4275-a90b-87ad4134ede4",
+    "type": "vip",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 73
+  },
+  {
+    "protocol_id": "953c4377-f94f-4e74-bd0a-851b6fbaac31",
+    "type": "ambulance",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 87
+  },
+  {
+    "protocol_id": "f163f85d-9780-49d4-84ad-dfadb44cf04e",
+    "type": "ambulance",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 28
+  },
+  {
+    "protocol_id": "80ef30d4-bb03-4273-8663-8c9e97382952",
+    "type": "mass_casualty",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 16
+  },
+  {
+    "protocol_id": "2e6d5446-9af8-413f-b741-6c3dbbb840e5",
+    "type": "fire",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 103
+  },
+  {
+    "protocol_id": "efeb8b28-4717-4686-93d3-20109c96dcfa",
+    "type": "fire",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 24
+  },
+  {
+    "protocol_id": "022a8ca0-3bd0-4f00-bdd5-22356d07d1dc",
+    "type": "fire",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 30
+  },
+  {
+    "protocol_id": "926c1a1b-67f5-4d45-8e91-178d0091f332",
+    "type": "ambulance",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 120
+  },
+  {
+    "protocol_id": "e7ef5b2a-4fd6-484e-bd1b-100221a86d62",
+    "type": "mass_casualty",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 62
+  },
+  {
+    "protocol_id": "a321cff5-0f7e-466b-948a-b07ad5720069",
+    "type": "mass_casualty",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 106
+  },
+  {
+    "protocol_id": "c43ff235-ce7d-41e5-b878-fe18d04b0aba",
+    "type": "fire",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 16
+  },
+  {
+    "protocol_id": "e33ff60c-c8f8-47f4-944b-d0fccf1c3556",
+    "type": "ambulance",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 87
+  },
+  {
+    "protocol_id": "2ef28734-c9b8-45e7-9a61-ee01a9ca505b",
+    "type": "ambulance",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 24
+  },
+  {
+    "protocol_id": "32aa2745-c963-4750-b47a-196ed8fe5211",
+    "type": "ambulance",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 58
+  },
+  {
+    "protocol_id": "27b78a40-37a6-4b03-9ca8-fcadd4b29f04",
+    "type": "mass_casualty",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 23
+  },
+  {
+    "protocol_id": "434916c2-f964-4ecf-b424-d14ef885940b",
+    "type": "fire",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 33
+  },
+  {
+    "protocol_id": "7ff2a142-7cc7-42d0-b5c3-63a90c65ab3d",
+    "type": "ambulance",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 25
+  },
+  {
+    "protocol_id": "21812dce-7e4b-4072-855b-9be25f77fda4",
+    "type": "vip",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 102
+  },
+  {
+    "protocol_id": "edde2f28-8751-4326-8194-d66019ccfb4e",
+    "type": "ambulance",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 67
+  },
+  {
+    "protocol_id": "6028e3b9-80dc-48b6-96ec-88427a89d2fe",
+    "type": "fire",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 102
+  },
+  {
+    "protocol_id": "1e205991-eb95-4b70-96f1-76ccd1980f2e",
+    "type": "police",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 94
+  },
+  {
+    "protocol_id": "e16f9312-bbb9-4f49-b8dd-8f5ee2e76307",
+    "type": "vip",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 107
+  },
+  {
+    "protocol_id": "2791984c-7aa6-48e2-a308-2ca3415bf37a",
+    "type": "mass_casualty",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 41
+  },
+  {
+    "protocol_id": "0f612339-9e7c-4aa0-8471-786567156bb7",
+    "type": "fire",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 89
+  },
+  {
+    "protocol_id": "a11c69e9-ec6c-4518-bc23-d7a7d8f45be3",
+    "type": "fire",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 14
+  },
+  {
+    "protocol_id": "92fc1c1a-94ea-478d-8fb5-2bf27d59d481",
+    "type": "police",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 83
+  },
+  {
+    "protocol_id": "2335fb62-8089-47fd-9375-d460c1fd1715",
+    "type": "fire",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 65
+  },
+  {
+    "protocol_id": "e0052323-0047-4eb4-9251-f4b62a8dd8fd",
+    "type": "mass_casualty",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 53
+  },
+  {
+    "protocol_id": "d2a91196-ef39-40e9-b98e-763ebf88ebb0",
+    "type": "fire",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 78
+  },
+  {
+    "protocol_id": "8a9039bb-aa5a-4b6a-af3b-6fe04462450b",
+    "type": "ambulance",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 94
+  },
+  {
+    "protocol_id": "3276823b-360b-4b13-817d-e418c40107e4",
+    "type": "fire",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 68
+  },
+  {
+    "protocol_id": "a0c27198-0a4f-434f-b886-be38a006e0f2",
+    "type": "police",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 109
+  },
+  {
+    "protocol_id": "1c667cb0-2d70-4d0b-a757-8b2cf721fbbd",
+    "type": "vip",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 23
+  },
+  {
+    "protocol_id": "1c0d62a3-6f40-4c50-bae7-e48a915c20d7",
+    "type": "fire",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 107
+  },
+  {
+    "protocol_id": "29c3fdfd-a557-403b-b3a1-c97804b2ca39",
+    "type": "police",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 32
+  },
+  {
+    "protocol_id": "8f50087a-5431-44a8-b83a-75eef3c1ab41",
+    "type": "ambulance",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 21
+  },
+  {
+    "protocol_id": "031fc849-28fb-4c8a-a23e-2bf15679155b",
+    "type": "police",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 12
+  },
+  {
+    "protocol_id": "3bbb8d0f-c30b-4be3-9f97-6cd689b946fc",
+    "type": "vip",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 97
+  },
+  {
+    "protocol_id": "25e7e4a4-1e04-49f4-a53f-75eaff464196",
+    "type": "mass_casualty",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 90
+  },
+  {
+    "protocol_id": "bb71b11d-5dd0-46eb-a2d6-23628bb626e4",
+    "type": "vip",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 27
+  },
+  {
+    "protocol_id": "0df13a22-2aa8-4d83-9b8d-56e28a71798c",
+    "type": "police",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 120
+  },
+  {
+    "protocol_id": "bb1bcce9-79ea-4a1c-ae57-8e62c4c08d5c",
+    "type": "ambulance",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 83
+  },
+  {
+    "protocol_id": "23e74c37-c5f5-43a3-866b-7cdffe709743",
+    "type": "police",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 27
+  },
+  {
+    "protocol_id": "192c5591-1365-4382-93a7-b94ec568084c",
+    "type": "fire",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 86
+  },
+  {
+    "protocol_id": "205c6389-6ed1-4f58-ac54-00065ea1142c",
+    "type": "police",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 58
+  },
+  {
+    "protocol_id": "e6244a0a-b92e-45f2-ad91-df1bb5dca5aa",
+    "type": "fire",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 12
+  },
+  {
+    "protocol_id": "fd13e2ed-f2f8-44bb-8c8f-7f350280e399",
+    "type": "vip",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 34
+  },
+  {
+    "protocol_id": "0abb6d1d-fcbc-435f-9025-273c1eb8e9f2",
+    "type": "police",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 54
+  },
+  {
+    "protocol_id": "ef888c8b-a46c-4e6c-a269-126d3fb5db70",
+    "type": "mass_casualty",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 117
+  },
+  {
+    "protocol_id": "e515caa8-57a7-49c5-bef4-567f34ac0338",
+    "type": "ambulance",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 113
+  },
+  {
+    "protocol_id": "b513a262-5b9d-420e-83b8-35a86000c632",
+    "type": "ambulance",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 113
+  },
+  {
+    "protocol_id": "468ce94d-54de-4b24-809b-1cd5a5c0840f",
+    "type": "fire",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 101
+  },
+  {
+    "protocol_id": "780a1869-25a3-4eea-b9d9-e3d8b8c85fbe",
+    "type": "vip",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 86
+  },
+  {
+    "protocol_id": "bfe2db89-c0a4-4fa7-8084-6f8ec7141800",
+    "type": "police",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 26
+  },
+  {
+    "protocol_id": "79983796-037f-4310-abad-804a352f1d40",
+    "type": "vip",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 73
+  },
+  {
+    "protocol_id": "261b1442-cf21-4797-8138-a51fb6dcea55",
+    "type": "ambulance",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 109
+  },
+  {
+    "protocol_id": "8d7570c3-8f85-49d1-b81d-a21f9cfdb148",
+    "type": "ambulance",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 39
+  },
+  {
+    "protocol_id": "6587e0e0-8786-402b-b779-ac5a40d57d74",
+    "type": "mass_casualty",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 25
+  },
+  {
+    "protocol_id": "d15769de-fcd7-4f6b-969f-dbcaae79fcc6",
+    "type": "fire",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 45
+  },
+  {
+    "protocol_id": "c057ad4a-7169-4340-a6b6-d21287215069",
+    "type": "fire",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 64
+  },
+  {
+    "protocol_id": "2f1aeea5-6e0f-4c65-90a3-27162d13159c",
+    "type": "police",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 80
+  },
+  {
+    "protocol_id": "e692b940-1b48-4e57-9471-4cfbfedc02d2",
+    "type": "police",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 79
+  },
+  {
+    "protocol_id": "6cc438fa-c713-4d54-b4ca-c9f9e56dfc54",
+    "type": "police",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 59
+  },
+  {
+    "protocol_id": "72fa894d-5875-4e47-92f2-fed4da105fe6",
+    "type": "police",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 107
+  },
+  {
+    "protocol_id": "ac41fbc2-5de8-42ac-bc18-c7af28220156",
+    "type": "fire",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 37
+  },
+  {
+    "protocol_id": "81c4b3e0-d8a4-40fd-bb43-a371d4bf8c19",
+    "type": "ambulance",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 43
+  },
+  {
+    "protocol_id": "78cedd95-dc6e-4bcf-9164-4722739548fb",
+    "type": "ambulance",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 105
+  },
+  {
+    "protocol_id": "5fd8cc75-cc44-4a24-b783-6018520d1a6e",
+    "type": "fire",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 13
+  },
+  {
+    "protocol_id": "51f19c0a-38d2-4c35-b13d-b63c2374391e",
+    "type": "fire",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 71
+  },
+  {
+    "protocol_id": "734f0bb4-6246-4448-8a57-d4c1c0e6fbf7",
+    "type": "ambulance",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 64
+  },
+  {
+    "protocol_id": "7840834f-5e60-4e4a-90f5-0fbe15edb0e9",
+    "type": "ambulance",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 56
+  },
+  {
+    "protocol_id": "dce8f841-43ed-4827-8827-035a2ea91947",
+    "type": "vip",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 30
+  },
+  {
+    "protocol_id": "bd2386e9-7b84-43c4-8883-face3595fe13",
+    "type": "mass_casualty",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 39
+  },
+  {
+    "protocol_id": "5db5b102-8b02-408c-b53a-a447c4bc12b5",
+    "type": "vip",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 73
+  },
+  {
+    "protocol_id": "ab4f1ac7-1b88-4a92-98a3-a0ec4270ad30",
+    "type": "police",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 17
+  },
+  {
+    "protocol_id": "35932119-d877-454e-b1e2-efc69b3df2a6",
+    "type": "fire",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 86
+  },
+  {
+    "protocol_id": "8cf8aa9a-410f-4f27-a11d-d1bec1ab8d6c",
+    "type": "vip",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 17
+  },
+  {
+    "protocol_id": "fa2f6fc0-4b96-42e2-9496-4f1c8e672537",
+    "type": "mass_casualty",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 102
+  },
+  {
+    "protocol_id": "8c83f5f8-a9b8-42e1-803e-4c0e50b7b71b",
+    "type": "ambulance",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 65
+  },
+  {
+    "protocol_id": "d61640c5-5459-4712-851b-4693b6ed352c",
+    "type": "mass_casualty",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 120
+  },
+  {
+    "protocol_id": "8aafe218-5d71-4452-871e-14f746853dfa",
+    "type": "vip",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 12
+  },
+  {
+    "protocol_id": "1c0c748c-ce54-4116-b1df-13ca925e1059",
+    "type": "mass_casualty",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 39
+  },
+  {
+    "protocol_id": "24b64621-23b9-4ef6-896c-a1b432cbe417",
+    "type": "fire",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 26
+  },
+  {
+    "protocol_id": "e0ca795b-f205-441e-bbcf-079e3b1dcd07",
+    "type": "police",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 77
+  },
+  {
+    "protocol_id": "fe0a2c2e-600a-458a-95fd-06ad29a7f749",
+    "type": "ambulance",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 53
+  },
+  {
+    "protocol_id": "48c243cf-a648-49f3-b687-504af88f44f5",
+    "type": "police",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 43
+  },
+  {
+    "protocol_id": "6d597646-12cc-4f40-b555-e53a733141e1",
+    "type": "fire",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 115
+  },
+  {
+    "protocol_id": "292fbb62-5726-4b0d-82d4-5ad4dcd35aef",
+    "type": "ambulance",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 38
+  },
+  {
+    "protocol_id": "42f3b748-3aa0-41ee-84bd-296d02a67a60",
+    "type": "police",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 14
+  },
+  {
+    "protocol_id": "a2ed98e4-4e0b-4e7b-8b63-9462bef9dedd",
+    "type": "fire",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 17
+  },
+  {
+    "protocol_id": "9fc4c44c-f2b0-438a-876e-6df6cc1e63a1",
+    "type": "ambulance",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 12
+  },
+  {
+    "protocol_id": "7254f8bc-aac5-4942-a465-d6ae0a168e6b",
+    "type": "vip",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 56
+  },
+  {
+    "protocol_id": "f238b597-4c7b-46bf-b347-36b234faebd3",
+    "type": "mass_casualty",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 73
+  },
+  {
+    "protocol_id": "ff7cf145-cd3d-4f6f-a2f3-b632b34a8ee7",
+    "type": "vip",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 108
+  },
+  {
+    "protocol_id": "325b88e9-140b-4352-a62e-5eac210bc30b",
+    "type": "mass_casualty",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 57
+  },
+  {
+    "protocol_id": "16aa05a6-3678-4b8b-a2dc-1615fed1959f",
+    "type": "mass_casualty",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 110
+  },
+  {
+    "protocol_id": "f99390c1-054e-42c5-b650-a1a6cdf6be3d",
+    "type": "police",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 89
+  },
+  {
+    "protocol_id": "be2bf470-1b0b-4315-90fe-f655a40eb822",
+    "type": "ambulance",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 57
+  },
+  {
+    "protocol_id": "ef72d90b-6164-43db-8324-f790543832a5",
+    "type": "mass_casualty",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 85
+  },
+  {
+    "protocol_id": "4ee335bd-5409-4a49-97c0-7d3bc7ad5348",
+    "type": "police",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 57
+  },
+  {
+    "protocol_id": "7fa6de50-2bff-4908-89a9-e33fe2906abe",
+    "type": "police",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 64
+  },
+  {
+    "protocol_id": "fc5a3d67-4b94-44df-b924-b30c0fa75722",
+    "type": "fire",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 41
+  },
+  {
+    "protocol_id": "d89af245-5cd9-4ad1-b0f2-a4ee15aded4a",
+    "type": "police",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 71
+  },
+  {
+    "protocol_id": "3b8a313e-8184-4f13-b84c-34f7fd052d8d",
+    "type": "ambulance",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 27
+  },
+  {
+    "protocol_id": "8461c98b-3556-487e-a0dd-8bcb15bb8487",
+    "type": "police",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 69
+  },
+  {
+    "protocol_id": "0df89c55-88c9-4d43-85be-ee9b3815ea8a",
+    "type": "mass_casualty",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 10
+  },
+  {
+    "protocol_id": "6bdea675-98ce-4286-8ed1-b1ca0499ca70",
+    "type": "ambulance",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 15
+  },
+  {
+    "protocol_id": "d1700b71-0b03-4499-85fa-4f2648e73591",
+    "type": "vip",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 17
+  },
+  {
+    "protocol_id": "d8eb4c1a-4a0b-4409-9402-2bd742dd7233",
+    "type": "ambulance",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 112
+  },
+  {
+    "protocol_id": "b88a03bf-503f-4aae-a613-ed7f6610afae",
+    "type": "vip",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 25
+  },
+  {
+    "protocol_id": "20913839-6f24-435a-bfb6-5cb2c18f2bdd",
+    "type": "ambulance",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 36
+  },
+  {
+    "protocol_id": "f145a379-aad6-4aed-ac32-9dcc77583291",
+    "type": "ambulance",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 113
+  },
+  {
+    "protocol_id": "acd8bb93-bb38-4799-85a9-295b86ccb005",
+    "type": "mass_casualty",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 80
+  },
+  {
+    "protocol_id": "4c2daf84-e56c-4843-b05f-59a5956e2d18",
+    "type": "fire",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 22
+  },
+  {
+    "protocol_id": "41f81e28-274f-4419-afa9-3ddbc3930947",
+    "type": "mass_casualty",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 61
+  },
+  {
+    "protocol_id": "59193822-0d33-49c0-af11-4b31518e1cc6",
+    "type": "police",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 107
+  },
+  {
+    "protocol_id": "b4544f03-f52e-4706-b1f5-d7bba22cf6a2",
+    "type": "ambulance",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 72
+  },
+  {
+    "protocol_id": "0c212b69-d8c8-4ebc-ad2b-daf4af9b25ba",
+    "type": "fire",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 64
+  },
+  {
+    "protocol_id": "f48038e9-1ff3-4865-b000-23c7e839090c",
+    "type": "vip",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 15
+  },
+  {
+    "protocol_id": "1ef36164-dd37-4164-9fea-5426020f36c3",
+    "type": "vip",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 11
+  },
+  {
+    "protocol_id": "2acf94a0-1500-482e-862f-f68794ae2d74",
+    "type": "vip",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 22
+  },
+  {
+    "protocol_id": "b1a71ff4-3fc7-47d9-a072-e6710cd58afb",
+    "type": "police",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 67
+  },
+  {
+    "protocol_id": "d929fe4e-2254-4157-aebc-a2efff98db89",
+    "type": "ambulance",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 28
+  },
+  {
+    "protocol_id": "c3c96410-ec0d-49de-9111-0d07665db06e",
+    "type": "vip",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 13
+  },
+  {
+    "protocol_id": "71c231c6-1ad2-4a50-9105-8117a8a0e1cf",
+    "type": "ambulance",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 53
+  },
+  {
+    "protocol_id": "3d015920-bd7c-4dcc-bceb-d89b5a384e9b",
+    "type": "ambulance",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 69
+  },
+  {
+    "protocol_id": "164d7687-6298-4a49-97d6-0cc6666b117d",
+    "type": "ambulance",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 35
+  },
+  {
+    "protocol_id": "c4567675-0dc7-400b-a895-e4a6a8b322ad",
+    "type": "vip",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 15
+  },
+  {
+    "protocol_id": "60dea691-1213-4add-9b07-3a50e71b6470",
+    "type": "mass_casualty",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 67
+  },
+  {
+    "protocol_id": "82ba0e40-e2ec-411e-b1e7-0e0a7891e8f6",
+    "type": "ambulance",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 41
+  },
+  {
+    "protocol_id": "21499b6e-758c-41ec-86a0-847461b87965",
+    "type": "ambulance",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 69
+  },
+  {
+    "protocol_id": "f45b15a7-7aa9-49f8-8288-7785db13b2ba",
+    "type": "fire",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 52
+  },
+  {
+    "protocol_id": "ef423b43-4e0f-4404-9338-3dca5f8ed5e9",
+    "type": "ambulance",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 16
+  },
+  {
+    "protocol_id": "26c2af5f-122a-4b18-a7bd-3068fe24081d",
+    "type": "police",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 56
+  },
+  {
+    "protocol_id": "b65e7de2-03bd-444a-a8a9-a289cede4825",
+    "type": "vip",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 45
+  },
+  {
+    "protocol_id": "efa51f85-7f0a-4a3d-aae8-d1b22ad730d4",
+    "type": "mass_casualty",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 48
+  },
+  {
+    "protocol_id": "c108a260-3862-4baa-bc74-04efc484cdd4",
+    "type": "fire",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 112
+  },
+  {
+    "protocol_id": "1ec0ba4b-1914-4a82-9d0a-a2e3d41c33ef",
+    "type": "mass_casualty",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 32
+  },
+  {
+    "protocol_id": "6d76bca0-4867-4dbb-a676-14241280049f",
+    "type": "ambulance",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 100
+  },
+  {
+    "protocol_id": "6eadfaed-cc1f-4359-b1e3-834b5f7d8d7c",
+    "type": "fire",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 13
+  },
+  {
+    "protocol_id": "c75f4189-f548-4f83-bd67-d8d85c5a8c0f",
+    "type": "ambulance",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 82
+  },
+  {
+    "protocol_id": "0e19caf1-1097-47a1-bc3f-b14e134b7888",
+    "type": "mass_casualty",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 33
+  },
+  {
+    "protocol_id": "4e01effc-cbf6-42c4-9d9c-47229ca9efe7",
+    "type": "police",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 78
+  },
+  {
+    "protocol_id": "62bec15e-f498-451d-b375-d9f033f19dec",
+    "type": "vip",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 96
+  },
+  {
+    "protocol_id": "bf19aff9-2d0a-486d-9aaf-66a0eb51a41e",
+    "type": "police",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 67
+  },
+  {
+    "protocol_id": "0922511b-520d-45a2-94ed-1ef1ea46902d",
+    "type": "mass_casualty",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 100
+  },
+  {
+    "protocol_id": "f0fa0a3b-b2dc-4106-892e-935b08ebebd3",
+    "type": "mass_casualty",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 86
+  },
+  {
+    "protocol_id": "243f7f82-6c53-4fd0-b066-09d16b565ab4",
+    "type": "police",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 73
+  },
+  {
+    "protocol_id": "195466cd-ef70-4334-8f35-1fa020aa82fc",
+    "type": "ambulance",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 36
+  },
+  {
+    "protocol_id": "b5af424f-d6f1-40d9-8b21-361b7dd0eb30",
+    "type": "ambulance",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 81
+  },
+  {
+    "protocol_id": "60ea568a-6aca-4882-901d-851aa4e855a5",
+    "type": "ambulance",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 52
+  },
+  {
+    "protocol_id": "4151a5ae-0876-4e73-a187-5378dc6756cf",
+    "type": "fire",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 95
+  },
+  {
+    "protocol_id": "f47b8914-69ac-4d02-840e-bc7b44004561",
+    "type": "fire",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 87
+  },
+  {
+    "protocol_id": "10239e6d-3b67-4dc5-9b02-bff3a347663f",
+    "type": "mass_casualty",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 30
+  },
+  {
+    "protocol_id": "39eaa086-9011-4263-a0a1-ae0b1bfc70e3",
+    "type": "mass_casualty",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 42
+  },
+  {
+    "protocol_id": "f5a69b3b-bf45-472d-a603-fdde90042bd0",
+    "type": "mass_casualty",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 60
+  },
+  {
+    "protocol_id": "6fc5fdf9-4b7a-43f8-b8c5-0dc20c903345",
+    "type": "mass_casualty",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 115
+  },
+  {
+    "protocol_id": "bd75fc70-7243-43a9-8edd-14676df8da4f",
+    "type": "fire",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 20
+  },
+  {
+    "protocol_id": "850aa47b-1ec1-465a-83a9-3ad28109fae0",
+    "type": "police",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 84
+  },
+  {
+    "protocol_id": "b50ae52e-ea66-42b1-aa4d-32ca0ead4da8",
+    "type": "ambulance",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 77
+  },
+  {
+    "protocol_id": "caa9d7fd-9d20-4a9a-a9ce-faf66b0d7424",
+    "type": "fire",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 116
+  },
+  {
+    "protocol_id": "f73364f1-f1c0-44cc-8bf1-ae459389eb06",
+    "type": "fire",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 99
+  },
+  {
+    "protocol_id": "fc79910f-088b-4e26-a9b3-a4045c2324f2",
+    "type": "mass_casualty",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 12
+  },
+  {
+    "protocol_id": "11c9f212-da79-4a1a-bfa8-a715a152b69d",
+    "type": "ambulance",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 17
+  },
+  {
+    "protocol_id": "fc1bf225-dfae-4004-9c96-f2a15e51364b",
+    "type": "police",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 61
+  },
+  {
+    "protocol_id": "d93a2fad-46d0-4f02-874e-310fa0acbc12",
+    "type": "mass_casualty",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 64
+  },
+  {
+    "protocol_id": "37cd4d30-e369-41fa-95d3-096783113c76",
+    "type": "ambulance",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 49
+  },
+  {
+    "protocol_id": "df25345d-1d96-44ba-bfd6-11fb611f2229",
+    "type": "police",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 90
+  },
+  {
+    "protocol_id": "6190de17-b631-49a6-b05d-cb73299af5e8",
+    "type": "vip",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 13
+  },
+  {
+    "protocol_id": "9525580c-2947-4a65-9c71-0a0604cf1261",
+    "type": "ambulance",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 111
+  },
+  {
+    "protocol_id": "07a41474-ad73-4117-83ac-993e82b69496",
+    "type": "ambulance",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 16
+  },
+  {
+    "protocol_id": "2a35eaac-a44d-4308-ace9-bfef4f314bf9",
+    "type": "mass_casualty",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 85
+  },
+  {
+    "protocol_id": "f23a59d4-aa36-40fd-89d3-3209dbb45853",
+    "type": "mass_casualty",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 95
+  },
+  {
+    "protocol_id": "9b3af920-2364-48c0-a8ff-2460b61aa957",
+    "type": "mass_casualty",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 25
+  },
+  {
+    "protocol_id": "cb54db28-e4fe-447d-9f86-ad24f1249ccf",
+    "type": "police",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 14
+  },
+  {
+    "protocol_id": "b065d40f-4206-45da-95ca-9cad194ca31f",
+    "type": "ambulance",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 105
+  },
+  {
+    "protocol_id": "a1ee08b8-4462-4739-9e34-782a5b16ef2c",
+    "type": "police",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 84
+  },
+  {
+    "protocol_id": "518d0a8b-f39b-40e1-b32b-dd571c3af96a",
+    "type": "fire",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 79
+  },
+  {
+    "protocol_id": "9e1c49fb-11de-4b2c-91d1-e4748fa0e035",
+    "type": "vip",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 18
+  },
+  {
+    "protocol_id": "ca71f994-f525-45a5-b684-9019e4797b44",
+    "type": "vip",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 106
+  },
+  {
+    "protocol_id": "0f32c22f-929f-413e-ac88-fdc28bb13064",
+    "type": "police",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 83
+  },
+  {
+    "protocol_id": "42f5dff3-59d3-47c9-8954-0b9c59e02faf",
+    "type": "ambulance",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 50
+  },
+  {
+    "protocol_id": "2a81d982-9121-4fb6-8b41-a41f6288d6e4",
+    "type": "fire",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 95
+  },
+  {
+    "protocol_id": "bfabf396-fa05-4584-b830-03c088beba54",
+    "type": "ambulance",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 50
+  },
+  {
+    "protocol_id": "0bacd7a7-b060-4584-80fa-0d7818ef697e",
+    "type": "fire",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 15
+  },
+  {
+    "protocol_id": "39a78aa3-a6c0-4cf5-a406-9d9b27e0cf22",
+    "type": "police",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 88
+  },
+  {
+    "protocol_id": "ef9b72e0-046f-4fe6-8513-7767f627a1a8",
+    "type": "vip",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 74
+  },
+  {
+    "protocol_id": "c92fa005-41c9-4df0-a2c6-edf84c1bbb19",
+    "type": "ambulance",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 113
+  },
+  {
+    "protocol_id": "4f494636-ccaa-4b46-b390-10ae1eabd56f",
+    "type": "vip",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 48
+  },
+  {
+    "protocol_id": "8ddc8772-e085-493b-afab-826586e28661",
+    "type": "vip",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 115
+  },
+  {
+    "protocol_id": "63c02718-a607-49e9-aadc-a8d02ed7ac17",
+    "type": "mass_casualty",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 60
+  },
+  {
+    "protocol_id": "11d9a1df-723e-4c61-8ff7-0de30a1f2f9f",
+    "type": "vip",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 77
+  },
+  {
+    "protocol_id": "1266e58a-88aa-49a3-9601-4b6328429b23",
+    "type": "mass_casualty",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 91
+  },
+  {
+    "protocol_id": "e5cdc7e2-68c6-4538-914c-e140cde6ca50",
+    "type": "fire",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 92
+  },
+  {
+    "protocol_id": "681ec760-62ff-408b-b2f6-be8bc75fefcc",
+    "type": "ambulance",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 35
+  },
+  {
+    "protocol_id": "c6590977-dfa0-4223-bac2-cb5314cb1dc9",
+    "type": "mass_casualty",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 85
+  },
+  {
+    "protocol_id": "3424d558-9e6a-426b-82ff-ed32e658997c",
+    "type": "mass_casualty",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 97
+  },
+  {
+    "protocol_id": "abe16b4b-6920-413d-9d18-1b2a5844608e",
+    "type": "ambulance",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 114
+  },
+  {
+    "protocol_id": "3d9e486b-c2fb-459c-99b2-f933bf001a48",
+    "type": "mass_casualty",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 58
+  },
+  {
+    "protocol_id": "18ea1ab2-3baa-4893-81b8-518e0a21054c",
+    "type": "vip",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 81
+  },
+  {
+    "protocol_id": "48eda685-d9ad-44f5-a663-db014a76645d",
+    "type": "police",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 23
+  },
+  {
+    "protocol_id": "26fe3332-c811-4435-a00d-fe796d4623cc",
+    "type": "mass_casualty",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 58
+  },
+  {
+    "protocol_id": "f06c149e-bfbd-46c4-987f-b362b8e2652e",
+    "type": "ambulance",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 29
+  },
+  {
+    "protocol_id": "c54be1c3-98d2-4ab7-9837-089de01b511c",
+    "type": "fire",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 72
+  },
+  {
+    "protocol_id": "7d7d3220-5d5d-4fcf-a962-db21e21e5046",
+    "type": "police",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 16
+  },
+  {
+    "protocol_id": "c6c7cb9d-1c02-45f3-8d6c-d9f34e3b9f35",
+    "type": "mass_casualty",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 71
+  },
+  {
+    "protocol_id": "dc63d3f2-3609-43a8-a3d1-119f0a84b6a1",
+    "type": "vip",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 44
+  },
+  {
+    "protocol_id": "7df8ea25-b15d-4ba3-afed-d170c9734ed0",
+    "type": "fire",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 39
+  },
+  {
+    "protocol_id": "24b37851-216a-423b-be48-dbae30c0e9d8",
+    "type": "fire",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 107
+  },
+  {
+    "protocol_id": "321a8d31-9c81-46d7-acba-094de31564cf",
+    "type": "police",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 65
+  },
+  {
+    "protocol_id": "299973de-ef13-4151-9ac4-a5ee3eb4b8fd",
+    "type": "fire",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 36
+  },
+  {
+    "protocol_id": "9fbaf169-26ec-49ba-b30b-6bc12fee9f8c",
+    "type": "vip",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 95
+  },
+  {
+    "protocol_id": "f27a023a-8e7b-4a26-96e6-bfb66b3d529b",
+    "type": "vip",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 86
+  },
+  {
+    "protocol_id": "0c539afc-1dd2-48a7-a507-9d323b7dab0d",
+    "type": "police",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 84
+  },
+  {
+    "protocol_id": "d08cdc20-7b8b-48a9-8187-4e3f3a406852",
+    "type": "vip",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 24
+  },
+  {
+    "protocol_id": "60ea0bea-6671-4d12-8fcb-72c4b7120d3b",
+    "type": "vip",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 67
+  },
+  {
+    "protocol_id": "847ef832-4dac-4ba0-8d10-8638d424f202",
+    "type": "ambulance",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 18
+  },
+  {
+    "protocol_id": "0a8b5844-319a-4eb9-9de1-8b8e0710dab9",
+    "type": "police",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 31
+  },
+  {
+    "protocol_id": "9ea0e854-b86d-4a9a-8c6a-974051b799c3",
+    "type": "mass_casualty",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 118
+  },
+  {
+    "protocol_id": "973e9d78-7db2-4c9b-9459-282a507decf4",
+    "type": "fire",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 13
+  },
+  {
+    "protocol_id": "ab8e3370-f240-4bb2-9517-3e263c090c3b",
+    "type": "fire",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 69
+  },
+  {
+    "protocol_id": "4a7e1a3f-b4f8-434e-b428-647b9aa76c9d",
+    "type": "ambulance",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 75
+  },
+  {
+    "protocol_id": "bdd48eba-4aee-4323-8c25-4a9345f426df",
+    "type": "mass_casualty",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 114
+  },
+  {
+    "protocol_id": "f63fc01d-c587-4b08-ba4b-0c6aee7742c4",
+    "type": "vip",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 118
+  },
+  {
+    "protocol_id": "fa91f02e-2d3e-4446-9407-843cbf0e512e",
+    "type": "fire",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 23
+  },
+  {
+    "protocol_id": "1e2ec641-9203-4b39-9cc2-327328449540",
+    "type": "ambulance",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 62
+  },
+  {
+    "protocol_id": "b21ce0df-c82d-4eaf-8283-4ca753d39fff",
+    "type": "ambulance",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 117
+  },
+  {
+    "protocol_id": "78b719db-b458-4748-8f16-99b079b0acaa",
+    "type": "fire",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 94
+  },
+  {
+    "protocol_id": "fb6573c6-f230-4059-a4df-1f441ac4d4e5",
+    "type": "ambulance",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 90
+  },
+  {
+    "protocol_id": "ad079614-31ba-4d3f-b393-8d04363c09b6",
+    "type": "police",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 22
+  },
+  {
+    "protocol_id": "036aedce-5dfd-4411-b308-fe42718fc9c6",
+    "type": "vip",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 112
+  },
+  {
+    "protocol_id": "7838ae0f-2ec2-4351-899a-6df0e6848f27",
+    "type": "ambulance",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 40
+  },
+  {
+    "protocol_id": "953aed43-246f-45ae-83c4-52d274e24601",
+    "type": "police",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 97
+  },
+  {
+    "protocol_id": "3b0694fc-afda-4b5b-8643-4056eebbcf01",
+    "type": "vip",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 83
+  },
+  {
+    "protocol_id": "6751625a-4582-49b2-b33c-8bc976afb8c8",
+    "type": "vip",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 86
+  },
+  {
+    "protocol_id": "f42ccd87-a4b3-4876-824a-56a5e58e3bf1",
+    "type": "vip",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 109
+  },
+  {
+    "protocol_id": "c21a95ff-45ab-440a-90a8-961cce27ab5d",
+    "type": "vip",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 67
+  },
+  {
+    "protocol_id": "c592abdc-4ed3-44da-9514-a19496a9e181",
+    "type": "fire",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 24
+  },
+  {
+    "protocol_id": "9b2e3338-1055-4f87-84cc-7e4c353eaebb",
+    "type": "ambulance",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 66
+  },
+  {
+    "protocol_id": "b1112ea3-ecae-48bb-94e2-005578d7cc1c",
+    "type": "ambulance",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 103
+  },
+  {
+    "protocol_id": "42e51119-82b6-4f18-bd53-8b93771a8d8c",
+    "type": "vip",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 74
+  },
+  {
+    "protocol_id": "a404ab02-063f-48f5-ac06-bcb373ee7e88",
+    "type": "vip",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 47
+  },
+  {
+    "protocol_id": "e6ab8854-76b7-40ba-8df1-83b116531aee",
+    "type": "vip",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 13
+  },
+  {
+    "protocol_id": "5bf6d21d-64af-474e-a718-76e7becb396f",
+    "type": "ambulance",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 79
+  },
+  {
+    "protocol_id": "f2d12688-cb95-4da8-83f6-1f1ef4c61891",
+    "type": "mass_casualty",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 43
+  },
+  {
+    "protocol_id": "f12ce156-e3bf-4ea4-b006-b439621996d3",
+    "type": "police",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 78
+  },
+  {
+    "protocol_id": "3eca5c31-9314-4c91-86c9-6865a160dca6",
+    "type": "fire",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 30
+  },
+  {
+    "protocol_id": "17dd6720-0db3-4ff9-9b17-2da77648d98b",
+    "type": "ambulance",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 67
+  },
+  {
+    "protocol_id": "ee4b8e1e-9683-4dc5-b5e5-444066681361",
+    "type": "police",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 76
+  },
+  {
+    "protocol_id": "64a2154e-5492-42f4-9daf-4a64c2cc6a5e",
+    "type": "vip",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 104
+  },
+  {
+    "protocol_id": "421b4089-5580-4504-a93e-ba53a17eb125",
+    "type": "fire",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 83
+  },
+  {
+    "protocol_id": "b8d81088-9437-4b3a-98ae-0464e500bca7",
+    "type": "mass_casualty",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 74
+  },
+  {
+    "protocol_id": "ffbd7aef-cfb2-44ba-b38a-ac6947830454",
+    "type": "police",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 66
+  },
+  {
+    "protocol_id": "c7474841-d5f5-4595-bea2-64e10bf1bbba",
+    "type": "ambulance",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 79
+  },
+  {
+    "protocol_id": "5fb7d2fc-3e6e-4019-a108-07643c8a4b3e",
+    "type": "fire",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 17
+  },
+  {
+    "protocol_id": "1fcfcec3-85f7-44c9-970d-c650fb17dd50",
+    "type": "ambulance",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 43
+  },
+  {
+    "protocol_id": "7390cc90-e295-44eb-b8db-2bf389b2cbe1",
+    "type": "vip",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 15
+  },
+  {
+    "protocol_id": "160d4982-3d64-4f4b-8ee3-92e772cbb469",
+    "type": "mass_casualty",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 70
+  },
+  {
+    "protocol_id": "9e4fe35d-9503-4b52-96df-b03edd017efa",
+    "type": "police",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 70
+  },
+  {
+    "protocol_id": "850dae77-db01-4d63-994c-7230c2226a0f",
+    "type": "ambulance",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 116
+  },
+  {
+    "protocol_id": "3db82e1e-bee2-4a96-be25-2e50ed8014aa",
+    "type": "fire",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 117
+  },
+  {
+    "protocol_id": "b3c9662f-6483-42dc-ae85-f6283b0909c3",
+    "type": "fire",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 58
+  },
+  {
+    "protocol_id": "245b767f-5a45-48a6-aef2-f0486ebb8228",
+    "type": "vip",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 20
+  },
+  {
+    "protocol_id": "90325655-bf54-4e60-85f5-dccd1b1be9b8",
+    "type": "police",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 86
+  },
+  {
+    "protocol_id": "b8379c3a-7281-43fd-9d02-7bf005583265",
+    "type": "mass_casualty",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 21
+  },
+  {
+    "protocol_id": "b41b3a64-8d40-4c95-b062-90e2e119087d",
+    "type": "ambulance",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 30
+  },
+  {
+    "protocol_id": "11e672a2-d689-434c-b71d-367fd83e8dae",
+    "type": "vip",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 73
+  },
+  {
+    "protocol_id": "60288658-8b9a-46e8-9d06-14ae0a4969f0",
+    "type": "vip",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 44
+  },
+  {
+    "protocol_id": "420d0cad-018d-4d80-9890-7a247297b667",
+    "type": "fire",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 86
+  },
+  {
+    "protocol_id": "9d2ae633-46d0-4991-b6c3-7fdde2123ec9",
+    "type": "mass_casualty",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 81
+  },
+  {
+    "protocol_id": "46de9bfc-475d-4d13-a6f5-2be4dcadb62d",
+    "type": "vip",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 29
+  },
+  {
+    "protocol_id": "423f00c0-6385-431d-9696-31fe82af7a9c",
+    "type": "mass_casualty",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 102
+  },
+  {
+    "protocol_id": "919fb2e6-ab2f-460c-b9e0-09c24fb05c24",
+    "type": "mass_casualty",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 84
+  },
+  {
+    "protocol_id": "ae52c38c-d740-4cf9-b148-1fcd15136446",
+    "type": "mass_casualty",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 95
+  },
+  {
+    "protocol_id": "8f82f53c-b8f2-4a91-a5fe-52f0f5c9755d",
+    "type": "ambulance",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 44
+  },
+  {
+    "protocol_id": "30bd5b51-e105-47c3-ae6c-64eeeafae0bc",
+    "type": "ambulance",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 85
+  },
+  {
+    "protocol_id": "7023f919-b854-4f8e-84ce-e7c6946dbbed",
+    "type": "police",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 39
+  },
+  {
+    "protocol_id": "0378cab8-3505-414f-876d-6961b7ed2b64",
+    "type": "ambulance",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 43
+  },
+  {
+    "protocol_id": "6303d1bd-09db-4b1f-a32a-3c76be070ee9",
+    "type": "ambulance",
+    "text": "Ambulance on active call: clear all lanes within 200m radius.",
+    "response_time_sec": 111
+  },
+  {
+    "protocol_id": "1f25058f-f9b0-4b8d-a4b9-68e96c7750ef",
+    "type": "vip",
+    "text": "Fire truck response: pre-clear route from station to incident location.",
+    "response_time_sec": 64
+  },
+  {
+    "protocol_id": "ea88847c-de59-405c-aede-5f20ddeb067f",
+    "type": "ambulance",
+    "text": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+    "response_time_sec": 55
+  },
+  {
+    "protocol_id": "0f3e91ab-00b3-49cb-97e7-3034ba896c51",
+    "type": "mass_casualty",
+    "text": "Mass casualty event: activate city-wide emergency corridor protocol.",
+    "response_time_sec": 15
+  },
+  {
+    "protocol_id": "ff099779-d760-4503-a7a7-e33421a25322",
+    "type": "mass_casualty",
+    "text": "VIP convoy: pre-signal all intersections along route 5 minutes ahead.",
+    "response_time_sec": 80
+  }
+]

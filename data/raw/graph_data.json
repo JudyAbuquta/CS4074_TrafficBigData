@@ -1,0 +1,62 @@
+{
+  "nodes": [
+    { "id": "INT_1", "label": "Intersection 1", "type": "intersection" },
+    { "id": "INT_2", "label": "Intersection 2", "type": "intersection" },
+    { "id": "INT_3", "label": "Intersection 3", "type": "intersection" },
+    { "id": "INT_4", "label": "Intersection 4", "type": "intersection" },
+    { "id": "INT_5", "label": "Intersection 5", "type": "intersection" },
+    { "id": "INT_6", "label": "Intersection 6", "type": "intersection" },
+    { "id": "INT_7", "label": "Intersection 7", "type": "intersection" },
+    { "id": "INT_8", "label": "Intersection 8", "type": "intersection" },
+    { "id": "INT_9", "label": "Intersection 9", "type": "intersection" },
+    { "id": "INT_10", "label": "Intersection 10", "type": "intersection" },
+
+    { "id": "RD_1", "label": "King Road", "type": "road", "speed_limit_kmh": 80, "lanes": 3 },
+    { "id": "RD_2", "label": "Tahlia Street", "type": "road", "speed_limit_kmh": 60, "lanes": 2 },
+    { "id": "RD_3", "label": "Prince Sultan Road", "type": "road", "speed_limit_kmh": 70, "lanes": 3 },
+    { "id": "RD_4", "label": "Haram Road", "type": "road", "speed_limit_kmh": 80, "lanes": 4 },
+    { "id": "RD_5", "label": "Airport Road", "type": "road", "speed_limit_kmh": 100, "lanes": 4 },
+    { "id": "RD_6", "label": "Corniche Road", "type": "road", "speed_limit_kmh": 60, "lanes": 3 },
+    { "id": "RD_7", "label": "University Avenue", "type": "road", "speed_limit_kmh": 50, "lanes": 2 },
+    { "id": "RD_8", "label": "Hospital Street", "type": "road", "speed_limit_kmh": 40, "lanes": 2 },
+    { "id": "RD_9", "label": "Market Road", "type": "road", "speed_limit_kmh": 50, "lanes": 2 },
+    { "id": "RD_10", "label": "Industrial Road", "type": "road", "speed_limit_kmh": 70, "lanes": 3 },
+
+    { "id": "HOSP_1", "label": "Central Hospital", "type": "hospital" },
+    { "id": "HOSP_2", "label": "North Hospital", "type": "hospital" },
+    { "id": "POL_1", "label": "Main Police Station", "type": "police_station" },
+    { "id": "FIRE_1", "label": "Main Fire Station", "type": "fire_station" },
+    { "id": "CTRL_1", "label": "Traffic Control Center", "type": "control_center" }
+  ],
+  "edges": [
+    { "from": "RD_1", "to": "INT_1", "relation": "CONNECTED_TO" },
+    { "from": "RD_2", "to": "INT_2", "relation": "CONNECTED_TO" },
+    { "from": "RD_3", "to": "INT_3", "relation": "CONNECTED_TO" },
+    { "from": "RD_4", "to": "INT_4", "relation": "CONNECTED_TO" },
+    { "from": "RD_5", "to": "INT_5", "relation": "CONNECTED_TO" },
+    { "from": "RD_6", "to": "INT_6", "relation": "CONNECTED_TO" },
+    { "from": "RD_7", "to": "INT_7", "relation": "CONNECTED_TO" },
+    { "from": "RD_8", "to": "INT_8", "relation": "CONNECTED_TO" },
+    { "from": "RD_9", "to": "INT_9", "relation": "CONNECTED_TO" },
+    { "from": "RD_10", "to": "INT_10", "relation": "CONNECTED_TO" },
+
+    { "from": "INT_1", "to": "INT_2", "relation": "NEIGHBOR" },
+    { "from": "INT_2", "to": "INT_3", "relation": "NEIGHBOR" },
+    { "from": "INT_3", "to": "INT_4", "relation": "NEIGHBOR" },
+    { "from": "INT_4", "to": "INT_5", "relation": "NEIGHBOR" },
+    { "from": "INT_5", "to": "INT_6", "relation": "NEIGHBOR" },
+    { "from": "INT_6", "to": "INT_7", "relation": "NEIGHBOR" },
+    { "from": "INT_7", "to": "INT_8", "relation": "NEIGHBOR" },
+    { "from": "INT_8", "to": "INT_9", "relation": "NEIGHBOR" },
+    { "from": "INT_9", "to": "INT_10", "relation": "NEIGHBOR" },
+
+    { "from": "HOSP_1", "to": "INT_8", "relation": "NEAR" },
+    { "from": "HOSP_2", "to": "INT_5", "relation": "NEAR" },
+    { "from": "POL_1", "to": "INT_3", "relation": "NEAR" },
+    { "from": "FIRE_1", "to": "INT_4", "relation": "NEAR" },
+
+    { "from": "CTRL_1", "to": "INT_1", "relation": "MONITORS" },
+    { "from": "CTRL_1", "to": "INT_5", "relation": "MONITORS" },
+    { "from": "CTRL_1", "to": "INT_10", "relation": "MONITORS" }
+  ]
+}

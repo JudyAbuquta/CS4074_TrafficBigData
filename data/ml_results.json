@@ -1,0 +1,28 @@
+[
+  {
+    "accuracy": 1.0,
+    "f1": 1.0,
+    "elapsed_sec": 6.33,
+    "classifier": "logreg",
+    "condition": "clean"
+  },
+  {
+    "accuracy": 1.0,
+    "f1": 1.0,
+    "elapsed_sec": 26.24,
+    "classifier": "svm",
+    "condition": "clean"
+  },
+  {
+    "accuracy": 0.8488,
+    "f1": 0.8546,
+    "classifier": "logreg",
+    "condition": "null_20pct"
+  },
+  {
+    "accuracy": 1.0,
+    "f1": 1.0,
+    "classifier": "logreg",
+    "condition": "noisy_labels_10pct"
+  }
+]

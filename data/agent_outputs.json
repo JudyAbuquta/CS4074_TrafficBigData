@@ -1,0 +1,183 @@
+[
+  {
+    "va": {
+      "agent": "VehicleAgent",
+      "message": "[VA] Intersection Al_Waziriyah_x_Sitteen (zone: south) \u2014 bus at 75.1 km/h. Congestion: medium. Weather: dusty. Period: off_peak. Risk score: 52.5. Policy context: When congestion > 70%, agent should send_alert. Priority level 4.; When congestion > 70%, agent should hold_phase. Priority level 1..",
+      "alerts": [],
+      "risk": 52.5,
+      "neighbors": []
+    },
+    "ida": {
+      "agent": "IncidentDetectionAgent",
+      "intersection_id": "Al_Waziriyah_x_Sitteen",
+      "severity": "high",
+      "spark_predicted_sev": "high",
+      "risk_score": 52.5,
+      "is_emergency": false,
+      "recommended_action": "activate_reroute",
+      "protocol": "Follow standard emergency protocol",
+      "nearest_hospital": "Al_Noor_Hospital",
+      "va_risk_confirmed": true
+    },
+    "tla": {
+      "agent": "TrafficLightAgent",
+      "intersection_id": "Al_Waziriyah_x_Sitteen",
+      "severity": "high",
+      "action": "activate_reroute",
+      "timing_sec": {
+        "green": 20,
+        "yellow": 5,
+        "red": 45
+      },
+      "decision": "Rerouting activated at Al_Waziriyah_x_Sitteen. Extended red to divert traffic.",
+      "policy_context": "When incident severity >= high, agent should activate_reroute. Priority level 5.",
+      "is_emergency": false
+    }
+  },
+  {
+    "va": {
+      "agent": "VehicleAgent",
+      "message": "[VA] Intersection Al_Waziriyah_x_Sitteen (zone: south) \u2014 police at 34.5 km/h. Congestion: medium. Weather: dusty. Period: off_peak. Risk score: 64.7. Policy context: When congestion > 70%, agent should send_alert. Priority level 4.; When congestion > 70%, agent should hold_phase. Priority level 1..",
+      "alerts": [],
+      "risk": 64.7,
+      "neighbors": []
+    },
+    "ida": {
+      "agent": "IncidentDetectionAgent",
+      "intersection_id": "Al_Waziriyah_x_Sitteen",
+      "severity": "high",
+      "spark_predicted_sev": "high",
+      "risk_score": 64.7,
+      "is_emergency": true,
+      "recommended_action": "activate_reroute",
+      "protocol": "Police pursuit: lock all crossing phases to red until pursuit passes.",
+      "nearest_hospital": "Al_Noor_Hospital",
+      "va_risk_confirmed": true
+    },
+    "tla": {
+      "agent": "TrafficLightAgent",
+      "intersection_id": "Al_Waziriyah_x_Sitteen",
+      "severity": "high",
+      "action": "activate_reroute",
+      "timing_sec": {
+        "green": 20,
+        "yellow": 5,
+        "red": 45
+      },
+      "decision": "Rerouting activated at Al_Waziriyah_x_Sitteen. Extended red to divert traffic.",
+      "policy_context": "When incident severity >= high, agent should activate_reroute. Priority level 5.",
+      "is_emergency": true
+    }
+  },
+  {
+    "va": {
+      "agent": "VehicleAgent",
+      "message": "[VA] Intersection Prince_Sultan_x_Sari (zone: south) \u2014 truck at 78.3 km/h. Congestion: high. Weather: rainy. Period: off_peak. Risk score: 64.0. Policy context: When congestion > 70%, agent should send_alert. Priority level 4.; When congestion > 70%, agent should hold_phase. Priority level 1..",
+      "alerts": [],
+      "risk": 64.0,
+      "neighbors": [
+        "Al_Hamra_x_Falastin"
+      ]
+    },
+    "ida": {
+      "agent": "IncidentDetectionAgent",
+      "intersection_id": "Prince_Sultan_x_Sari",
+      "severity": "high",
+      "spark_predicted_sev": "high",
+      "risk_score": 64.0,
+      "is_emergency": false,
+      "recommended_action": "activate_reroute",
+      "protocol": "Fire truck response: pre-clear route from station to incident location.",
+      "nearest_hospital": "King_Fahd_Hospital",
+      "va_risk_confirmed": true
+    },
+    "tla": {
+      "agent": "TrafficLightAgent",
+      "intersection_id": "Prince_Sultan_x_Sari",
+      "severity": "high",
+      "action": "activate_reroute",
+      "timing_sec": {
+        "green": 20,
+        "yellow": 5,
+        "red": 45
+      },
+      "decision": "Rerouting activated at Prince_Sultan_x_Sari. Extended red to divert traffic.",
+      "policy_context": "When incident severity >= high, agent should activate_reroute. Priority level 5.",
+      "is_emergency": false
+    }
+  },
+  {
+    "va": {
+      "agent": "VehicleAgent",
+      "message": "[VA] Intersection Prince_Sultan_x_Sari (zone: south) \u2014 motorcycle at 52.9 km/h. Congestion: high. Weather: hot. Period: off_peak. Risk score: 51.6. Policy context: When congestion > 70%, agent should send_alert. Priority level 4.; When congestion > 70%, agent should hold_phase. Priority level 1..",
+      "alerts": [],
+      "risk": 51.6,
+      "neighbors": [
+        "Al_Hamra_x_Falastin"
+      ]
+    },
+    "ida": {
+      "agent": "IncidentDetectionAgent",
+      "intersection_id": "Prince_Sultan_x_Sari",
+      "severity": "high",
+      "spark_predicted_sev": "high",
+      "risk_score": 51.6,
+      "is_emergency": false,
+      "recommended_action": "activate_reroute",
+      "protocol": "Follow standard emergency protocol",
+      "nearest_hospital": "King_Fahd_Hospital",
+      "va_risk_confirmed": true
+    },
+    "tla": {
+      "agent": "TrafficLightAgent",
+      "intersection_id": "Prince_Sultan_x_Sari",
+      "severity": "high",
+      "action": "activate_reroute",
+      "timing_sec": {
+        "green": 20,
+        "yellow": 5,
+        "red": 45
+      },
+      "decision": "Rerouting activated at Prince_Sultan_x_Sari. Extended red to divert traffic.",
+      "policy_context": "When incident severity >= high, agent should activate_reroute. Priority level 5.",
+      "is_emergency": false
+    }
+  },
+  {
+    "va": {
+      "agent": "VehicleAgent",
+      "message": "[VA] Intersection Prince_Sultan_x_Sari (zone: south) \u2014 bus at 48.0 km/h. Congestion: high. Weather: dusty. Period: off_peak. Risk score: 73.1. Policy context: When congestion > 70%, agent should send_alert. Priority level 4.; When congestion > 70%, agent should hold_phase. Priority level 1..",
+      "alerts": [],
+      "risk": 73.1,
+      "neighbors": [
+        "Al_Hamra_x_Falastin"
+      ]
+    },
+    "ida": {
+      "agent": "IncidentDetectionAgent",
+      "intersection_id": "Prince_Sultan_x_Sari",
+      "severity": "high",
+      "spark_predicted_sev": "high",
+      "risk_score": 73.1,
+      "is_emergency": false,
+      "recommended_action": "activate_reroute",
+      "protocol": "Follow standard emergency protocol",
+      "nearest_hospital": "King_Fahd_Hospital",
+      "va_risk_confirmed": true
+    },
+    "tla": {
+      "agent": "TrafficLightAgent",
+      "intersection_id": "Prince_Sultan_x_Sari",
+      "severity": "high",
+      "action": "activate_reroute",
+      "timing_sec": {
+        "green": 20,
+        "yellow": 5,
+        "red": 45
+      },
+      "decision": "Rerouting activated at Prince_Sultan_x_Sari. Extended red to divert traffic.",
+      "policy_context": "When incident severity >= high, agent should activate_reroute. Priority level 5.",
+      "is_emergency": false
+    }
+  }
+]

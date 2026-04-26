@@ -1,0 +1,4802 @@
+[
+  {
+    "rule_id": "8a66ae65-83cf-4b71-8473-544d76fece90",
+    "category": "timing",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "7cc39468-9b8b-4c81-bed2-5afb1b333acc",
+    "category": "timing",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "41d90c33-59d1-4120-9f26-1b7d6eedf4cc",
+    "category": "timing",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "4a16f085-ad1c-4802-b91b-ea27993be4ac",
+    "category": "timing",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "3f370405-0bed-4829-9471-062b2f7cba71",
+    "category": "timing",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "bc1d7cf6-ad6b-4f03-a80d-2fe66b0ef762",
+    "category": "emergency",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "00105bf0-f8b9-4c33-88d5-a263ba0daba9",
+    "category": "routing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "03df2d2d-44b9-4c3c-a8bb-5feaacc9340e",
+    "category": "priority",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "2a235534-d184-4bdb-bfa2-fe1292ab271a",
+    "category": "timing",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "2fa241fd-06ff-475d-8958-2dad9ec2ac14",
+    "category": "timing",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "5a2c62af-8bb5-4510-8ad4-ca355a40e784",
+    "category": "timing",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "bb5a2b2a-8104-4576-b7de-dc84c955139c",
+    "category": "priority",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "e5733257-7538-46ce-b426-5ac2fd151906",
+    "category": "routing",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "eef09389-06ad-445e-b866-55d83e246fbb",
+    "category": "routing",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "80885949-0b74-489d-ac93-ee81bbdf49ff",
+    "category": "priority",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "a77e9d0b-433d-4e59-ae5a-3eb709310550",
+    "category": "timing",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "630dc36a-5042-414c-ac1d-607292969731",
+    "category": "routing",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "b3db5afe-eb85-405b-9c36-c2676967211c",
+    "category": "emergency",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "f1ba59a5-1a55-45a3-8645-5f849333a722",
+    "category": "emergency",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "017bfc03-b3ce-4d15-8e0a-73ecf593df1a",
+    "category": "emergency",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "375b3a95-f460-499e-8ce3-6db955baad09",
+    "category": "timing",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "b3fcd8c7-5088-46eb-9216-c98f6cf4f636",
+    "category": "priority",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "3dde1921-0b69-41ac-9c02-30bf400c4bc5",
+    "category": "speed",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "3608ecd7-35e0-42ee-a135-d65e04701a42",
+    "category": "priority",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "ef4d664f-decc-448e-a9b6-a5db4c165b81",
+    "category": "routing",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "9cc971d2-9aa2-4497-9ee0-bfbdc5ba8ea7",
+    "category": "emergency",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "edf2dbc9-ae8f-4477-8fbd-e45f24c62971",
+    "category": "routing",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "803cf3b3-7d69-4fe4-be30-03e86f397684",
+    "category": "timing",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "a505cb31-c665-4514-b557-bc1c4508824c",
+    "category": "routing",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "468dbe58-e033-4c2a-899a-807f4f3c3416",
+    "category": "speed",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "48404c25-34ad-43e9-8bc5-f9e8481f5a8c",
+    "category": "timing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "636055d0-14f3-4c15-99cb-fce02b3fb29a",
+    "category": "speed",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "3148fb6e-dfdf-4bdb-b50e-f01ef43caa4c",
+    "category": "priority",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "6c4780ab-51c6-43d1-80e9-7b85acf83752",
+    "category": "speed",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "4965e19b-879a-4393-8a38-659dd5e48ec1",
+    "category": "priority",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "5e88a777-6647-4f88-a43a-9b01c9bd9194",
+    "category": "timing",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "b4e7e696-a3de-4689-9bad-4cff8f5eff1b",
+    "category": "speed",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "7086976f-214a-4be4-b874-b52653fa3640",
+    "category": "timing",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "28f1384a-c36d-4da3-9d9f-6543e92fe745",
+    "category": "routing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "b5fa3368-b6b2-4e0a-984f-a97b795583d4",
+    "category": "routing",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "dcc003a4-1a53-4dc2-a540-1531b47b59e2",
+    "category": "timing",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "f339d170-18b1-4942-9110-c0ef0278bdca",
+    "category": "priority",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "9d768850-2bed-4ce5-aa80-c062bf27528c",
+    "category": "speed",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "993eb38c-2fb0-40d1-8f0e-d8d977142075",
+    "category": "timing",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "20a6d386-0df5-4e5f-bdcf-e33bbc3e2a16",
+    "category": "priority",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "f64d8393-ab6b-442e-b49d-1b6ea0300ceb",
+    "category": "timing",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "455e312b-a5bc-41cf-b5bc-34f9326e54dd",
+    "category": "priority",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "956f1aed-e572-4e5a-a483-eca2212ae33d",
+    "category": "priority",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "ef7027fd-eecc-4141-9e3f-8433b82c082b",
+    "category": "priority",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "5ab6dde2-061b-4a8c-97fb-5900a1a2bc25",
+    "category": "speed",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "877bbd12-f6ff-4bd9-9bcc-2e51b6f9f8f0",
+    "category": "timing",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "f24e1ae9-2579-492b-bca8-f80db5642cc2",
+    "category": "timing",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "8a0f68a1-1cc2-4a99-ad14-9879bcd32c7a",
+    "category": "timing",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "040f8471-02ba-4219-8071-9950fda0f13d",
+    "category": "speed",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "cfcad60c-5add-4dd5-8bb4-d8203f886ea3",
+    "category": "priority",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "33f89b9f-cfb1-4b31-a748-dd43c6fd2172",
+    "category": "timing",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "69df8f42-e567-49e1-841c-515452219c10",
+    "category": "timing",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "fead7924-76f1-4181-b256-d79943d1b83e",
+    "category": "speed",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "0050ba9d-170d-4fda-a648-221756391d0e",
+    "category": "emergency",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "c3c9a9a6-7c59-4bc0-a8c1-0cde751f1c8c",
+    "category": "timing",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "5b6f09bd-4f7e-43d5-9c3f-0abae77cd7e4",
+    "category": "timing",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "f4a0c980-2c0e-4156-98f9-78313a13eb2c",
+    "category": "speed",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "1357b568-ba7d-4a66-9886-dcc427de9a32",
+    "category": "emergency",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "4a9c08c0-c058-4c23-84ab-6be5cd252fd3",
+    "category": "emergency",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "bf30a9a8-a7eb-49f9-81e5-72a0bbfad012",
+    "category": "emergency",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "4aa5cb7e-9e2d-47fb-97c6-ac07b01cbecd",
+    "category": "timing",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "4b559050-991e-47a9-9523-33ca5c9aac3a",
+    "category": "priority",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "414ff944-c805-47eb-a547-59e09bac2016",
+    "category": "priority",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "6ea0bd1b-e4c2-403f-8573-9f17a44240fb",
+    "category": "speed",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "c9d5d61a-b835-41b7-8f55-517e96216768",
+    "category": "routing",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "9dd90ffd-0de8-437b-a2e0-20b6cfcc370f",
+    "category": "routing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "18648a5f-087c-457e-b234-8aa0897a695e",
+    "category": "priority",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "294015cb-a51b-4f04-a686-f536cace7780",
+    "category": "priority",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "f9535e27-396b-48c8-9585-e12b0060d2f7",
+    "category": "priority",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "46fb874c-680b-47bc-9b59-74c6adde394c",
+    "category": "speed",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "940881bb-51f6-4cf7-8e1b-fe29efb5372a",
+    "category": "timing",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "ab797b28-1a99-4102-99e0-3966144f1333",
+    "category": "priority",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "761a8095-a8f3-4a1d-97ca-ba47583fb4a4",
+    "category": "timing",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "97777ce3-0e63-4a15-ac74-e49a2bec314a",
+    "category": "routing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "826f7d9b-5f91-4fa6-a8d6-314fa4c4e6e0",
+    "category": "speed",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "82f0a056-00bf-4d4c-a3d7-16bf45228ddb",
+    "category": "routing",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "17b2d6c1-5060-46c7-8428-4a97ad6ae926",
+    "category": "timing",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "2a182965-df8d-4418-8517-59f65fb91fcc",
+    "category": "speed",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "f79d5029-979a-4b93-99f9-cf92af77d224",
+    "category": "emergency",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "205d63d7-ef51-427e-90fa-a628c4857d83",
+    "category": "routing",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "6e0a9667-9b18-4255-a1f5-6b0a752ade75",
+    "category": "priority",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "2920a345-1852-41a2-9800-1ac565fec952",
+    "category": "emergency",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "0fd5b15e-c4d6-4fe5-9117-1be2ff62c477",
+    "category": "emergency",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "085826f6-8329-4be0-8ca7-1c8676a452ff",
+    "category": "speed",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "473e95bb-a8ff-45f3-979d-4ca768035f21",
+    "category": "speed",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "8c4d6673-c075-4419-8c7d-46274a8f9f5d",
+    "category": "speed",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "b3ff68ea-b47b-4849-a287-0328600406b1",
+    "category": "speed",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "cbd0f1a2-6bf6-4153-ba44-5e471cc17100",
+    "category": "speed",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "91562614-c3f4-4fb7-9c7c-cd69e521b709",
+    "category": "speed",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "bad8cd7d-3b17-4d05-bb1b-a3a8fa55b7d2",
+    "category": "speed",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "640170a2-6178-410c-a5ae-66f48510b7fe",
+    "category": "emergency",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "e365a2a5-4619-4e7e-989a-3e5ce442895d",
+    "category": "priority",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "f9312f32-4306-421d-879e-654a2ae92e3b",
+    "category": "timing",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "5bb3bd9d-dc9e-43be-b7f7-61eef2dcbe08",
+    "category": "speed",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "2c683d44-9813-486c-9e1a-6f235035b76b",
+    "category": "speed",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "768e3877-f3ab-45e2-825d-de96847b4d44",
+    "category": "priority",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "1352d469-2112-4829-9e19-ecb8522ed98c",
+    "category": "routing",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "8b97ce12-60af-404a-b868-9e98b18b69d1",
+    "category": "speed",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "98c40fc3-0d5d-4902-b2b9-29868c4af9b2",
+    "category": "routing",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "e2ffeaad-b96e-4ead-bdc4-f43f4a6aa125",
+    "category": "timing",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "be06c6c2-65bf-4f57-9461-93fe3813eb16",
+    "category": "emergency",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "d64e46f9-961b-430b-990f-93428fcd60df",
+    "category": "speed",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "97d229aa-ff16-4a04-8fcc-4865378372d8",
+    "category": "timing",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "7248caca-bec4-4ff1-ba5c-1a4878700065",
+    "category": "speed",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "216f36ba-62f3-43a2-8725-3795fa3b127f",
+    "category": "priority",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "e5b5040d-5a93-48c5-abad-390c3d044d42",
+    "category": "emergency",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "e5fac785-20a1-4d18-a3e7-a23e8889b3d9",
+    "category": "emergency",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "1f310734-3959-4f93-b99d-1ed8dda0b34a",
+    "category": "routing",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "60d30a20-e148-4092-a55e-c6dbd3d28a86",
+    "category": "speed",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "8ba119b2-d8eb-4796-ad69-0dba51b97ebe",
+    "category": "timing",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "82b7efca-bb7d-42f4-a568-cf7f61633206",
+    "category": "emergency",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "42b5da11-120c-468e-9821-5137aa5f242a",
+    "category": "emergency",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "5515d130-8c57-4bf9-af4e-391ff693bcf6",
+    "category": "emergency",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "bbc4e31e-a838-450d-af9b-f2f882abc254",
+    "category": "priority",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "c396d8cc-8821-4bd7-8b55-3040064d9058",
+    "category": "speed",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "22cade72-cd64-4964-aea9-c8d58068655b",
+    "category": "timing",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "1c7daac5-0341-4679-a65e-af1fa4dc50c0",
+    "category": "priority",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "1fc3ec84-9c27-4f85-9a7b-202708883cca",
+    "category": "timing",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "06b2f7b9-5acc-4ebd-83db-a51045b896e8",
+    "category": "timing",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "b83379ad-e82e-4791-98d7-8a8dffed4273",
+    "category": "timing",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "9c69bc31-9da3-42f3-a071-38c493bf94d8",
+    "category": "routing",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "0f54fdd5-4f55-4d5e-9b9f-3067a49eac69",
+    "category": "emergency",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "351bbd40-30e8-4b7d-87a4-d025de3e8892",
+    "category": "routing",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "8e108d9c-251b-4dd7-a476-83f8e0ae864c",
+    "category": "timing",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "09447b35-5769-4917-adea-51eefb2e28a0",
+    "category": "speed",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "a991ed42-d548-44dd-b55e-601602bd66bc",
+    "category": "priority",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "c4773d01-a3e3-462d-9dce-2f17df33d4a1",
+    "category": "priority",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "f99d90e8-bc54-4808-9d24-bae1fea7c1f4",
+    "category": "emergency",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "884902e5-96fe-475e-bd06-0b128d839c10",
+    "category": "timing",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "44ec1d2f-5eff-4bfc-91a7-4a18220b57df",
+    "category": "timing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "0867378d-3aaa-4d04-a1c7-8efc6a1ac490",
+    "category": "speed",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "f46c7372-ecec-469f-9a70-4aa78b138748",
+    "category": "emergency",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "c6060ef0-9779-44b7-bb01-b92087ae6530",
+    "category": "routing",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "6cc73d79-1c15-4f4e-9a13-d5b0c6c9b1c5",
+    "category": "routing",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "2df2ea05-e3b2-48c5-a9c8-c76abdd4099d",
+    "category": "speed",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "bc869ac8-f840-473f-b1e2-731930b0b262",
+    "category": "timing",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "c724e6a3-e6ca-4f75-b53e-71a5600fc82b",
+    "category": "routing",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "2c9b0b25-96b5-43e1-aa58-737d3b7d6907",
+    "category": "routing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "b6a3280b-e862-4380-8e5b-8bc48efe866a",
+    "category": "speed",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "f6edfd81-7332-43b9-8b96-41a62ac7ea82",
+    "category": "speed",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "c1a9f0ae-c27e-4f91-8c15-fd89fd88bc4b",
+    "category": "timing",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "5bd48816-ae9a-4690-9bb1-d86baa27772b",
+    "category": "speed",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "ebec66ea-7216-4614-aa1b-7958a0f5481c",
+    "category": "speed",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "23f247de-1e55-4dcb-a5b8-81ab0782d657",
+    "category": "emergency",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "ea5b2b70-aa94-4d4a-abad-205bd62dcb6c",
+    "category": "priority",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "ddcb00d0-4c86-4336-93dc-99aea15ec0da",
+    "category": "routing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "a640390d-1704-48a8-89bb-00818bf47a98",
+    "category": "emergency",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "313585ce-5ccb-45a1-8836-c5c8dadfce6a",
+    "category": "emergency",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "7d3feeb3-4d90-4be7-9a09-2207248d3f18",
+    "category": "speed",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "086df737-94f1-4eae-b958-b474d8472609",
+    "category": "emergency",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "6388ba05-8aa0-4c9a-b310-d88a95a1bc34",
+    "category": "timing",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "ee126c48-2997-4a73-8e0d-91fb17fc612d",
+    "category": "emergency",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "fd60069d-ea2b-40a1-be0b-e899d40c92fa",
+    "category": "timing",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "6fbd25b7-a477-4c04-acab-f8c09adb34b7",
+    "category": "priority",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "7d8cdb6f-90b1-41d9-995b-12f3a907c42a",
+    "category": "routing",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "f7449a0a-05fb-4f93-8d55-7eed2af7ccd2",
+    "category": "routing",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "1775a414-8695-4fc5-90df-4ee33871d753",
+    "category": "timing",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "8b9d54c9-9681-4624-adbf-c4f43c7b37ac",
+    "category": "speed",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "123c1ff6-aca9-4f87-a258-cae9ac7d061a",
+    "category": "priority",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "30e8a670-cc45-4099-901e-5f5dcee7d801",
+    "category": "routing",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "c9e20020-c619-4efe-9d49-0649ab178276",
+    "category": "priority",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "f26ef521-9c0d-4904-a362-4f8a2b505fbc",
+    "category": "emergency",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "7dc96146-28ed-4d9f-b7f5-1797c5cdbedc",
+    "category": "timing",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "e183c12e-2016-470f-9070-f48bf56d57cc",
+    "category": "priority",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "c9c4909b-5b55-4338-99df-9db5b966809b",
+    "category": "emergency",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "1ae5344c-20b5-440a-8bef-f81d61a6a2cf",
+    "category": "emergency",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "821170d7-de77-4541-84cf-f86c838a4bd6",
+    "category": "speed",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "a252e3b5-56ab-4b67-94c8-233393cb5393",
+    "category": "emergency",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "42eece99-efc0-4b41-b09e-53489d82bcad",
+    "category": "emergency",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "68d60c67-0f1d-4317-8519-8cbb2ed3e915",
+    "category": "priority",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "15d5b48c-87f2-405f-bf6e-2c58e375d5e8",
+    "category": "timing",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "f2b083e7-2c82-457a-ab9b-80d9c6c7fc4c",
+    "category": "routing",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "1c07f038-bd80-4f0c-8a5c-07483114a162",
+    "category": "speed",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "d3629438-5d7f-4b63-84ad-23e647f5328a",
+    "category": "timing",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "915a0b86-ff98-4e44-b4e5-f2e204e616b5",
+    "category": "speed",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "173fd8e2-2c8f-4326-b1d3-7e6cc1e55590",
+    "category": "routing",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "2224440c-25a6-43b0-a77b-b2fc08d44002",
+    "category": "speed",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "40cc2cdd-e3b8-40ec-b41d-520c08edf6ac",
+    "category": "routing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "97c5d4ea-6628-46fc-bef1-a901d43e10bd",
+    "category": "priority",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "ad17dbc3-7c3e-4e61-9e90-6f3358581351",
+    "category": "priority",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "7588199f-6366-4b84-8041-be8acf0d4fd2",
+    "category": "routing",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "f8218cb6-d64a-4292-9c3a-922974526907",
+    "category": "timing",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "5dbc0fc4-c0e1-470c-b605-e336f222d5b7",
+    "category": "timing",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "1ff18c82-ad11-436e-a83b-0816dac3b39b",
+    "category": "timing",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "4aff54b7-be54-4173-b60d-e1e1cdeadf8f",
+    "category": "routing",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "6fcdb05b-25c4-41f3-bee3-c6379c8aa596",
+    "category": "timing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "d21cd61c-fe4e-493c-aef2-5f22403c85e6",
+    "category": "emergency",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "3baefc81-6993-41b2-9d17-889e6cc03f02",
+    "category": "speed",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "0140a35b-1006-46c9-b54b-81c1230ae703",
+    "category": "timing",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "52ee14b6-7259-484c-bea8-5d1ac50a3508",
+    "category": "timing",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "3d0e93cd-da69-466c-96b7-48b88e8b3f1d",
+    "category": "priority",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "03ef16cc-c652-49a0-a797-8988e8d72c15",
+    "category": "priority",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "79f9c7d8-7791-4a35-9274-d1577944d486",
+    "category": "speed",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "c828e5af-344e-40e9-a921-d3642f425d3c",
+    "category": "speed",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "48696b16-94b6-47b9-a1b7-7130c54bb503",
+    "category": "emergency",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "c599ee7e-2f56-48d4-8e02-8b03664e3877",
+    "category": "speed",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "96d241be-783c-4279-a30b-284d5894d028",
+    "category": "speed",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "a069952a-2658-4a47-b32e-44b7f5f7bb3b",
+    "category": "routing",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "91542d16-30bf-444d-84ea-7d8077f08efe",
+    "category": "emergency",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "84867876-6b4e-4871-b226-653bc8404a99",
+    "category": "timing",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "0c66d048-63dc-44a1-adfa-56dd5c20463c",
+    "category": "speed",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "817918c2-d9fa-47f9-8741-e023e32e47d8",
+    "category": "timing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "e6e80dbe-be38-4763-a831-29309e72bb09",
+    "category": "timing",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "21f60238-9868-4728-86f4-3fb8df43ec3a",
+    "category": "speed",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "1c7ea5c4-ed43-4cfe-b7c2-98432dd5f3c7",
+    "category": "emergency",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "223589f9-4361-44e5-b614-eb1bfdfb4a91",
+    "category": "emergency",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "0536908b-8547-4aaf-9de9-dbc2d0f04478",
+    "category": "priority",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "fd1551f2-627d-4f81-9fea-3301eb9fd2ff",
+    "category": "timing",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "8e0a02ab-dbf9-4022-b9ca-d603d6458421",
+    "category": "routing",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "305badff-0fc6-4d40-9661-682dc6a199c6",
+    "category": "routing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "e0bbc6eb-c1dd-44cd-b17f-4c365e6281ea",
+    "category": "priority",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "385ae609-f520-4bab-b1de-f08c72b299ec",
+    "category": "timing",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "70a30437-f9e7-4dee-863b-1b37620ae2e7",
+    "category": "priority",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "dfac980e-35a7-4640-8b4d-fc54594fe3cb",
+    "category": "routing",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "204c8a98-6608-42bb-87d9-6cd94846ce92",
+    "category": "priority",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "d49afdb0-bf29-41fb-9f4a-7293c835b799",
+    "category": "timing",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "c52b5b7e-040e-428c-9cae-43395bf31801",
+    "category": "speed",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "305baf5d-bec5-4321-bc78-1da6fb2f3eab",
+    "category": "routing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "b4ad1e71-aa63-4dc7-8e3f-79e3f197b927",
+    "category": "emergency",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "fd704838-d7c2-4c5c-82ae-86ea03c708a6",
+    "category": "priority",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "a9110eb6-7a83-4722-b1c5-477a865ec6f5",
+    "category": "priority",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "9a8224eb-1e01-4e89-bd20-ca8efe7080e9",
+    "category": "speed",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "b126304b-f877-42f3-a0a8-3f21433c5af7",
+    "category": "priority",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "a128810d-c3e8-42d7-8ec4-1fccbccf0862",
+    "category": "routing",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "0a3d00a3-9177-4fe9-ad79-90280cfd9ee7",
+    "category": "timing",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "b59a34ed-c09a-4f90-b0a4-0a7b5283d448",
+    "category": "emergency",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "79b1cce6-b89f-4e45-9458-e249624308e4",
+    "category": "priority",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "6cee9ff5-7d72-4644-8641-c9886e9f098f",
+    "category": "timing",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "8bef4be9-02e5-4afa-94d4-6165b362f943",
+    "category": "timing",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "4ca61164-bec9-4f71-a2d0-779a052f7ce5",
+    "category": "emergency",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "e0bf966d-6bfb-49d5-abf1-23f22ef37055",
+    "category": "routing",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "e4675ded-5446-4469-9963-594d1e1133ee",
+    "category": "emergency",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "92fe4668-c479-44a7-893f-814c22123ff9",
+    "category": "priority",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "bbcea8b3-4ebf-4b87-b213-2cf8b158c629",
+    "category": "speed",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "7061242c-1bdc-4bdc-893c-a94518e77167",
+    "category": "priority",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "2e93acf2-ff6d-46af-9057-715e4e756a67",
+    "category": "routing",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "a23b7acd-f74a-42d5-a509-dbb542a5bd64",
+    "category": "priority",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "da126141-ab20-4541-b914-f919e5b5bf01",
+    "category": "emergency",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "6a618905-f9b2-449b-912a-a06e6a56eace",
+    "category": "timing",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "76f98c62-7109-4976-adea-bdf4a9a52618",
+    "category": "routing",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "bc140303-067b-4eb4-a5de-82ffd79cc9d8",
+    "category": "priority",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "51416e41-1883-43a1-834f-e221e900b932",
+    "category": "speed",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "4c64873c-a1a7-45ed-a239-696813fb2961",
+    "category": "emergency",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "0a28642b-aa29-4af9-b4f7-16f266e14a1a",
+    "category": "emergency",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "999b4d8f-3363-4c61-a0e5-8a97e2699960",
+    "category": "speed",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "482d63b0-df9e-4e23-a2b5-98eb633697e3",
+    "category": "routing",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "c95ca769-4bbb-4a4a-9c17-303b3d257081",
+    "category": "speed",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "3d92ca2e-0eb0-47a5-ac28-ecf59d905f42",
+    "category": "routing",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "44690c60-d2f4-4772-bda7-1fb18f97635d",
+    "category": "emergency",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "563cdbd7-87c8-4885-ab01-8e0002422ecb",
+    "category": "routing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "755ba69f-4aec-4bec-b257-8799a057d664",
+    "category": "priority",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "1cd5909a-2489-4e80-ba9b-8fbc17435f31",
+    "category": "emergency",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "383e1a15-52c2-4cb2-9730-b733c744df2a",
+    "category": "emergency",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "2fd2260b-5242-4e21-bc03-adb89f35eec7",
+    "category": "emergency",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "ee511991-f795-4977-b60b-73b316a72545",
+    "category": "speed",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "15db025e-9e25-4f50-bd38-e44cd9fb9c18",
+    "category": "priority",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "150ccfce-5a72-4d60-8f84-924374e3a2f5",
+    "category": "routing",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "d28839c0-dc5b-4f76-bd5c-d007238111d7",
+    "category": "priority",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "88f2bd2e-5f17-405e-b54d-6b8df4f4e6ac",
+    "category": "emergency",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "53aae54b-91dc-446f-af9a-11cc39e10e40",
+    "category": "emergency",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "476f2b9f-ee86-4d15-ba6d-7fa7b403cb39",
+    "category": "timing",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "6d5a3770-6a41-4c66-8b20-e2cbcfa9dab2",
+    "category": "priority",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "7c45a996-4dd6-476e-afa9-5b02bd7ce657",
+    "category": "emergency",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "a6a37204-6698-4ba7-b239-0c3bf9537d67",
+    "category": "priority",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "d9085256-6bd9-4fa2-ad54-b6eddab6d069",
+    "category": "speed",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "8d325330-53c7-4a23-886b-2f10d24d3c85",
+    "category": "speed",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "427b5fd4-3325-43b5-adbf-b20ba525f4cd",
+    "category": "routing",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "34743710-24fa-4804-981f-a2ab9d68583a",
+    "category": "routing",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "02932ca4-72b8-4ec5-a66e-5457064d5133",
+    "category": "emergency",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "bbb75b86-4bfe-423f-a5f3-e0fa59f139e5",
+    "category": "routing",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "0b167f8b-06c9-4b44-bf6f-8b0c7a8d3ad5",
+    "category": "emergency",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "019a2ae2-1a5d-451b-89b9-6d824d05ba00",
+    "category": "emergency",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "a0061252-3d4d-4770-8147-b3e96f1087fa",
+    "category": "timing",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "e0b59cab-deaa-49f9-a407-d8a00470fc48",
+    "category": "timing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "a5c6cf8e-55dd-4196-98d1-975f82af07c8",
+    "category": "timing",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "05244f2a-9920-47bf-bee0-fa5a88f147ff",
+    "category": "timing",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "0c185189-4466-4647-8020-e3ba27274eb4",
+    "category": "speed",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "cf12d0b7-64b3-4244-abb7-4cfbeac1d6e0",
+    "category": "priority",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "cd75bdfe-a197-4298-9a5c-d762ad1b2669",
+    "category": "speed",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "c8a94263-8044-428d-8360-7767a6b57483",
+    "category": "emergency",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "fdf52b72-977a-4f37-97aa-edc956d7fef4",
+    "category": "priority",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "d548b662-9e42-4093-a88d-b5b54a88f7a8",
+    "category": "timing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "4af14f74-67cb-4275-bc25-6ec72eaf09c1",
+    "category": "timing",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "78d876cf-9dc4-407b-af8b-b94d370bb7db",
+    "category": "timing",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "34085dbd-276d-4510-8ff3-0d7778521c97",
+    "category": "priority",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "5e8e948e-3797-49af-b26d-57b0ba9578a6",
+    "category": "emergency",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "a0c46839-54e9-4d2b-a11c-5015f3f2e7a3",
+    "category": "emergency",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "4f537de2-d1c3-42d9-be0b-cb42eda2b1b5",
+    "category": "priority",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "9f1993a5-d3cb-4cda-a9a8-cc9f4e13cc3b",
+    "category": "routing",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "877d3b33-e3fe-43df-8baa-22dd694df688",
+    "category": "timing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "a6f4fe41-d163-42e8-b890-012ab6315c09",
+    "category": "speed",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "f0bc3718-a063-4c30-9dce-a3e27fb5b6d1",
+    "category": "emergency",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "9bb3cb8a-cc44-42f6-9498-b0f0249da190",
+    "category": "speed",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "fdc4d1fa-d91e-4361-b414-0a85d1a8fa3a",
+    "category": "emergency",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "c48b8f3d-028b-4a6e-a298-9d19d6fd590c",
+    "category": "speed",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "d0a47d19-3550-45a0-a347-5b477be3b43c",
+    "category": "emergency",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "943bcb69-09ad-467e-9a98-fee0688505e6",
+    "category": "priority",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "676d8c3a-32cc-4d00-92d0-6b989a3690a0",
+    "category": "priority",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "b2c10e4c-45c4-4e4c-b539-4023e03edacd",
+    "category": "priority",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "4e67bafe-74f9-4f03-8651-7f60a84c86f7",
+    "category": "priority",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "81722fb4-441a-4567-b22d-5c5e0af13637",
+    "category": "emergency",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "c3e4b881-2e8f-43ed-9788-ee7df8bb1e7d",
+    "category": "priority",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "6608a78d-bca8-49cd-af15-7b0ac1a428e6",
+    "category": "timing",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "2658679b-0927-4551-9701-34c8d227d4bb",
+    "category": "emergency",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "a7cd77a4-f136-43b8-975b-8f273afcb6d2",
+    "category": "timing",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "b860297b-402a-4897-a0b2-6e73174edb2f",
+    "category": "emergency",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "86d12fac-6689-4001-86a2-5b6ac1ea806e",
+    "category": "speed",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "4f1d2663-9c2f-40c3-be68-e130f98de85b",
+    "category": "routing",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "703b608e-4642-4f7d-b508-bbd09da260b7",
+    "category": "priority",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "9cb9f181-1851-4238-87ab-b03caaace37b",
+    "category": "priority",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "07ede7dc-9554-49c9-8f36-663d94637951",
+    "category": "speed",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "e05da332-b11e-4a9e-8b29-2b662503a2a3",
+    "category": "speed",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "c537c1b2-4590-43ea-90e3-9e87c80277cc",
+    "category": "speed",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "10416611-5dfb-459e-a53e-81b37f67d094",
+    "category": "timing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "29f4646d-86c8-49ca-a5a2-5b633b1ab097",
+    "category": "routing",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "1745fd27-37d6-4045-a065-0d2036bca055",
+    "category": "timing",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "2f10c400-1cba-4784-af81-308a6771c300",
+    "category": "routing",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "ddb86c82-7441-428a-9471-e13ea195b499",
+    "category": "speed",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "7590a31a-f422-47d1-bdc2-8fae3e8ddcf8",
+    "category": "timing",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "994c9940-a388-459e-8689-e92cc8427daf",
+    "category": "speed",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "d2551b5c-e07a-488b-99f0-9d856572a9cd",
+    "category": "timing",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "5861f996-c026-4e1c-9ccd-eb7c439568ef",
+    "category": "priority",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "d3ca48be-254e-4652-8b18-6deff9d1c1e4",
+    "category": "priority",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "f057f2bf-15ad-44a6-a19c-8820596cde34",
+    "category": "timing",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "6396a297-5ce8-4290-9c2d-0b228ad32584",
+    "category": "speed",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "340580a7-b6f9-44a3-a804-ca1fe82b130f",
+    "category": "priority",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "1f106057-41e9-4100-8373-d033ef703738",
+    "category": "routing",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "4284ae8f-78b2-49c7-b3b4-c61b60c69d2d",
+    "category": "priority",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "9530e1a7-9634-4ea1-bcd3-99f9701a458d",
+    "category": "priority",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "16c81505-b582-45b9-927b-79ed5310c879",
+    "category": "routing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "a039232b-89e7-467b-8ef4-aa2fe19aab6d",
+    "category": "emergency",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "063ed968-7ab2-489f-b193-a72b7ed53737",
+    "category": "priority",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "a3c3bebf-5679-4a1c-9da8-ed505b955a73",
+    "category": "speed",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "bad25fc2-5179-4e26-ae04-5f1f81dfae74",
+    "category": "routing",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "3a41a5b6-b596-495e-a475-1eddf0d8d803",
+    "category": "speed",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "e16e3fdf-5c29-478e-a8ec-aa0af6a8e2b4",
+    "category": "speed",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "6001aecf-2f17-4634-8abf-752f50635fd5",
+    "category": "speed",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "6afe2850-a355-4e39-a753-8ca2cc7a92bc",
+    "category": "timing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "f24f8358-f6cc-4b60-a24a-e4a81753430e",
+    "category": "timing",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "90a9bcf1-ca68-4f58-bfee-a8f9e8511533",
+    "category": "routing",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "ec5ec014-757e-4f8d-9553-532a53eb68ea",
+    "category": "emergency",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "8f2ad638-1f21-49b1-903e-59586725700d",
+    "category": "routing",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "050c9857-c94f-4d20-a634-8b0c49296e74",
+    "category": "speed",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "32893903-a1ae-4d65-ab1f-55812cb71c72",
+    "category": "routing",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "453d2efa-81e3-413e-9db6-0e2944259a48",
+    "category": "timing",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "759120d4-9968-4212-a3de-fee0100ab2c3",
+    "category": "routing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "a07b50af-d91f-4239-a43e-d9cd8cb6922f",
+    "category": "timing",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "de38e668-85b8-4b54-bf27-1e4336d2872d",
+    "category": "timing",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "91b55c35-ce46-4fe0-8012-9868286fa48c",
+    "category": "speed",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "ea74b054-6c57-4816-a852-1f572ee88d0f",
+    "category": "speed",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "bbc08d67-3f9f-4df2-92e2-c5a7593415dc",
+    "category": "priority",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "9beea3c6-92f4-411d-805a-dfc7a1286c27",
+    "category": "priority",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "18040541-2ade-47b7-9d9b-18e9ca1b6195",
+    "category": "speed",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "de66e318-3e7c-4e3f-8763-c941a0473400",
+    "category": "speed",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "0cf1e7f9-f8c6-4755-9128-b9abc4909e1d",
+    "category": "timing",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "a8323c40-8233-4b6b-8f2d-82944492b39e",
+    "category": "speed",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "7643f3a2-a35a-481e-bfcb-89559ccec503",
+    "category": "emergency",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "a122bf47-86a6-47af-b591-480ccb285545",
+    "category": "routing",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "b4ee5f1e-2d9a-4a11-a36c-c95d8ae3a69f",
+    "category": "speed",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "26c65b87-a71d-40fa-8e4e-f9da14f55fae",
+    "category": "timing",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "1bacd6d9-79ec-4592-a78d-75fb7e46b073",
+    "category": "priority",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "a5932670-52dc-4dae-81ff-c2c3bf1acc15",
+    "category": "timing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "e6969918-0042-4bdc-9837-776d38e9e124",
+    "category": "timing",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "b1d3e8ca-94bc-4dfe-afa3-21790e5d545e",
+    "category": "speed",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "5412e61a-ee34-42e7-a125-568c84d2d624",
+    "category": "priority",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "9eec132c-70d3-4a42-bb2d-b33eb7aead18",
+    "category": "routing",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "43d1fbe5-7660-49cd-97a5-5610a17a1889",
+    "category": "emergency",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "9ec23e54-e6ee-4b50-a107-bf65577d0e90",
+    "category": "routing",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "776eda8a-2703-4cd2-8ea8-e3ab5a289853",
+    "category": "routing",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "9f4932b0-66ac-4067-9f6f-43bbb39c9e72",
+    "category": "emergency",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "f56782e3-c035-4d6d-97f9-c6b708489b18",
+    "category": "emergency",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "a57221b7-0f55-4b89-b122-dd8ae8f0bf13",
+    "category": "timing",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "9ea17678-3c8a-4ec7-a5b2-dbb01fc65e8a",
+    "category": "speed",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "222a9df2-c83d-4162-ada8-c9b5aab6ce82",
+    "category": "routing",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "63c8fcd0-b3c6-4435-8fe1-a09d7c7a2422",
+    "category": "speed",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "a92372b8-46a8-4815-b549-d48e059ce04e",
+    "category": "timing",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "b6227a1c-420b-4aed-b46e-4f3a985f9720",
+    "category": "priority",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "b806e060-2519-4607-80cc-3022c863c7c9",
+    "category": "routing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "3b2a16f4-1f4d-4175-9b46-bc8aec8dbb0b",
+    "category": "emergency",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "e62cdc47-46ff-4ca7-81dd-8402f1de64ee",
+    "category": "timing",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "cd101daa-5cf0-43c4-b1cd-f063076009cf",
+    "category": "emergency",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "aca52492-be24-4630-a09f-bfe490dc7304",
+    "category": "priority",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "91cbcfba-fd09-49ce-b192-0a2574252683",
+    "category": "speed",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "96cb1513-aaba-4862-9095-91735bf2f367",
+    "category": "speed",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "742bc908-013d-44f0-b69f-74dbd5f19b71",
+    "category": "emergency",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "22ba170b-e6ff-4467-9a38-8c25807262a8",
+    "category": "timing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "23164b3a-db6b-4b63-89b0-59e625167e35",
+    "category": "speed",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "3b37b643-4fc7-46ca-a524-e3e29f7a90d5",
+    "category": "speed",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "a6481735-7a87-4735-8944-71c7e40799ad",
+    "category": "timing",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "ac7200ba-d70c-4d6d-95fe-2c8c7cdaf756",
+    "category": "timing",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "87f36129-c07e-4fea-ae2c-47b246d7df98",
+    "category": "emergency",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "f796b94b-f374-48b1-bd54-69d54998ebfc",
+    "category": "speed",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "d4b1058e-8614-4fb9-8d0b-13ffacc52c08",
+    "category": "timing",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "111920b0-324c-4c9c-9149-b21c1860a208",
+    "category": "emergency",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "287c2a2a-9f96-40b0-b551-f2ccb6d08502",
+    "category": "priority",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "9b263038-b9a6-4b82-8ca7-fbdae3aa0db9",
+    "category": "priority",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "9a461afc-4436-42b7-b803-2da28e7e5bd2",
+    "category": "routing",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "1726470e-3ab1-4e93-8e19-3157cd71e651",
+    "category": "timing",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "e0728d38-648d-4813-b4c4-921689690b1c",
+    "category": "routing",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "f9a3f05f-3e27-462d-84a5-a5279bcd95f0",
+    "category": "emergency",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "98153b5f-8edd-4a3b-99d0-e0904608466f",
+    "category": "speed",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "1dbd2321-3ebb-4615-ab01-ac79f2fabcd0",
+    "category": "timing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "9dc53879-04aa-4c36-8ff6-91f2eb13821c",
+    "category": "priority",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "01139955-88b5-4c94-a56b-0e5802a1ce4c",
+    "category": "routing",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "31cf967c-727e-4d11-96ef-ad7a05e6b7a8",
+    "category": "priority",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "df57f6ba-d80b-4d30-ba5c-9286dda36700",
+    "category": "priority",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "b410cba8-03bb-45dd-be0d-f3b1f54bacbc",
+    "category": "priority",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "f86809a1-d68d-4c4f-aec9-7e1cf38c96f7",
+    "category": "priority",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "3fa6d715-68f8-4852-9cfb-2930930ceccf",
+    "category": "timing",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "bf95db4b-535e-4366-82fb-2b27fad51e64",
+    "category": "timing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "80b84efe-b9e2-4d48-882b-6541f45aa8eb",
+    "category": "timing",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "32539bc8-6616-4122-944f-28e99c140279",
+    "category": "priority",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "aec38466-2576-4c98-86d8-0c1dc989782f",
+    "category": "speed",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "84c64a97-c426-4ada-9613-2eafdfb65417",
+    "category": "priority",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "0ef04f3a-d41a-4f4f-a124-8777af4e2e5e",
+    "category": "routing",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "eb9b04cc-5957-48ca-89df-60ff2d9dea61",
+    "category": "emergency",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "8246d50b-f30c-49a4-8d7b-060015c31c9d",
+    "category": "emergency",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "e73d4c49-3051-462f-ab47-8ce0a0c1e8dd",
+    "category": "emergency",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "7e364782-5d41-4e53-a206-1985b13b2f4b",
+    "category": "routing",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "f54534d5-dd81-4b12-b434-1795940b9abd",
+    "category": "speed",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "7eebab6f-5b1d-4b32-917a-b80edbcb1368",
+    "category": "speed",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "9bc8ee8e-84cd-4e77-9e48-33e81071a01c",
+    "category": "emergency",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "16ce1499-2c1e-4684-8f88-1fda40dcef28",
+    "category": "speed",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "fd2c5d29-cd4d-4ef2-aff2-f970fcb31a3f",
+    "category": "emergency",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "e4b29182-a0f6-43c4-8a89-e0f638b662f6",
+    "category": "priority",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "7ce5f9c4-e446-47f0-b6dd-70167e04cb54",
+    "category": "timing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "1df66875-55f2-4c06-bef7-be061c4e22eb",
+    "category": "timing",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "b1754a7d-dc16-46b0-a019-727e5abde85c",
+    "category": "routing",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "e87b8247-5e63-4914-a5a6-adbd64ec3ca5",
+    "category": "speed",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "ba819c5c-dfa4-4afd-a2c6-08d7d0037dc5",
+    "category": "emergency",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "ce04832b-e2a1-4038-8315-bfe9b548ac4d",
+    "category": "speed",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "90ad333f-b7dd-43a4-aaf2-e6bd24cd8c2e",
+    "category": "emergency",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "917bb0f8-abe9-4d6c-a0b0-b60c5a2acae4",
+    "category": "priority",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "1998bf57-9a1a-4d09-b929-57df58f0d00d",
+    "category": "routing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "5ac3df87-4ce6-446d-b666-44d40a3905a4",
+    "category": "routing",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "a9e6e4a3-a28b-42fc-88bb-b1a29bf2ccca",
+    "category": "routing",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "59307ca1-3229-4d92-9dc3-6f6a96cec41d",
+    "category": "routing",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "b8020fe5-8c58-46c8-af96-7dd2444526db",
+    "category": "speed",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "51ab2c9d-2465-463f-9406-85348653841a",
+    "category": "timing",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "d17309c8-a7b3-48e7-a7bf-304cfb674da4",
+    "category": "speed",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "fec06c2a-f1c9-4528-934c-c6eae28d1811",
+    "category": "speed",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "a561e940-b5be-4e28-9e6e-c6be45a3d512",
+    "category": "priority",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "ffd08963-a45c-4d4d-bde5-a77540c20c7c",
+    "category": "routing",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "d9031ca8-1598-4c1d-bb45-d19ee02c4f57",
+    "category": "speed",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "11e98cce-0517-485f-8a7b-76b4d197072c",
+    "category": "speed",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "c09db4b5-1ce7-4a0c-93ad-7acfb3bf3367",
+    "category": "priority",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "82f7efc3-746a-4763-9c02-6d4db23d2a4d",
+    "category": "speed",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "a3dcfcf1-91a4-4858-a0d3-c3786c2a87ea",
+    "category": "timing",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "f9482223-64a8-443d-9ddd-245d1a142f36",
+    "category": "priority",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "fda9e832-f56d-433c-84f7-7b727fea843f",
+    "category": "emergency",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "2acc9b63-dae4-4c15-b27d-26f02c31d69d",
+    "category": "routing",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "a32bd444-2c84-4fcf-8517-220ff42bf898",
+    "category": "routing",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "4520d9d7-764a-4fbe-bf17-63914ac5be7b",
+    "category": "timing",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "693327ae-856d-4a0e-9dd8-ec0bbde6e1f1",
+    "category": "speed",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "e8087ef1-c187-43cd-acef-cb1a09cc7a02",
+    "category": "speed",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "31d99469-2df0-46a7-a530-fe5963d78f0f",
+    "category": "routing",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "fc2865bb-17ff-4b39-8cde-08f6df057a49",
+    "category": "priority",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "a5d82b11-d8d9-47f6-a929-00a10ddc56d7",
+    "category": "routing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "a8d25a61-cf45-42c4-a98d-f3a0e9e69564",
+    "category": "speed",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "5cddb53f-cb4d-4b51-81ee-e67bf1d1f8b5",
+    "category": "emergency",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "0035654f-47e8-49d0-bf3f-52472bbe0534",
+    "category": "priority",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "81394aea-aa0c-490f-b5d3-401c71285716",
+    "category": "speed",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "ca346889-f6b2-4e3e-87ad-31b038dbab48",
+    "category": "priority",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "8be43f7e-b528-4888-b2f6-307b5e76710f",
+    "category": "priority",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "c1372467-2f00-404b-92e9-190a6fecf5d4",
+    "category": "emergency",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "6049b1e2-8cf2-4780-ba81-559eb1bba965",
+    "category": "emergency",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "218cd94f-9236-455e-8866-f8add75462cb",
+    "category": "emergency",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "68cb7938-a749-45f2-9cda-c182c1d39165",
+    "category": "speed",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "0eb0d9ef-c354-46ff-a76b-dd8e926a30a1",
+    "category": "routing",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "a65dd64b-6563-497b-9e0d-d8df8f67e99a",
+    "category": "timing",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "e3f488d4-75bf-4cfa-952d-e9b1b61439c4",
+    "category": "timing",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "52fedcd5-c26f-4024-9821-80006e39e4c6",
+    "category": "priority",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "10668017-09fe-4d26-916d-036086121be2",
+    "category": "routing",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "4fe5008b-45f3-4b0e-88f9-344135e86a96",
+    "category": "timing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "d256e82a-6868-4529-926c-ed74f629fd69",
+    "category": "speed",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "5c562f2d-57a6-4387-bdad-7b59ec51d574",
+    "category": "routing",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "6a10b88f-f83d-4d89-b7e1-23107bef787e",
+    "category": "routing",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "7dfd9bea-2481-4540-a402-4733794526d7",
+    "category": "routing",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "c276c647-3e49-45a6-8d50-55c7c4d20c66",
+    "category": "timing",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "e7f06e02-018d-4e61-83a2-efeac2c6c9e8",
+    "category": "priority",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "253d41a8-9769-4fe8-8541-8610ce5902bd",
+    "category": "timing",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "e0f51cc3-1488-4994-a2b6-7c4ae0e8f576",
+    "category": "priority",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "26533a29-5ff7-459f-a77d-5c97086037cc",
+    "category": "timing",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "62659afc-17b8-449a-9d76-17311d906366",
+    "category": "emergency",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "47d86a24-c509-4c42-9c01-b901d8b2ac0e",
+    "category": "emergency",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "3d63848b-9a87-441d-9896-71813f8b25e7",
+    "category": "speed",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "b59c5e39-5cb1-4fcd-b95b-9d75721b79bf",
+    "category": "speed",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "c1e43ad6-a63f-4e13-9308-f96e088b49ca",
+    "category": "priority",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "7355ef00-de1d-42e4-a89b-952bec3da89e",
+    "category": "emergency",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "74553c8e-4efc-4c54-b8bd-a0878db10315",
+    "category": "timing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "e1bcf216-b445-459d-9b67-aae17b96bb4e",
+    "category": "speed",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "2f38fa02-0f63-4ca6-a966-6a6e9c2619d3",
+    "category": "timing",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "7ac20141-50a3-4ad0-84ff-04637b9c3dd1",
+    "category": "routing",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "dbc36061-668d-4879-8c81-95bd5b2743d9",
+    "category": "priority",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "32203bc6-0527-4bd2-b6fa-7d0587b324fd",
+    "category": "emergency",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "02992a4b-3c29-45ea-92f9-ddf002eff97e",
+    "category": "emergency",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "fcb43c56-f1ab-4128-9594-f50c92ba4aa7",
+    "category": "priority",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "08244441-0f13-4b17-a153-6c1f1065581a",
+    "category": "routing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "8a6a8549-650e-4a7e-9a71-9ac453859940",
+    "category": "timing",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "0736396d-7d17-43b0-8a14-7e3db2591c2f",
+    "category": "timing",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "8d1f0f61-8d59-4cea-9de3-8fb18b3f6f5b",
+    "category": "priority",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "d305d623-ca11-48a7-8d82-3b5749deb6bf",
+    "category": "routing",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "2e0eac48-dc66-4fc5-9cb8-60cfb8c8e1e4",
+    "category": "speed",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "b12ba7b8-8b75-4453-a6f4-f1e55244c13a",
+    "category": "priority",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "8190481d-4c35-4c0a-bdd4-74c5dd034aca",
+    "category": "priority",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "5e31c1d9-3ebe-4913-9676-f2769e454852",
+    "category": "emergency",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "c8600003-9466-4440-85d7-dac165763ad0",
+    "category": "timing",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "8217a114-6a28-4b1a-a8a9-09e39310bed1",
+    "category": "speed",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "74755b24-7830-47b5-aeee-735745ed4e60",
+    "category": "speed",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "370d5da6-234b-4301-8f51-fb47653535ed",
+    "category": "speed",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "3d9c3569-cde9-4630-9963-78107e0684f4",
+    "category": "emergency",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "74ac6653-097a-4fb3-80ef-11ad7ff2c2a6",
+    "category": "routing",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "cd82ed75-c83f-4cd8-8691-fd7c78bf043d",
+    "category": "speed",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "19ef1dd1-df64-4d23-a480-e4f64a53bd25",
+    "category": "timing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "1307f582-c3b1-481a-a66e-8d9b549b0bca",
+    "category": "speed",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "c97b165e-3776-4327-81b0-1f5ebc0d4ec0",
+    "category": "timing",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "89093d99-b015-4b50-9be0-357be0c78ab4",
+    "category": "emergency",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "8dd208dc-a6cc-415d-a772-e9b7ff0abb63",
+    "category": "timing",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "f6defadc-5867-441d-ac43-6b898249a722",
+    "category": "timing",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "8e3c3ada-84e5-429f-941d-c1d6b2ef8034",
+    "category": "speed",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "9a17bdeb-dbd7-4556-9ef4-b4f2cea510b8",
+    "category": "emergency",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "ad49f53e-3775-4c9b-aa2a-9139240493f6",
+    "category": "emergency",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "b94bcf6d-0fda-44e6-b1bb-46f439948ef2",
+    "category": "timing",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "38ce4107-e679-4c28-9d8c-76f146286fc1",
+    "category": "priority",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "917c3e7d-aa61-4d21-98c1-5dada84c2019",
+    "category": "speed",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "2f0259d5-b393-4f65-aba9-9f6d2ae1bc6d",
+    "category": "routing",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "af4f50de-96ad-4b96-a38e-2a18379d14c8",
+    "category": "emergency",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "d828d8a6-1a7d-4103-9ebc-cf0748782216",
+    "category": "timing",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "d85c411c-3177-43ac-aa24-b1ab05ba0142",
+    "category": "priority",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "edcee9e0-32b7-4174-8277-fda791be40b7",
+    "category": "routing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "c0964d2d-e80c-49e2-bc3c-5c8c36a7dfdf",
+    "category": "timing",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "c25cf020-b593-4d7c-b89f-db0ee6ba515f",
+    "category": "timing",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "6012a544-af64-4dec-acec-72bc6d12fbd3",
+    "category": "timing",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "52b07116-e164-4402-9b5c-36951821cc86",
+    "category": "routing",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "9a12039d-ea7b-45b6-bf86-0c30cba4e4d6",
+    "category": "timing",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "535859ba-27ce-4009-bccd-541aea721d70",
+    "category": "timing",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "0a66e506-658b-4531-aee3-ee02045f337b",
+    "category": "routing",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "6234e399-d03c-4445-b38d-cba209ab765f",
+    "category": "emergency",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "7e347cf1-ffd6-4da4-acb8-dd685acb42ba",
+    "category": "timing",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "9a8947a8-f427-4fc7-ad50-e5f0e69c4505",
+    "category": "timing",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "55f8c1ac-bbea-4f8f-9e0f-8099e6af9f70",
+    "category": "timing",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "4c4ab435-f6e8-481e-b7db-8caa1abaa9c0",
+    "category": "routing",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "32a1ac37-b36d-4f59-80d0-34cb7831b9e3",
+    "category": "speed",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "db3c5f24-69c7-47ed-bb42-636aba40b61d",
+    "category": "timing",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "a3ad0894-b796-499a-9481-39a5b37bb19e",
+    "category": "emergency",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "81f0de1b-0ca6-41ff-bfcc-4207f5415022",
+    "category": "priority",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "d9a33bcc-c861-4447-91a5-c8fb3b0b2f76",
+    "category": "timing",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "fc329dbc-57e3-4bd2-b6b0-e4f8c826e6fc",
+    "category": "emergency",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "ff0b19d5-a925-4c50-9e93-f3cf65ee1353",
+    "category": "timing",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "97c34279-df31-47fe-a54d-86976bed65b6",
+    "category": "routing",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "7e86713b-5b18-45a7-a695-257c5b9455f2",
+    "category": "timing",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "c6b586a6-2de7-46bd-903f-892cec922eeb",
+    "category": "priority",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "f861c69e-4a45-48af-8176-b32be87aaf99",
+    "category": "priority",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "30c0dcec-a061-4895-83ec-ec721b9557aa",
+    "category": "emergency",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "cab93ffd-aafe-4ec5-a095-79e15607df8d",
+    "category": "timing",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "13a67cd2-690d-4b9c-9cae-cfcf76c847bb",
+    "category": "speed",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "f9061950-6a4f-4e7a-ba99-37a112c4af0b",
+    "category": "emergency",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "6f69d2da-8489-4d86-aa51-c50e529fd36d",
+    "category": "speed",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "8847732e-e550-4b2c-aacb-d445ea316549",
+    "category": "timing",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "a2b49200-7ff6-48e0-9cac-b307e909b5e0",
+    "category": "emergency",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "2d5861b7-d53a-4ead-a554-b31015f54667",
+    "category": "timing",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "9047cd51-b0e3-4db5-80a9-b37104ad5c52",
+    "category": "timing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "993efeb2-909b-4956-85d0-ceea6f894538",
+    "category": "priority",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "fdfc75c3-71a9-404d-8a19-d40f148a72c4",
+    "category": "priority",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "239dd672-6ccf-4039-bc36-7789105219a4",
+    "category": "priority",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "2bfa9eb4-b937-4287-967a-790408ae5918",
+    "category": "speed",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "bcdb43d2-8c2b-47e0-bb29-c86e8dba911d",
+    "category": "priority",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "29e4296a-864f-4eb0-90d8-aa0c9845723f",
+    "category": "priority",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "edb22cdb-5e1c-426c-b864-44e1a884cef5",
+    "category": "emergency",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "0bb2805e-0feb-403a-a3cf-ddba405d2326",
+    "category": "priority",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "415932d0-7c73-40df-bb44-c143c127406d",
+    "category": "routing",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "4036b024-f0de-4d76-9361-1eedd74e2e23",
+    "category": "routing",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "5dd8c887-6200-46a8-ada3-196741904458",
+    "category": "timing",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "dac6673d-6f5e-48d2-9203-df9243b6e001",
+    "category": "timing",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "4daacc2c-0c3e-40f7-b9bd-63c08a20ce8f",
+    "category": "speed",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "3db67fba-444c-4b17-a94c-c9da4fc9bc46",
+    "category": "routing",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "7451f1e7-d0ee-4b48-8198-6d82db0ed5c7",
+    "category": "timing",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "2cd88abc-ed52-46b4-bb21-f5fef47b68d7",
+    "category": "speed",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "c87d3f8b-761b-4545-ae48-804c5e53e421",
+    "category": "timing",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "0209407f-358d-47f4-91af-50bc75085fdc",
+    "category": "routing",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "e9c17ed7-dd34-43fd-8a54-4914476b4e15",
+    "category": "priority",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "47b8c2f0-2024-4617-8082-3ae6aff3f24f",
+    "category": "routing",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "fe944ccf-52c2-4e11-8a8a-786faa97e986",
+    "category": "speed",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "83024aae-e5b9-4e31-8d27-3a1ab4630fa6",
+    "category": "routing",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "1c0be1cd-c263-4a64-bb92-89fd8abf2f9f",
+    "category": "routing",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "711f990f-7006-423b-9388-75228c709035",
+    "category": "speed",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "805f5938-b48f-478a-a78c-322dd54ac1cc",
+    "category": "routing",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "248e0927-eb70-47c2-bf9a-bdb64db4343f",
+    "category": "priority",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "20e95393-173b-4b79-8141-0cf5d8464305",
+    "category": "priority",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "36e0cee7-7605-46d5-baf7-3bc98041ee46",
+    "category": "emergency",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "8e7b9472-258a-4c20-a2c5-c44c199484d3",
+    "category": "timing",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "f3402a9a-7c92-457a-8073-d3136e16a998",
+    "category": "priority",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "18f9d89a-7e7e-4b50-923a-8cc55105b962",
+    "category": "timing",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "bceecfd3-259e-409f-ae52-27fbdcf89055",
+    "category": "timing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "4adf2e8f-1523-46e1-8062-c685642e7c04",
+    "category": "priority",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "00576cdf-a373-4073-8dc7-89bfa4553fb5",
+    "category": "emergency",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "559f59aa-921e-4437-8064-ce30c77f562b",
+    "category": "timing",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "593aaf31-e8bf-4f1b-883c-27f647e5caaf",
+    "category": "emergency",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "c8897540-bb88-4985-8ec6-6b97936e6403",
+    "category": "priority",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "4ca67bd7-4050-4186-8735-c2c868dcc727",
+    "category": "timing",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "d9b9ed05-81be-416c-b5cd-9fc3578cad21",
+    "category": "priority",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "2a68f8cf-271b-4f90-bb73-ecc94a192773",
+    "category": "timing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "01856007-8c5c-42f6-90f1-c83a4474fabc",
+    "category": "speed",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "2ad06b3d-7763-4bb1-a716-b7b889f4949a",
+    "category": "emergency",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "920a5d1c-f8b3-4b56-be48-7a354fe19aaf",
+    "category": "speed",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "5c978e9c-6d1e-403c-b7e2-46d94fa63d62",
+    "category": "emergency",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "18244ff0-8bc1-4b96-b9de-233a24da60d5",
+    "category": "routing",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "e785c23a-204d-4910-addd-625a2846eeeb",
+    "category": "speed",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "d6992b70-3970-4597-9752-90587b750986",
+    "category": "priority",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "cb2c8f5a-8ae4-4394-bd8a-76472fcc4d16",
+    "category": "timing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "878056bf-2d06-43f7-bf37-af575f711863",
+    "category": "timing",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "83b4223a-345b-45d3-9529-a87236bb8f9c",
+    "category": "routing",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "910aa815-091a-4994-a92a-f535c085ad0c",
+    "category": "emergency",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "514db654-409a-4a1a-a995-b1d39b1ffcc0",
+    "category": "speed",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "91f04e25-975e-4eb3-bd07-af73a2ddf730",
+    "category": "timing",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "1ce3faab-b1fe-45c9-905d-714889509833",
+    "category": "priority",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "2d2b299e-32f1-40d1-a608-f2cf62091b3b",
+    "category": "routing",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "d67703ce-c7d5-4e81-ab71-153c307e4a92",
+    "category": "timing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "927452ae-e9bb-42a5-88e6-0e0e05f427a7",
+    "category": "emergency",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "e168fb10-9fca-41b3-bbcf-a220ee75ca9c",
+    "category": "timing",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "4b3fde0b-4bca-40fc-aed3-04df496e7686",
+    "category": "priority",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "e8ae0c81-2259-4808-b9aa-487da6b8befa",
+    "category": "routing",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "cb934ab3-b0d7-4a52-92c5-74c6ac180c78",
+    "category": "emergency",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "3d6fb19b-5f7c-4ee0-9a74-ccf736255a49",
+    "category": "speed",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "862db325-eeeb-4e3e-ba80-6aea91c8c580",
+    "category": "timing",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "95de149e-97a6-4186-886f-28394bcbea80",
+    "category": "routing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "771d5d7f-584e-426c-be25-92bc4a03aff0",
+    "category": "timing",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "f80060fc-6880-4485-8344-1e52c44676b4",
+    "category": "routing",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "9cf106b7-09e8-49f9-8d5b-898308355c7a",
+    "category": "emergency",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "ed7f1a18-3f49-4760-9a0c-3213ac46bfca",
+    "category": "routing",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "69a6073d-8747-4b56-ba2d-6f55c89a0bfa",
+    "category": "speed",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "af615896-5ca6-42bd-9a21-882eb6c64b40",
+    "category": "priority",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "7fe61e51-ec36-4d8c-8ab2-4fc022711d39",
+    "category": "speed",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "821b2758-d963-41b8-96af-d4f050e0fe87",
+    "category": "timing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "71806bb7-3166-4392-87f8-9017a259b81e",
+    "category": "routing",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "edc5b40a-1953-452c-9130-6b70325be438",
+    "category": "routing",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "9eb6b1ff-025e-49c1-a6b2-53dba514984c",
+    "category": "speed",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "e69a4782-cd87-47c6-b9a4-b18c942ac1f3",
+    "category": "priority",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "66663eb3-5398-412a-803b-a6795e4f97eb",
+    "category": "priority",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "cf7fc180-0017-426b-bb80-92e138891efa",
+    "category": "timing",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "020e7a24-bab6-499a-857d-b6e6454b82b1",
+    "category": "emergency",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "9fb4a994-6a8a-4e92-bb79-f5752d60cd9b",
+    "category": "timing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "7cf1079a-3ef3-4b32-af67-8b56fb71b54e",
+    "category": "emergency",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "fbd4ba38-f6f5-4ed6-883d-59ee1d21bbe1",
+    "category": "speed",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "25d22909-afde-49bf-8bd5-6ff251ac449a",
+    "category": "emergency",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "ea958173-9341-456d-9e7c-82fb3452f4ab",
+    "category": "priority",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "9a9a074d-ac84-4ece-85c0-3ddf7c502e58",
+    "category": "emergency",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "0030b240-7af6-473b-bbdc-66b621dee623",
+    "category": "routing",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "45411dcb-47e5-4b92-ba65-868b9c571eff",
+    "category": "timing",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "280e6616-58fa-4ed7-8581-cdaaa2e9d5a3",
+    "category": "priority",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "6bb7c5ec-572e-47f5-bf94-6cb83b93daa8",
+    "category": "priority",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "eb815ecc-8ac7-4a3e-84d8-b72e4e994dcc",
+    "category": "timing",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "de53b2f8-a84e-4b1a-8641-5c46abf16f65",
+    "category": "emergency",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "007975f8-dacd-49b9-b3e1-c2b6301ff0e5",
+    "category": "timing",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "1e4756f4-4492-4276-aea4-d047dec90c8d",
+    "category": "emergency",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "848a90f1-aa42-4912-9859-7a539dc213b0",
+    "category": "speed",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "37cc3b2f-fd09-4476-8d90-0481eadd89d3",
+    "category": "speed",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "0f18627b-f274-4917-a36a-f9347559be74",
+    "category": "priority",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "bf808ebc-ab0a-4159-b007-c6c43b7c3d72",
+    "category": "routing",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "0152574c-8783-40f3-ba6b-c2b8603535b2",
+    "category": "priority",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "36f93032-74f4-470e-a312-d3815e65c56c",
+    "category": "speed",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "06ca6170-d135-4f8a-beba-a8f32a6ac31a",
+    "category": "speed",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "17433a5b-a883-47df-9d5d-37c63916a053",
+    "category": "timing",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "103469ba-dbea-4fbb-a07a-f4a0da298848",
+    "category": "routing",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "dea7d8df-64ef-4292-a821-7e76bd7c2a7b",
+    "category": "timing",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "14eb930b-9fa2-4410-bef9-b25a96066da5",
+    "category": "routing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "21e8370d-3ea6-4445-9e4e-d39bf4b84205",
+    "category": "routing",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "87bd8f4f-8c68-40ab-961d-478ae14efc2d",
+    "category": "speed",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "3982789a-8bd2-4356-9939-069007935f07",
+    "category": "speed",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "bc5a5860-bdc5-415d-979e-eaa0fef55c2c",
+    "category": "speed",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "186cc55f-e019-4e61-8bf0-c6d205cfa231",
+    "category": "routing",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "e58e88d0-ddf4-4cd0-8072-f0b8429b2009",
+    "category": "timing",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "eaf076eb-601a-42d7-8734-932ba2f85016",
+    "category": "priority",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "4f9f5d97-6149-407e-9538-42cdec01ec68",
+    "category": "speed",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "9e4e81ad-3291-4a44-9779-430cdbc8fd4c",
+    "category": "speed",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "b45c63a4-fb1e-43f5-bb63-b484045b13ec",
+    "category": "priority",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "0438e0f3-33a8-44c8-930c-07fb418d12ef",
+    "category": "timing",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "7cd1d07d-aed9-4124-8253-5fe4116f7964",
+    "category": "emergency",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "380366db-1da1-45a8-be13-f556a0f4aa15",
+    "category": "speed",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "fb9ab7f5-2b9a-4c09-8240-602e5f520224",
+    "category": "speed",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "10c2e2e9-6a56-4054-a462-870fefd1ea0a",
+    "category": "speed",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "e5cf549a-5895-4871-ac60-69a048675b70",
+    "category": "routing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "f6abf482-98a0-4f52-b37d-2316c5383596",
+    "category": "timing",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "7b7aa757-c18d-4dab-91b4-a9d924b83ead",
+    "category": "speed",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "b145780f-7778-4975-8d2e-489f01ce9e44",
+    "category": "timing",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "0b1d1023-cb57-4b25-94cf-e1729ce8eecf",
+    "category": "emergency",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "3284127b-992c-4351-ab70-b32d0247960f",
+    "category": "speed",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "8acdac34-fd98-4996-94b7-57edc3931e53",
+    "category": "emergency",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "6b821970-97d6-4106-842d-4784cc748818",
+    "category": "timing",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "b15a2cd8-bffd-4e2a-9339-69f1678ab4e8",
+    "category": "speed",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "de13f695-c84b-4cac-93af-79ce53030007",
+    "category": "emergency",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "5e5fa43f-9254-4c09-872f-a35576b7ea51",
+    "category": "speed",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "65b8d380-5da4-4006-804a-83337a5646a4",
+    "category": "routing",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "9ebf7340-1028-4e7a-8d6e-9cae5f2e1116",
+    "category": "routing",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "1b0ee786-2523-4496-9d94-10220d2cac16",
+    "category": "priority",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "d5d7ee99-3881-42c6-9976-5aaed5539a64",
+    "category": "timing",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "4d998e15-4b31-4616-a6a7-0b8e337efcd8",
+    "category": "priority",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "1480b0ca-30fe-406e-8684-1fdae8f209f6",
+    "category": "timing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "6ad66506-36b1-4c65-a824-0b8d08fa3664",
+    "category": "routing",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "f30ee5d0-7794-4d9b-a2d0-280781e79752",
+    "category": "routing",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "b62ca095-6f94-4b5f-ad65-f2aaad62fb0b",
+    "category": "priority",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "b18bfda2-4b63-4f54-833b-49c239492dd3",
+    "category": "speed",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "cfff1317-8b8b-4e68-b616-6e6e704623fd",
+    "category": "emergency",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "e5618d85-5224-4a55-a218-0b63ada59519",
+    "category": "priority",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "9166f584-b673-4c47-bf30-c436e69eac15",
+    "category": "emergency",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "b5bf669c-9d92-4646-9983-843c59c9518e",
+    "category": "emergency",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "8b4b93db-3d7d-4a68-a74d-c1aa51118f96",
+    "category": "speed",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "b23f4c70-c2e9-4f6c-85c8-92650f6e8b4d",
+    "category": "routing",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "c462e049-b799-4a5b-8116-daa48bd4d45f",
+    "category": "routing",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "08ec48b6-a518-4c0b-aeda-88e9572d71b7",
+    "category": "routing",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "6964d0ac-3a29-487c-9a39-98452222985a",
+    "category": "timing",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "0b324907-6a30-4d8a-b120-be14eb7ac26c",
+    "category": "emergency",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "8b73e274-3fef-4e3a-96d8-46598dd95b6c",
+    "category": "routing",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "2dd93ba0-e8b2-4d2e-9195-94d3d5ac407c",
+    "category": "priority",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "999ff571-2a14-4393-ab23-4f0282765ba3",
+    "category": "speed",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "a2e777c7-1bc0-4271-83d5-b89e18e965b2",
+    "category": "routing",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "3a578e51-5faf-4acc-bfcf-d39aaecb87df",
+    "category": "priority",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "6e545e0f-395a-4427-bc27-9b5904681a11",
+    "category": "routing",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "5bd3fdb9-daf7-463b-b1d5-e5853dcee0db",
+    "category": "routing",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "5b3364f3-be6f-485f-9952-af176829d93d",
+    "category": "priority",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "575caa55-1869-4839-bee3-14fca1363063",
+    "category": "timing",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "f29646ab-af05-45a1-9a31-50c2059de49b",
+    "category": "priority",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "6c1d6890-fa61-42f9-9c27-e73474a54f92",
+    "category": "emergency",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "2d7d625f-65ad-4656-ab4c-7bb250eaf311",
+    "category": "speed",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "c4c49e2a-96ef-4a49-a697-2e2b6e4c2d25",
+    "category": "timing",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "938e8c78-0902-45fb-8ad7-c49c56fd2a09",
+    "category": "speed",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "c28abbdf-6538-403b-b304-5e5ad37376a4",
+    "category": "routing",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "3fe98fd9-330f-4bf1-b30a-e0853ab7554e",
+    "category": "routing",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "daf1eecd-e47d-44a3-b958-d188870a35f2",
+    "category": "routing",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "7c0303fa-7491-42a5-964d-8611befbd7f0",
+    "category": "speed",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "d305cb83-5e90-4676-a138-587bc6754e13",
+    "category": "priority",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "05a06888-b850-4f2a-8c6c-524a7a16032e",
+    "category": "timing",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "a85531e9-ad22-4e2d-8ed5-b3b1dfbbc009",
+    "category": "timing",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "f4a6f9d5-34c2-4493-ba31-8bad91620407",
+    "category": "speed",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "d0f48953-d7a8-412c-8f47-a92e0c051a6e",
+    "category": "emergency",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "db713efc-ee6f-4655-9d70-1d9a4d79beb1",
+    "category": "speed",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "46fe2a68-0095-4e27-a9f1-93da06b0df8c",
+    "category": "routing",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "a86cb8f0-e5fa-49f4-98ad-8ace4bb7c900",
+    "category": "timing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "d05b3840-ced1-4859-82d7-e42664c90129",
+    "category": "timing",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "aad441e7-af20-4d17-89d2-ddf6013638d2",
+    "category": "emergency",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "bda422ab-47c9-4ddb-888f-1aa0a0c5c83b",
+    "category": "speed",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "a6a23600-918b-4097-82ef-08b4c3927bc7",
+    "category": "priority",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "fc7842fd-c3d6-4663-83d7-3af20b00d98c",
+    "category": "priority",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "840e21ae-91f4-4ec4-a208-c58b8c8f3cad",
+    "category": "priority",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "3dd9328e-469d-40d9-b430-c83940e015f7",
+    "category": "routing",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "a4dd32df-99e2-4459-907a-fed21fefad6a",
+    "category": "priority",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "d7e2e473-8fd4-4bbc-9fb5-29fdbe4ff29a",
+    "category": "speed",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "a9511b88-6f12-427d-af56-5282b4310494",
+    "category": "priority",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "abd44ffb-6757-4a7c-9019-a903783d24a0",
+    "category": "emergency",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "f462cb6a-7004-4884-9286-0fb2f10bb6df",
+    "category": "emergency",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "aac1c942-cfc7-4ba4-80de-25eb4e1c017b",
+    "category": "priority",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "3ebd447d-7749-45b1-a1df-926e7a2e7248",
+    "category": "priority",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "8c65e825-d393-443a-bd51-8ff89ac6f8f7",
+    "category": "emergency",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "8f425aea-443f-458e-b2a4-bb86625c3ac4",
+    "category": "routing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "f832e853-6450-428a-bab7-dde78f88b476",
+    "category": "speed",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "13eaa9b3-de04-4925-9b80-88a0b079f421",
+    "category": "routing",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "3aa45eab-a3c8-43e7-8658-c9f32839512e",
+    "category": "timing",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "71fb0c07-2ba4-4ce6-a983-1bf5851925cc",
+    "category": "speed",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "c14a3903-c8d8-426b-90d0-f2091a76ba4b",
+    "category": "routing",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "db98a5f9-aff9-4ff5-a7f0-353989767096",
+    "category": "speed",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "3a326bd9-00b6-4ce4-9f4f-e2383e7c1433",
+    "category": "priority",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "d12ef1cb-83ba-4bd6-b245-5790230d92a2",
+    "category": "priority",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "f7b0a298-100d-4f61-adff-b11a51d0eb64",
+    "category": "speed",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "83464256-983f-43d8-ade7-fbc0a616bd8b",
+    "category": "speed",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "1e032d74-6074-4113-a5eb-6ac397e636f2",
+    "category": "timing",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "4914c789-2cc3-44bc-a2cb-3005dd2a0af2",
+    "category": "priority",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "0efbd8cc-3a99-4190-8fa4-9963a9c23cc4",
+    "category": "speed",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "6b34ce22-63d1-4764-b268-36f5d9f36df5",
+    "category": "routing",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "0ac8b094-71f1-437d-bd31-cae5abcdd861",
+    "category": "speed",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "60f02e04-9947-4c1c-a3a3-709348d36ba9",
+    "category": "priority",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "3ab6957f-ff79-4fe6-bf26-fe99a5ec3c10",
+    "category": "routing",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "11b3cf6a-81a7-4352-9eb0-04d6919f8585",
+    "category": "priority",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "fcf0ab7b-a2cf-4cae-82cb-360108f5e8ae",
+    "category": "timing",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "a5ce3974-6707-4ef6-a546-16478de102b9",
+    "category": "emergency",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "0ca11ec5-7648-40f9-8e7a-a50b2556f01f",
+    "category": "priority",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "53cd7be1-e6ee-4066-9398-3ed254abbaa1",
+    "category": "routing",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "2530a6e1-f8cb-44bc-b0b8-1c51b0d5580e",
+    "category": "routing",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "bfcbf15d-233c-4a2f-ae5d-eea31c92ede8",
+    "category": "timing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "3c54fc08-dbe2-47cf-ac30-97d6405f35f4",
+    "category": "timing",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "6780ff5d-5b7c-4d4e-b8bf-3297decde26a",
+    "category": "emergency",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "31915a57-9562-4e06-8da7-49c9299f1f4a",
+    "category": "routing",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "e8e6aba8-63d1-4e8f-ac92-c8a19ace48ad",
+    "category": "speed",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "c92c005f-4a12-4fa4-a783-806cab62a69c",
+    "category": "priority",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "26e44c54-cc80-4ce7-ae45-767e3fc9d2aa",
+    "category": "priority",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "9aedc9d5-8433-4194-af5c-e08b591ec752",
+    "category": "routing",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "ebe49ebe-9b8c-4e3a-b360-458baffe76df",
+    "category": "speed",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "d006eb59-b697-47fd-b818-17f2644bba79",
+    "category": "timing",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  },
+  {
+    "rule_id": "eac9c8ad-2fd0-49e7-94ea-c2ef877b611f",
+    "category": "emergency",
+    "text": "Ambulances have unconditional right of way at all intersections.",
+    "active": true
+  },
+  {
+    "rule_id": "64350253-0127-4674-82ee-c2fc78d404a1",
+    "category": "emergency",
+    "text": "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
+    "active": true
+  },
+  {
+    "rule_id": "8244db2c-9d42-4e1f-8628-fc56382caa5e",
+    "category": "emergency",
+    "text": "Fog visibility below 50m: activate hazard warnings and cut speed to 40kmh.",
+    "active": true
+  },
+  {
+    "rule_id": "ca994d76-18bc-41d1-b0e7-76c7a649d2f5",
+    "category": "timing",
+    "text": "Emergency vehicles trigger automatic green phase extension of up to 60 seconds.",
+    "active": true
+  },
+  {
+    "rule_id": "efe1a65d-c2f2-4940-ae1c-db25ae3a39e4",
+    "category": "speed",
+    "text": "Maximum queue length before automatic rerouting is activated: 25 vehicles.",
+    "active": true
+  },
+  {
+    "rule_id": "06026cd5-5c79-4303-ac3f-0e789980bc50",
+    "category": "priority",
+    "text": "Night mode (10pm-5am): extend green phases by 15 seconds on arterial roads.",
+    "active": true
+  },
+  {
+    "rule_id": "95aee836-ea25-4a2e-b287-7beee9f0fb6f",
+    "category": "timing",
+    "text": "Police override: all phases yield immediately to police signal.",
+    "active": true
+  },
+  {
+    "rule_id": "e0072776-4a12-45fb-8fd0-4b31707c4141",
+    "category": "emergency",
+    "text": "Incident blocking >1 lane: activate alternate route protocol within 2 minutes.",
+    "active": true
+  }
+]

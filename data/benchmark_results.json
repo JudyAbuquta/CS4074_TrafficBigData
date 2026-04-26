@@ -1,0 +1,38 @@
+[
+  {
+    "scale": "1x",
+    "records": 10000,
+    "etl_time_sec": 50.21,
+    "feat_time_sec": 8.21,
+    "total_time_sec": 58.43,
+    "throughput_rps": 171.0,
+    "clean_records": 9744,
+    "dropped_records": 256,
+    "drop_rate_pct": 2.6,
+    "timestamp": "2026-04-25T16:19:42.268311"
+  },
+  {
+    "scale": "10x",
+    "records": 100000,
+    "etl_time_sec": 109.03,
+    "feat_time_sec": 7.56,
+    "total_time_sec": 116.59,
+    "throughput_rps": 858.0,
+    "clean_records": 97525,
+    "dropped_records": 2475,
+    "drop_rate_pct": 2.5,
+    "timestamp": "2026-04-25T16:21:42.774213"
+  },
+  {
+    "scale": "100x",
+    "records": 1000000,
+    "etl_time_sec": 64.38,
+    "feat_time_sec": 8.13,
+    "total_time_sec": 72.51,
+    "throughput_rps": 13791.0,
+    "clean_records": 974979,
+    "dropped_records": 25021,
+    "drop_rate_pct": 2.5,
+    "timestamp": "2026-04-25T16:23:10.931225"
+  }
+]

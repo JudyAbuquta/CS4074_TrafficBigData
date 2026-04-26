@@ -1,8 +1,7 @@
 """
-Spark MLlib Classifier — Phase 4, Step 1
+Spark MLlib Classifier
 Ports TF-IDF + LogReg + SVM to distributed Spark MLlib.
-Trains on incident_cases.json from HDFS.
-Saves model to HDFS for agents to load.
+Trains on incident_cases.json from HDFS and saves the model to HDFS for the agent bridge to load.
 """
 import os
 os.environ["JAVA_HOME"] = "/usr/lib/jvm/java-17-openjdk-arm64"
@@ -24,7 +23,7 @@ from pyspark.ml.classification import (
 from pyspark.ml.evaluation import MulticlassClassificationEvaluator
 from pyspark.ml.tuning import CrossValidator, ParamGridBuilder
 
-# ── schema ─────────────────────────────────────────────────────────────────────
+# ── Schema ─────────────────────────────────────────────────────────────────────
 INCIDENT_SCHEMA = StructType([
     StructField("id",            StringType(), True),
     StructField("timestamp",     StringType(), True),
@@ -120,7 +119,7 @@ def run_classifier():
     spark = create_spark()
     spark.sparkContext.setLogLevel("WARN")
 
-    # ── 1. load incident data ─────────────────────────────────────────────────
+    # ── 1. Load Incident Data ─────────────────────────────────────────────────
     print("\n[ML] Loading incident_cases from HDFS...")
     df = spark.read.schema(INCIDENT_SCHEMA).json(
         "hdfs://localhost:9000/traffic/raw/incident_cases.json"
@@ -138,13 +137,13 @@ def run_classifier():
     print(f"[ML] Class distribution:")
     df.groupBy("severity").count().orderBy("severity").show()
 
-    # ── 2. train/test split ───────────────────────────────────────────────────
+    # ── 2. Train/Test Split ───────────────────────────────────────────────────
     df_train, df_test = df.randomSplit([0.8, 0.2], seed=42)
     print(f"[ML] Train: {df_train.count():,}  Test: {df_test.count():,}")
 
     all_results = []
 
-    # ── 3. train both classifiers on clean data ───────────────────────────────
+    # ── 3. Train Both Classifiers on Clean Data ───────────────────────────────
     for clf_name in ["logreg", "svm"]:
         model, metrics = train_and_evaluate(
             spark, df_train, df_test,
@@ -152,13 +151,13 @@ def run_classifier():
         )
         all_results.append(metrics)
 
-        # save the logreg model to HDFS (agents will load this)
+        # Save the LogReg model to HDFS — this is the model the agent bridge loads.
         if clf_name == "logreg":
             model_path = "hdfs://localhost:9000/traffic/models/severity_classifier"
             model.write().overwrite().save(model_path)
             print(f"[ML] Model saved to: {model_path}")
 
-    # ── 4. adversarial test A: 20% null fields (simulate sensor dropout) ──────
+    # ── 4. Adversarial Test A: 20% Null Fields (simulate sensor dropout) ──────
     print("\n[ML] Adversarial test A — 20% null text fields")
     df_null = df_test.withColumn(
         "text",
@@ -173,22 +172,8 @@ def run_classifier():
     metrics_a["condition"]  = "null_20pct"
     all_results.append(metrics_a)
 
-    # ── 5. adversarial test B: class imbalance (90% low severity) ────────────
-#    print("\n[ML] Adversarial test B — class imbalance (90% low)")
-#   df_low   = df_train.filter(F.col("severity") == "low")
-#    df_other = df_train.filter(F.col("severity") != "low")
-#    ratio    = int(df_other.count() * 9)
-#    df_imbal = df_low.limit(ratio).union(df_other)
-#    pipeline_b, _ = build_pipeline("logreg")
-#    model_b  = pipeline_b.fit(df_imbal)
-#    preds_b  = model_b.transform(df_test)
-#    metrics_b = evaluate(preds_b, label="logreg/imbalanced")
-#    metrics_b["classifier"] = "logreg"
-#    metrics_b["condition"]  = "imbalanced_90pct_low"
-#    all_results.append(metrics_b)
-
-    # ── 6. adversarial test C: noisy labels (10% random relabelling) ──────────
-    print("\n[ML] Adversarial test C — 10% noisy labels")
+    # ── 5. Adversarial Test B: Noisy Labels (10% random relabelling) ──────────
+    print("\n[ML] Adversarial test B — 10% noisy labels")
     labels   = ["low", "medium", "high", "critical"]
     df_noisy = df_train.withColumn(
         "severity",
@@ -206,7 +191,7 @@ def run_classifier():
     metrics_c["condition"]  = "noisy_labels_10pct"
     all_results.append(metrics_c)
 
-    # ── 7. print summary table ─────────────────────────────────────────────────
+    # ── 6. Print Summary Table ─────────────────────────────────────────────────
     print(f"\n{'='*60}")
     print(f"[ML] ── Results Summary ──────────────────────────────────")
     print(f"{'Classifier':<10} {'Condition':<25} {'Accuracy':>10} {'F1':>8} {'Time(s)':>8}")
@@ -216,7 +201,7 @@ def run_classifier():
               f"{r['accuracy']:>10.4f} {r['f1']:>8.4f} "
               f"{r.get('elapsed_sec', '-'):>8}")
 
-    # ── 8. save results ────────────────────────────────────────────────────────
+    # ── 7. Save Results ────────────────────────────────────────────────────────
     out = Path("data/ml_results.json")
     out.parent.mkdir(parents=True, exist_ok=True)
     with open(out, "w") as f:

@@ -1,7 +1,7 @@
 """
-Spark Bridge — Phase 4, Step 3
-Loads the trained MLlib model and batch-scores records from HDFS.
-Outputs enriched records that the 3 agents consume.
+Spark Bridge
+Loads the trained MLlib model and batch-scores traffic feature records from HDFS.
+Returns enriched records containing predicted severity labels for the agent pipeline to consume.
 """
 import json
 import time
@@ -11,6 +11,7 @@ from pyspark.sql import functions as F
 from pyspark.ml import PipelineModel
 import os
 os.environ["JAVA_HOME"] = "/usr/lib/jvm/java-17-openjdk-arm64"
+
 MODEL_PATH    = "hdfs://localhost:9000/traffic/models/severity_classifier"
 FEATURES_PATH = "hdfs://localhost:9000/traffic/features/"
 
@@ -22,9 +23,8 @@ def create_spark():
 
 def load_and_score(limit=50):
     """
-    Load the saved MLlib model.
-    Score a batch of traffic feature records.
-    Return enriched dicts for the agents.
+    Load the saved MLlib model, score a batch of traffic feature records,
+    and return enriched dicts ready for the three agents to consume.
     """
     spark = create_spark()
     spark.sparkContext.setLogLevel("WARN")
@@ -35,7 +35,7 @@ def load_and_score(limit=50):
     print("[Bridge] Loading feature records from HDFS...")
     df = spark.read.parquet(FEATURES_PATH).limit(limit)
 
-    # The model expects a 'text' column — synthesize it from feature columns
+    # Synthesize a 'text' column from feature columns, as required by the model pipeline.
     df = df.withColumn(
         "text",
         F.concat_ws(" ",
@@ -55,7 +55,7 @@ def load_and_score(limit=50):
     elapsed = time.time() - t0
     print(f"[Bridge] Inference done in {elapsed:.2f}s for {limit} records")
 
-    # select columns agents need
+    # Select only the columns the agents need and collect results to the driver.
     enriched = preds.select(
         "event_id", "intersection_id", "zone",
         "congestion", "congestion_score", "risk_score",
@@ -68,17 +68,17 @@ def load_and_score(limit=50):
     ).collect()
 
     spark.stop()
-
     return [row.asDict() for row in enriched]
 
 if __name__ == "__main__":
     records = load_and_score(limit=10)
+
     print(f"\n[Bridge] Sample enriched record:")
     print(json.dumps(records[0], indent=2, default=str))
 
-# Save output for the pipeline to consume
-out_path = Path("data/spark_predictions.json")
-out_path.parent.mkdir(parents=True, exist_ok=True)
-with open(out_path, "w") as f:
-    json.dump(records, f, indent=2, default=str)
-print(f"[Bridge] Predictions saved to {out_path}")
+    # Persist predictions to disk so the full pipeline can consume them independently.
+    out_path = Path("data/spark_predictions.json")
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    with open(out_path, "w") as f:
+        json.dump(records, f, indent=2, default=str)
+    print(f"[Bridge] Predictions saved to {out_path}")

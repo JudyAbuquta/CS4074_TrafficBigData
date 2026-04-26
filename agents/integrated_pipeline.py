@@ -1,8 +1,7 @@
 """
-Integrated Agent Pipeline — Phase 4, Step 4
-Vehicle Agent, Incident Detection Agent, Traffic Light Agent
-now consume Spark MLlib predictions from the bridge.
-RAG and KG reasoning remain from the original NLP project.
+Integrated Agent Pipeline
+Three agents — Vehicle, Incident Detection, and Traffic Light —
+consume Spark MLlib predictions and apply RAG + Knowledge Graph reasoning.
 """
 import os
 os.environ["JAVA_HOME"] = "/usr/lib/jvm/java-17-openjdk-arm64"
@@ -13,7 +12,7 @@ import time
 import networkx as nx
 from pathlib import Path
 
-# ── Knowledge Graph (from original project) ───────────────────────────────────
+# ── Knowledge Graph ───────────────────────────────────────────────────────────
 def build_knowledge_graph():
     G = nx.DiGraph()
     intersections = [
@@ -58,7 +57,7 @@ def nearest_hospital(intersection):
 def neighbors(intersection):
     return list(KG.successors(intersection))
 
-# ── simple in-memory RAG ───────────────────────────────────────────────────────
+# ── RAG (Retrieval-Augmented Generation) ─────────────────────────────────────
 def load_policies():
     path = Path("data/raw/traffic_policies.json")
     if path.exists():
@@ -76,6 +75,7 @@ def load_emergency_protocols():
 POLICIES  = load_policies()
 PROTOCOLS = load_emergency_protocols()
 
+# Scores documents by keyword overlap with the query and returns the top-k matches.
 def rag_retrieve(query, documents, top_k=2):
     query_words = set(query.lower().split())
     scored = []
@@ -125,6 +125,8 @@ def vehicle_agent(record):
     }
 
 # ── Agent 2: Incident Detection Agent ────────────────────────────────────────
+
+# Risk score ranges (inclusive lower, exclusive upper) mapped to severity levels.
 SEVERITY_THRESHOLDS = {
     "low":      (0,   25),
     "medium":   (25,  50),
@@ -175,7 +177,9 @@ def incident_agent(record, va_output):
           + (f"  → route to {hospital}" if hospital else ""))
     return report
 
-# ── Agent 3: Traffic Light Agent ─────────────────────────────────────────────
+# ── Agent 3: Traffic Light Agent ──────────────────────────────────────────────
+
+# Signal phase durations in seconds, keyed by severity level.
 PHASE_DURATIONS = {
     "low":      {"green": 30, "yellow": 5, "red": 25},
     "medium":   {"green": 25, "yellow": 5, "red": 30},
@@ -220,7 +224,7 @@ def traffic_light_agent(record, ida_output):
     print(f"[TLA] {inter}: {action} | green={timing['green']}s  red={timing['red']}s")
     return result
 
-# ── Full pipeline runner ──────────────────────────────────────────────────────
+# ── Pipeline Runner ───────────────────────────────────────────────────────────
 def run_pipeline(records):
     print(f"\n[Pipeline] Processing {len(records)} records through agent pipeline\n")
     outputs = []
@@ -246,6 +250,7 @@ if __name__ == "__main__":
             records = json.load(f)[:5]
         print(f"[Pipeline] Loaded {len(records)} records from Spark bridge")
     else:
+        # Fallback: generate synthetic records for local testing when no Spark output is available.
         print("[Pipeline] No bridge output found — using synthetic test records")
         records = [
             {

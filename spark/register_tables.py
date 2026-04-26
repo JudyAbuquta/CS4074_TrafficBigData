@@ -1,11 +1,13 @@
+"""
+Register Tables
+Registers HDFS Parquet datasets as Spark SQL tables and runs
+sample queries to verify the feature and processed data are accessible.
+"""
 import os
 import sys
-
 os.environ["JAVA_HOME"] = "/usr/lib/jvm/java-17-openjdk-arm64"
-os.environ["PYSPARK_PYTHON"] = sys.executable
-
+os.environ["PYSPARK_PYTHON"] = sys.executable  # Ensures workers use the same Python as the driver.
 from pyspark.sql import SparkSession
-
 spark = (SparkSession.builder
          .appName("RegisterTables")
          .config("spark.sql.warehouse.dir", "/tmp/spark-warehouse")
@@ -20,24 +22,19 @@ spark = (SparkSession.builder
                  "--add-opens=java.base/java.lang=ALL-UNNAMED "
                  "--add-opens=java.base/java.util=ALL-UNNAMED")
          .getOrCreate())
-
 spark.sparkContext.setLogLevel("WARN")
-
 spark.sql("""
     CREATE TABLE IF NOT EXISTS traffic_features
     USING parquet
     LOCATION 'hdfs://localhost:9000/traffic/features/'
 """)
-
 spark.sql("""
     CREATE TABLE IF NOT EXISTS traffic_processed
     USING parquet
     LOCATION 'hdfs://localhost:9000/traffic/processed/'
 """)
-
 print("Tables registered:")
 spark.sql("SHOW TABLES").show()
-
 print("\nSample query — avg risk score by zone:")
 spark.sql("""
     SELECT zone,
@@ -48,7 +45,6 @@ spark.sql("""
     GROUP BY zone
     ORDER BY avg_risk DESC
 """).show()
-
 print("\nSample query — severity distribution:")
 spark.sql("""
     SELECT severity_label,
@@ -58,5 +54,4 @@ spark.sql("""
     GROUP BY severity_label
     ORDER BY severity_label
 """).show()
-
 spark.stop()

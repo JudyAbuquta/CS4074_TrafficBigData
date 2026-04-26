@@ -1,4 +1,4 @@
-# Jeddah Traffic Intelligence System (Kafka + Spark + MLlib + Multi-Agent)
+# Traffic Intelligence System (Kafka + Spark + MLlib + Multi-Agent)
 
 A distributed, real-time traffic coordination pipeline where autonomous agents process live sensor data and make semantic traffic control decisions, enriched with:
 
@@ -6,7 +6,7 @@ A distributed, real-time traffic coordination pipeline where autonomous agents p
 * Large-scale ETL and feature engineering via **Apache Spark**
 * Severity classification via **Spark MLlib** (TF-IDF + Logistic Regression + SVM)
 * **Retrieval-Augmented Generation (RAG)** over traffic policies and emergency protocols
-* **Knowledge Graph reasoning** over Jeddah intersections and hospitals
+* **Knowledge Graph reasoning** over  intersections and hospitals
 * Adversarial stress testing for pipeline robustness
 * Scalability benchmarking at 1x, 10x, and 100x data scale
 
@@ -44,7 +44,7 @@ Three cooperative agents process each enriched record in sequence:
 Keyword overlap scoring over four synthetic datasets — incident cases, traffic policies, road rules, and emergency protocols. Top-k matching documents are passed to agents as decision context.
 
 **Knowledge Graph**
-Built with NetworkX as a directed graph of Jeddah intersections and hospitals. Supports nearest-hospital lookup via shortest path and spillover alert propagation to neighbouring nodes.
+Built with NetworkX as a directed graph of intersections and hospitals. Supports nearest-hospital lookup via shortest path and spillover alert propagation to neighbouring nodes.
 
 **Adversarial Testing**
 The producer and classifier both support adversarial modes: null fields, malformed JSON, duplicate IDs, wrong types, and noisy training labels — used to evaluate pipeline robustness.

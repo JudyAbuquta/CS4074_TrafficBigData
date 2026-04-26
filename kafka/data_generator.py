@@ -1,9 +1,16 @@
+"""
+Synthetic Data Generator
+Produces four JSON datasets used by the RAG retrieval and agent pipeline:
+incident cases, traffic policies, road rules, and emergency protocols.
+All records are randomly generated from fixed templates and vocabulary lists.
+"""
 import json
 import uuid
 import random
 from datetime import datetime, timedelta
 from pathlib import Path
 
+# Fixed seed ensures reproducible datasets across runs.
 random.seed(42)
 
 ROADS        = ["King Road", "Haram Road", "Tahlia Street", "Corniche Road",
@@ -20,6 +27,10 @@ VEHICLE_TYPES     = ["car", "truck", "bus", "motorcycle", "ambulance", "police"]
 WEATHER_CONDS     = ["clear", "foggy", "rainy", "dusty", "hot"]
 
 def random_timestamp(days_back=30):
+    """
+    Return a random UTC ISO timestamp within the last days_back days,
+    with a randomized hour, minute, and second.
+    """
     base = datetime.utcnow() - timedelta(days=random.randint(0, days_back))
     return base.replace(
         hour=random.randint(0,23),
@@ -27,8 +38,9 @@ def random_timestamp(days_back=30):
         second=random.randint(0,59)
     ).isoformat()
 
-# ── 1. incident_cases ─────────────────────────────────────────────────────────
+# ── 1. Incident Cases ─────────────────────────────────────────────────────────
 def gen_incident_cases(n=1500):
+    """Generate n synthetic traffic incident records with free-text descriptions."""
     records = []
     for _ in range(n):
         severity  = random.choice(SEVERITY_LABELS)
@@ -36,6 +48,8 @@ def gen_incident_cases(n=1500):
         road      = random.choice(ROADS)
         weather   = random.choice(WEATHER_CONDS)
         veh       = random.choice(VEHICLE_TYPES)
+
+        # Varied sentence templates to simulate realistic dispatcher language.
         templates = [
             f"A {inc_type} involving a {veh} on {road}. Weather: {weather}. Severity assessed as {severity}.",
             f"Reported {inc_type} near {road} intersection. Conditions {weather}. Response needed: {severity} priority.",
@@ -54,8 +68,9 @@ def gen_incident_cases(n=1500):
         })
     return records
 
-# ── 2. traffic_policies ───────────────────────────────────────────────────────
+# ── 2. Traffic Policies ───────────────────────────────────────────────────────
 def gen_traffic_policies(n=1000):
+    """Generate n synthetic traffic policy records mapping conditions to agent actions."""
     actions   = ["extend_green", "reduce_green", "trigger_emergency_phase",
                  "activate_reroute", "hold_phase", "send_alert"]
     conditions= ["congestion > 70%", "emergency vehicle detected",
@@ -74,8 +89,9 @@ def gen_traffic_policies(n=1000):
         })
     return records
 
-# ── 3. road_rules ─────────────────────────────────────────────────────────────
+# ── 3. Road Rules ─────────────────────────────────────────────────────────────
 def gen_road_rules(n=800):
+    """Generate n road rule records by cycling through a fixed set of rule templates."""
     rules = [
         "Ambulances have unconditional right of way at all intersections.",
         "During school hours (7-9am, 1-3pm), reduce speed limits by 20kmh near zones.",
@@ -97,8 +113,9 @@ def gen_road_rules(n=800):
         })
     return records
 
-# ── 4. emergency_protocols ────────────────────────────────────────────────────
+# ── 4. Emergency Protocols ────────────────────────────────────────────────────
 def gen_emergency_protocols(n=700):
+    """Generate n emergency protocol records by cycling through a fixed set of protocol templates."""
     protocols = [
         "Ambulance on active call: clear all lanes within 200m radius.",
         "Fire truck response: pre-clear route from station to incident location.",
@@ -116,7 +133,7 @@ def gen_emergency_protocols(n=700):
         })
     return records
 
-# ── write all datasets ─────────────────────────────────────────────────────────
+# ── Write All Datasets ────────────────────────────────────────────────────────
 def main():
     out = Path("data/raw")
     out.mkdir(parents=True, exist_ok=True)
